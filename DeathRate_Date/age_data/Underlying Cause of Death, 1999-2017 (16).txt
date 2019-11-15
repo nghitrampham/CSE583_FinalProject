@@ -1,0 +1,2340 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"< 1 year"	"1"	11	1247	Unreliable
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"15-24 years"	"15-24"	27	11204	241.0
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"25-34 years"	"25-34"	24	8183	293.3
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"35-44 years"	"35-44"	45	9607	468.4
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"45-54 years"	"45-54"	34	7468	455.3
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"55-64 years"	"55-64"	55	5266	1044.4
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"65-74 years"	"65-74"	88	3378	2605.1
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"75-84 years"	"75-84"	82	1558	5263.2
+	"Apache County, AZ"	"04001"	"1999"	"1999"	"85+ years"	"85+"	76	612	12418.3
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"< 1 year"	"1"	18	1232	Unreliable
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"15-24 years"	"15-24"	24	11159	215.1
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"25-34 years"	"25-34"	30	7964	376.7
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"35-44 years"	"35-44"	43	9468	454.2
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"45-54 years"	"45-54"	32	7614	420.3
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"55-64 years"	"55-64"	60	5346	1122.3
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"65-74 years"	"65-74"	96	3478	2760.2
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"75-84 years"	"75-84"	82	1635	5015.3
+	"Apache County, AZ"	"04001"	"2000"	"2000"	"85+ years"	"85+"	76	628	12101.9
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"< 1 year"	"1"	11	1101	Unreliable
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"5-14 years"	"5-14"	12	14919	Unreliable
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"15-24 years"	"15-24"	29	11109	261.0
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"25-34 years"	"25-34"	25	7575	330.0
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"35-44 years"	"35-44"	43	9210	466.9
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"45-54 years"	"45-54"	46	7859	585.3
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"55-64 years"	"55-64"	62	5453	1137.0
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"65-74 years"	"65-74"	96	3659	2623.7
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"75-84 years"	"75-84"	97	1653	5868.1
+	"Apache County, AZ"	"04001"	"2001"	"2001"	"85+ years"	"85+"	85	605	14049.6
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"5-14 years"	"5-14"	10	14288	Unreliable
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"15-24 years"	"15-24"	29	11160	259.9
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"25-34 years"	"25-34"	27	7358	366.9
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"35-44 years"	"35-44"	47	9101	516.4
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"45-54 years"	"45-54"	44	8006	549.6
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"55-64 years"	"55-64"	56	5588	1002.1
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"65-74 years"	"65-74"	77	3827	2012.0
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"75-84 years"	"75-84"	76	1722	4413.5
+	"Apache County, AZ"	"04001"	"2002"	"2002"	"85+ years"	"85+"	92	579	15889.5
+	"Apache County, AZ"	"04001"	"2003"	"2003"	"15-24 years"	"15-24"	33	11564	285.4
+	"Apache County, AZ"	"04001"	"2003"	"2003"	"25-34 years"	"25-34"	20	7361	271.7
+	"Apache County, AZ"	"04001"	"2003"	"2003"	"35-44 years"	"35-44"	32	9021	354.7
+	"Apache County, AZ"	"04001"	"2003"	"2003"	"45-54 years"	"45-54"	53	8269	640.9
+	"Apache County, AZ"	"04001"	"2003"	"2003"	"55-64 years"	"55-64"	59	5830	1012.0
+	"Apache County, AZ"	"04001"	"2003"	"2003"	"65-74 years"	"65-74"	75	4040	1856.4
+	"Apache County, AZ"	"04001"	"2003"	"2003"	"75-84 years"	"75-84"	108	1775	6084.5
+	"Apache County, AZ"	"04001"	"2003"	"2003"	"85+ years"	"85+"	91	588	15476.2
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"< 1 year"	"1"	12	1211	Unreliable
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"15-24 years"	"15-24"	26	11566	224.8
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"25-34 years"	"25-34"	22	7246	303.6
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"35-44 years"	"35-44"	40	8899	449.5
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"45-54 years"	"45-54"	50	8614	580.5
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"55-64 years"	"55-64"	61	6057	1007.1
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"65-74 years"	"65-74"	87	4167	2087.8
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"75-84 years"	"75-84"	121	1850	6540.5
+	"Apache County, AZ"	"04001"	"2004"	"2004"	"85+ years"	"85+"	89	590	15084.7
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"< 1 year"	"1"	14	1192	Unreliable
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"15-24 years"	"15-24"	20	11617	172.2
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"25-34 years"	"25-34"	32	7193	444.9
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"35-44 years"	"35-44"	41	8613	476.0
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"45-54 years"	"45-54"	51	8796	579.8
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"55-64 years"	"55-64"	64	6509	983.3
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"65-74 years"	"65-74"	85	4355	1951.8
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"75-84 years"	"75-84"	104	2009	5176.7
+	"Apache County, AZ"	"04001"	"2005"	"2005"	"85+ years"	"85+"	100	594	16835.0
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"15-24 years"	"15-24"	27	11768	229.4
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"25-34 years"	"25-34"	26	7235	359.4
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"35-44 years"	"35-44"	54	8636	625.3
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"45-54 years"	"45-54"	57	9126	624.6
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"55-64 years"	"55-64"	66	6877	959.7
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"65-74 years"	"65-74"	85	4427	1920.0
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"75-84 years"	"75-84"	100	2037	4909.2
+	"Apache County, AZ"	"04001"	"2006"	"2006"	"85+ years"	"85+"	107	594	18013.5
+	"Apache County, AZ"	"04001"	"2007"	"2007"	"15-24 years"	"15-24"	27	11679	231.2
+	"Apache County, AZ"	"04001"	"2007"	"2007"	"25-34 years"	"25-34"	24	7195	333.6
+	"Apache County, AZ"	"04001"	"2007"	"2007"	"35-44 years"	"35-44"	48	8420	570.1
+	"Apache County, AZ"	"04001"	"2007"	"2007"	"45-54 years"	"45-54"	60	9332	642.9
+	"Apache County, AZ"	"04001"	"2007"	"2007"	"55-64 years"	"55-64"	62	7198	861.4
+	"Apache County, AZ"	"04001"	"2007"	"2007"	"65-74 years"	"65-74"	99	4561	2170.6
+	"Apache County, AZ"	"04001"	"2007"	"2007"	"75-84 years"	"75-84"	99	2174	4553.8
+	"Apache County, AZ"	"04001"	"2007"	"2007"	"85+ years"	"85+"	95	648	14660.5
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"< 1 year"	"1"	15	1098	Unreliable
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"15-24 years"	"15-24"	27	11670	231.4
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"25-34 years"	"25-34"	33	7372	447.6
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"35-44 years"	"35-44"	36	8232	437.3
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"45-54 years"	"45-54"	47	9477	495.9
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"55-64 years"	"55-64"	68	7338	926.7
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"65-74 years"	"65-74"	87	4742	1834.7
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"75-84 years"	"75-84"	113	2230	5067.3
+	"Apache County, AZ"	"04001"	"2008"	"2008"	"85+ years"	"85+"	98	659	14871.0
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"< 1 year"	"1"	12	1131	Unreliable
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"15-24 years"	"15-24"	25	11581	215.9
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"25-34 years"	"25-34"	26	7570	343.5
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"35-44 years"	"35-44"	44	8247	533.5
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"45-54 years"	"45-54"	62	9630	643.8
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"55-64 years"	"55-64"	68	7603	894.4
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"65-74 years"	"65-74"	101	4973	2031.0
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"75-84 years"	"75-84"	98	2321	4222.3
+	"Apache County, AZ"	"04001"	"2009"	"2009"	"85+ years"	"85+"	101	722	13988.9
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"15-24 years"	"15-24"	29	11508	252.0
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"25-34 years"	"25-34"	38	7833	485.1
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"35-44 years"	"35-44"	45	8098	555.7
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"45-54 years"	"45-54"	75	9608	780.6
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"55-64 years"	"55-64"	84	7836	1072.0
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"65-74 years"	"65-74"	117	5176	2260.4
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"75-84 years"	"75-84"	115	2324	4948.4
+	"Apache County, AZ"	"04001"	"2010"	"2010"	"85+ years"	"85+"	113	768	14713.5
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"< 1 year"	"1"	10	1099	Unreliable
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"15-24 years"	"15-24"	28	11550	242.4
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"25-34 years"	"25-34"	29	8035	360.9
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"35-44 years"	"35-44"	51	7904	645.2
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"45-54 years"	"45-54"	63	9437	667.6
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"55-64 years"	"55-64"	77	8020	960.1
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"65-74 years"	"65-74"	104	5347	1945.0
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"75-84 years"	"75-84"	115	2504	4592.7
+	"Apache County, AZ"	"04001"	"2011"	"2011"	"85+ years"	"85+"	120	812	14778.3
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"15-24 years"	"15-24"	18	11622	Unreliable
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"25-34 years"	"25-34"	49	8192	598.1
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"35-44 years"	"35-44"	50	8063	620.1
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"45-54 years"	"45-54"	59	9362	630.2
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"55-64 years"	"55-64"	76	8183	928.8
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"65-74 years"	"65-74"	91	5508	1652.1
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"75-84 years"	"75-84"	95	2616	3631.5
+	"Apache County, AZ"	"04001"	"2012"	"2012"	"85+ years"	"85+"	106	850	12470.6
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"< 1 year"	"1"	11	1071	Unreliable
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"15-24 years"	"15-24"	23	11195	205.4
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"25-34 years"	"25-34"	41	8274	495.5
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"35-44 years"	"35-44"	41	7875	520.6
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"45-54 years"	"45-54"	62	9206	673.5
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"55-64 years"	"55-64"	89	8380	1062.1
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"65-74 years"	"65-74"	106	5615	1887.8
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"75-84 years"	"75-84"	141	2796	5042.9
+	"Apache County, AZ"	"04001"	"2013"	"2013"	"85+ years"	"85+"	111	899	12347.1
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"< 1 year"	"1"	13	1004	Unreliable
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"15-24 years"	"15-24"	24	10975	218.7
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"25-34 years"	"25-34"	37	8443	438.2
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"35-44 years"	"35-44"	38	7793	487.6
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"45-54 years"	"45-54"	71	9042	785.2
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"55-64 years"	"55-64"	87	8476	1026.4
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"65-74 years"	"65-74"	110	5798	1897.2
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"75-84 years"	"75-84"	131	2944	4449.7
+	"Apache County, AZ"	"04001"	"2014"	"2014"	"85+ years"	"85+"	117	923	12676.1
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"15-24 years"	"15-24"	18	10721	Unreliable
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"25-34 years"	"25-34"	49	8542	573.6
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"35-44 years"	"35-44"	54	7712	700.2
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"45-54 years"	"45-54"	66	8779	751.8
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"55-64 years"	"55-64"	101	8690	1162.3
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"65-74 years"	"65-74"	125	5966	2095.2
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"75-84 years"	"75-84"	141	3049	4624.5
+	"Apache County, AZ"	"04001"	"2015"	"2015"	"85+ years"	"85+"	125	962	12993.8
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"< 1 year"	"1"	18	1001	Unreliable
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"15-24 years"	"15-24"	25	11062	226.0
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"25-34 years"	"25-34"	37	8890	416.2
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"35-44 years"	"35-44"	40	7826	511.1
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"45-54 years"	"45-54"	82	8831	928.5
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"55-64 years"	"55-64"	82	8961	915.1
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"65-74 years"	"65-74"	120	6245	1921.5
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"75-84 years"	"75-84"	147	3118	4714.6
+	"Apache County, AZ"	"04001"	"2016"	"2016"	"85+ years"	"85+"	120	1031	11639.2
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"< 1 year"	"1"	10	1059	Unreliable
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"15-24 years"	"15-24"	25	10496	238.2
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"25-34 years"	"25-34"	48	9151	524.5
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"35-44 years"	"35-44"	51	7606	670.5
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"45-54 years"	"45-54"	65	8394	774.4
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"55-64 years"	"55-64"	106	9031	1173.7
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"65-74 years"	"65-74"	149	6333	2352.8
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"75-84 years"	"75-84"	150	3264	4595.6
+	"Apache County, AZ"	"04001"	"2017"	"2017"	"85+ years"	"85+"	133	1050	12666.7
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"< 1 year"	"1"	12	1701	Unreliable
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"15-24 years"	"15-24"	10	16219	Unreliable
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"25-34 years"	"25-34"	16	14192	Unreliable
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"35-44 years"	"35-44"	34	16658	204.1
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"45-54 years"	"45-54"	58	14969	387.5
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"55-64 years"	"55-64"	127	12116	1048.2
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"65-74 years"	"65-74"	234	10113	2313.9
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"75-84 years"	"75-84"	322	5551	5800.8
+	"Cochise County, AZ"	"04003"	"1999"	"1999"	"85+ years"	"85+"	198	1452	13636.4
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"< 1 year"	"1"	11	1679	Unreliable
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"15-24 years"	"15-24"	14	16418	Unreliable
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"25-34 years"	"25-34"	12	13981	Unreliable
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"35-44 years"	"35-44"	37	16597	222.9
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"45-54 years"	"45-54"	67	15373	435.8
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"55-64 years"	"55-64"	143	12482	1145.6
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"65-74 years"	"65-74"	241	10187	2365.8
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"75-84 years"	"75-84"	307	5670	5414.5
+	"Cochise County, AZ"	"04003"	"2000"	"2000"	"85+ years"	"85+"	233	1508	15450.9
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"< 1 year"	"1"	12	1669	Unreliable
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"15-24 years"	"15-24"	12	16733	Unreliable
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"25-34 years"	"25-34"	16	13942	Unreliable
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"35-44 years"	"35-44"	39	16294	239.4
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"45-54 years"	"45-54"	65	16041	405.2
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"55-64 years"	"55-64"	127	12835	989.5
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"65-74 years"	"65-74"	267	10439	2557.7
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"75-84 years"	"75-84"	309	5910	5228.4
+	"Cochise County, AZ"	"04003"	"2001"	"2001"	"85+ years"	"85+"	236	1538	15344.6
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"< 1 year"	"1"	13	1702	Unreliable
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"15-24 years"	"15-24"	12	17059	Unreliable
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"25-34 years"	"25-34"	20	13927	143.6
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"35-44 years"	"35-44"	34	15920	213.6
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"45-54 years"	"45-54"	69	16396	420.8
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"55-64 years"	"55-64"	134	13467	995.0
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"65-74 years"	"65-74"	249	10690	2329.3
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"75-84 years"	"75-84"	320	5991	5341.3
+	"Cochise County, AZ"	"04003"	"2002"	"2002"	"85+ years"	"85+"	231	1575	14666.7
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"< 1 year"	"1"	19	1727	Unreliable
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"15-24 years"	"15-24"	18	16956	Unreliable
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"25-34 years"	"25-34"	19	13695	Unreliable
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"35-44 years"	"35-44"	32	15718	203.6
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"45-54 years"	"45-54"	72	16621	433.2
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"55-64 years"	"55-64"	118	14216	830.1
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"65-74 years"	"65-74"	241	11010	2188.9
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"75-84 years"	"75-84"	333	6064	5491.4
+	"Cochise County, AZ"	"04003"	"2003"	"2003"	"85+ years"	"85+"	272	1683	16161.6
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"< 1 year"	"1"	13	1771	Unreliable
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"15-24 years"	"15-24"	12	17705	Unreliable
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"25-34 years"	"25-34"	10	14292	Unreliable
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"35-44 years"	"35-44"	35	15561	224.9
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"45-54 years"	"45-54"	76	16955	448.2
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"55-64 years"	"55-64"	140	14732	950.3
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"65-74 years"	"65-74"	234	11299	2071.0
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"75-84 years"	"75-84"	335	6241	5367.7
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"85+ years"	"85+"	236	1711	13793.1
+	"Cochise County, AZ"	"04003"	"2004"	"2004"	"Not Stated"	"NS"	10	Not Applicable	Not Applicable
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"< 1 year"	"1"	19	1824	Unreliable
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"15-24 years"	"15-24"	15	17904	Unreliable
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"25-34 years"	"25-34"	19	14877	Unreliable
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"35-44 years"	"35-44"	36	15475	232.6
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"45-54 years"	"45-54"	91	17341	524.8
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"55-64 years"	"55-64"	145	15529	933.7
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"65-74 years"	"65-74"	256	11607	2205.6
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"75-84 years"	"75-84"	290	6453	4494.0
+	"Cochise County, AZ"	"04003"	"2005"	"2005"	"85+ years"	"85+"	250	1849	13520.8
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"< 1 year"	"1"	17	1755	Unreliable
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"15-24 years"	"15-24"	19	17856	Unreliable
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"25-34 years"	"25-34"	25	15079	165.8
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"35-44 years"	"35-44"	31	15373	201.7
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"45-54 years"	"45-54"	75	17627	425.5
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"55-64 years"	"55-64"	132	16268	811.4
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"65-74 years"	"65-74"	238	11945	1992.5
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"75-84 years"	"75-84"	329	6642	4953.3
+	"Cochise County, AZ"	"04003"	"2006"	"2006"	"85+ years"	"85+"	280	1932	14492.8
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"< 1 year"	"1"	16	1775	Unreliable
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"15-24 years"	"15-24"	20	17996	111.1
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"25-34 years"	"25-34"	16	15220	Unreliable
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"35-44 years"	"35-44"	25	15139	165.1
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"45-54 years"	"45-54"	89	17764	501.0
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"55-64 years"	"55-64"	135	16735	806.7
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"65-74 years"	"65-74"	225	12318	1826.6
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"75-84 years"	"75-84"	271	6787	3992.9
+	"Cochise County, AZ"	"04003"	"2007"	"2007"	"85+ years"	"85+"	300	2009	14932.8
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"< 1 year"	"1"	11	1789	Unreliable
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"15-24 years"	"15-24"	25	17831	140.2
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"25-34 years"	"25-34"	17	15540	Unreliable
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"35-44 years"	"35-44"	33	14977	220.3
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"45-54 years"	"45-54"	70	17758	394.2
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"55-64 years"	"55-64"	152	16919	898.4
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"65-74 years"	"65-74"	197	12728	1547.8
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"75-84 years"	"75-84"	367	6981	5257.1
+	"Cochise County, AZ"	"04003"	"2008"	"2008"	"85+ years"	"85+"	309	2050	15073.2
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"< 1 year"	"1"	10	1669	Unreliable
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"15-24 years"	"15-24"	14	17629	Unreliable
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"25-34 years"	"25-34"	26	16114	161.4
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"35-44 years"	"35-44"	33	14726	224.1
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"45-54 years"	"45-54"	95	17604	539.7
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"55-64 years"	"55-64"	147	17214	854.0
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"65-74 years"	"65-74"	197	13188	1493.8
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"75-84 years"	"75-84"	313	6909	4530.3
+	"Cochise County, AZ"	"04003"	"2009"	"2009"	"85+ years"	"85+"	283	2203	12846.1
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"< 1 year"	"1"	15	1689	Unreliable
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"25-34 years"	"25-34"	15	16479	Unreliable
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"35-44 years"	"35-44"	39	14688	265.5
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"45-54 years"	"45-54"	88	17582	500.5
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"55-64 years"	"55-64"	169	17546	963.2
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"65-74 years"	"65-74"	237	13290	1783.3
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"75-84 years"	"75-84"	320	7072	4524.9
+	"Cochise County, AZ"	"04003"	"2010"	"2010"	"85+ years"	"85+"	335	2326	14402.4
+	"Cochise County, AZ"	"04003"	"2011"	"2011"	"15-24 years"	"15-24"	10	18041	Unreliable
+	"Cochise County, AZ"	"04003"	"2011"	"2011"	"25-34 years"	"25-34"	18	17006	Unreliable
+	"Cochise County, AZ"	"04003"	"2011"	"2011"	"35-44 years"	"35-44"	25	14405	173.6
+	"Cochise County, AZ"	"04003"	"2011"	"2011"	"45-54 years"	"45-54"	84	17157	489.6
+	"Cochise County, AZ"	"04003"	"2011"	"2011"	"55-64 years"	"55-64"	150	18037	831.6
+	"Cochise County, AZ"	"04003"	"2011"	"2011"	"65-74 years"	"65-74"	224	13680	1637.4
+	"Cochise County, AZ"	"04003"	"2011"	"2011"	"75-84 years"	"75-84"	308	7306	4215.7
+	"Cochise County, AZ"	"04003"	"2011"	"2011"	"85+ years"	"85+"	361	2485	14527.2
+	"Cochise County, AZ"	"04003"	"2012"	"2012"	"15-24 years"	"15-24"	17	18346	Unreliable
+	"Cochise County, AZ"	"04003"	"2012"	"2012"	"25-34 years"	"25-34"	20	16997	117.7
+	"Cochise County, AZ"	"04003"	"2012"	"2012"	"35-44 years"	"35-44"	34	14088	241.3
+	"Cochise County, AZ"	"04003"	"2012"	"2012"	"45-54 years"	"45-54"	74	16489	448.8
+	"Cochise County, AZ"	"04003"	"2012"	"2012"	"55-64 years"	"55-64"	186	17598	1056.9
+	"Cochise County, AZ"	"04003"	"2012"	"2012"	"65-74 years"	"65-74"	245	14061	1742.4
+	"Cochise County, AZ"	"04003"	"2012"	"2012"	"75-84 years"	"75-84"	288	7377	3904.0
+	"Cochise County, AZ"	"04003"	"2012"	"2012"	"85+ years"	"85+"	332	2498	13290.6
+	"Cochise County, AZ"	"04003"	"2013"	"2013"	"< 1 year"	"1"	13	1576	Unreliable
+	"Cochise County, AZ"	"04003"	"2013"	"2013"	"25-34 years"	"25-34"	14	16442	Unreliable
+	"Cochise County, AZ"	"04003"	"2013"	"2013"	"35-44 years"	"35-44"	25	13833	180.7
+	"Cochise County, AZ"	"04003"	"2013"	"2013"	"45-54 years"	"45-54"	75	15787	475.1
+	"Cochise County, AZ"	"04003"	"2013"	"2013"	"55-64 years"	"55-64"	192	17247	1113.2
+	"Cochise County, AZ"	"04003"	"2013"	"2013"	"65-74 years"	"65-74"	253	14444	1751.6
+	"Cochise County, AZ"	"04003"	"2013"	"2013"	"75-84 years"	"75-84"	342	7679	4453.7
+	"Cochise County, AZ"	"04003"	"2013"	"2013"	"85+ years"	"85+"	346	2564	13494.5
+	"Cochise County, AZ"	"04003"	"2014"	"2014"	"15-24 years"	"15-24"	15	15882	Unreliable
+	"Cochise County, AZ"	"04003"	"2014"	"2014"	"25-34 years"	"25-34"	22	16336	134.7
+	"Cochise County, AZ"	"04003"	"2014"	"2014"	"35-44 years"	"35-44"	27	13503	200.0
+	"Cochise County, AZ"	"04003"	"2014"	"2014"	"45-54 years"	"45-54"	66	15250	432.8
+	"Cochise County, AZ"	"04003"	"2014"	"2014"	"55-64 years"	"55-64"	165	17165	961.3
+	"Cochise County, AZ"	"04003"	"2014"	"2014"	"65-74 years"	"65-74"	266	14761	1802.0
+	"Cochise County, AZ"	"04003"	"2014"	"2014"	"75-84 years"	"75-84"	336	7961	4220.6
+	"Cochise County, AZ"	"04003"	"2014"	"2014"	"85+ years"	"85+"	300	2669	11240.2
+	"Cochise County, AZ"	"04003"	"2015"	"2015"	"< 1 year"	"1"	12	1529	Unreliable
+	"Cochise County, AZ"	"04003"	"2015"	"2015"	"25-34 years"	"25-34"	23	16094	142.9
+	"Cochise County, AZ"	"04003"	"2015"	"2015"	"35-44 years"	"35-44"	27	13485	200.2
+	"Cochise County, AZ"	"04003"	"2015"	"2015"	"45-54 years"	"45-54"	79	14639	539.7
+	"Cochise County, AZ"	"04003"	"2015"	"2015"	"55-64 years"	"55-64"	168	17020	987.1
+	"Cochise County, AZ"	"04003"	"2015"	"2015"	"65-74 years"	"65-74"	280	15118	1852.1
+	"Cochise County, AZ"	"04003"	"2015"	"2015"	"75-84 years"	"75-84"	351	8203	4278.9
+	"Cochise County, AZ"	"04003"	"2015"	"2015"	"85+ years"	"85+"	357	2804	12731.8
+	"Cochise County, AZ"	"04003"	"2016"	"2016"	"15-24 years"	"15-24"	13	15485	Unreliable
+	"Cochise County, AZ"	"04003"	"2016"	"2016"	"25-34 years"	"25-34"	20	15776	126.8
+	"Cochise County, AZ"	"04003"	"2016"	"2016"	"35-44 years"	"35-44"	32	13562	236.0
+	"Cochise County, AZ"	"04003"	"2016"	"2016"	"45-54 years"	"45-54"	69	14225	485.1
+	"Cochise County, AZ"	"04003"	"2016"	"2016"	"55-64 years"	"55-64"	147	16902	869.7
+	"Cochise County, AZ"	"04003"	"2016"	"2016"	"65-74 years"	"65-74"	297	15385	1930.5
+	"Cochise County, AZ"	"04003"	"2016"	"2016"	"75-84 years"	"75-84"	365	8446	4321.6
+	"Cochise County, AZ"	"04003"	"2016"	"2016"	"85+ years"	"85+"	395	2930	13481.2
+	"Cochise County, AZ"	"04003"	"2017"	"2017"	"25-34 years"	"25-34"	27	15442	174.8
+	"Cochise County, AZ"	"04003"	"2017"	"2017"	"35-44 years"	"35-44"	25	13638	183.3
+	"Cochise County, AZ"	"04003"	"2017"	"2017"	"45-54 years"	"45-54"	76	13698	554.8
+	"Cochise County, AZ"	"04003"	"2017"	"2017"	"55-64 years"	"55-64"	168	16816	999.0
+	"Cochise County, AZ"	"04003"	"2017"	"2017"	"65-74 years"	"65-74"	285	15842	1799.0
+	"Cochise County, AZ"	"04003"	"2017"	"2017"	"75-84 years"	"75-84"	373	8651	4311.6
+	"Cochise County, AZ"	"04003"	"2017"	"2017"	"85+ years"	"85+"	376	2901	12961.0
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"15-24 years"	"15-24"	19	22515	Unreliable
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"25-34 years"	"25-34"	14	16446	Unreliable
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"35-44 years"	"35-44"	43	17747	242.3
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"45-54 years"	"45-54"	64	14983	427.2
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"55-64 years"	"55-64"	59	8175	721.7
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"65-74 years"	"65-74"	83	4902	1693.2
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"75-84 years"	"75-84"	128	2339	5472.4
+	"Coconino County, AZ"	"04005"	"1999"	"1999"	"85+ years"	"85+"	79	677	11669.1
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"< 1 year"	"1"	16	1635	Unreliable
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"15-24 years"	"15-24"	22	22700	96.9
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"25-34 years"	"25-34"	22	16280	135.1
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"35-44 years"	"35-44"	35	17637	198.4
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"45-54 years"	"45-54"	62	15591	397.7
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"55-64 years"	"55-64"	60	8438	711.1
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"65-74 years"	"65-74"	80	5015	1595.2
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"75-84 years"	"75-84"	105	2434	4313.9
+	"Coconino County, AZ"	"04005"	"2000"	"2000"	"85+ years"	"85+"	92	694	13256.5
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	"15-24 years"	"15-24"	22	24611	89.4
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	"25-34 years"	"25-34"	18	15887	Unreliable
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	"35-44 years"	"35-44"	38	17118	222.0
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	"45-54 years"	"45-54"	61	16285	374.6
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	"55-64 years"	"55-64"	75	8963	836.8
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	"65-74 years"	"65-74"	102	5238	1947.3
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	"75-84 years"	"75-84"	115	2595	4431.6
+	"Coconino County, AZ"	"04005"	"2001"	"2001"	"85+ years"	"85+"	114	733	15552.5
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"< 1 year"	"1"	13	1833	Unreliable
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"15-24 years"	"15-24"	11	26128	Unreliable
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"25-34 years"	"25-34"	26	15985	162.7
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"35-44 years"	"35-44"	50	17047	293.3
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"45-54 years"	"45-54"	68	16616	409.2
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"55-64 years"	"55-64"	75	9744	769.7
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"65-74 years"	"65-74"	93	5428	1713.3
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"75-84 years"	"75-84"	141	2691	5239.7
+	"Coconino County, AZ"	"04005"	"2002"	"2002"	"85+ years"	"85+"	107	775	13806.5
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"< 1 year"	"1"	12	1785	Unreliable
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"15-24 years"	"15-24"	20	27104	73.8
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"25-34 years"	"25-34"	23	15902	144.6
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"35-44 years"	"35-44"	36	16709	215.5
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"45-54 years"	"45-54"	81	17081	474.2
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"55-64 years"	"55-64"	95	10406	912.9
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"65-74 years"	"65-74"	106	5600	1892.9
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"75-84 years"	"75-84"	141	2770	5090.3
+	"Coconino County, AZ"	"04005"	"2003"	"2003"	"85+ years"	"85+"	108	796	13567.8
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"< 1 year"	"1"	14	1834	Unreliable
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"15-24 years"	"15-24"	21	27840	75.4
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"25-34 years"	"25-34"	24	16115	148.9
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"35-44 years"	"35-44"	42	16533	254.0
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"45-54 years"	"45-54"	78	17501	445.7
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"55-64 years"	"55-64"	86	11070	776.9
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"65-74 years"	"65-74"	88	5840	1506.8
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"75-84 years"	"75-84"	135	2815	4795.7
+	"Coconino County, AZ"	"04005"	"2004"	"2004"	"85+ years"	"85+"	111	850	13058.8
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"< 1 year"	"1"	14	2000	Unreliable
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"15-24 years"	"15-24"	33	28399	116.2
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"25-34 years"	"25-34"	15	16320	Unreliable
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"35-44 years"	"35-44"	39	16241	240.1
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"45-54 years"	"45-54"	80	17908	446.7
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"55-64 years"	"55-64"	84	11925	704.4
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"65-74 years"	"65-74"	105	6116	1716.8
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"75-84 years"	"75-84"	148	2934	5044.3
+	"Coconino County, AZ"	"04005"	"2005"	"2005"	"85+ years"	"85+"	126	892	14125.6
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"< 1 year"	"1"	10	1899	Unreliable
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"15-24 years"	"15-24"	27	28653	94.2
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"25-34 years"	"25-34"	30	16721	179.4
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"35-44 years"	"35-44"	37	16120	229.5
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"45-54 years"	"45-54"	68	18122	375.2
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"55-64 years"	"55-64"	92	12524	734.6
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"65-74 years"	"65-74"	96	6282	1528.2
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"75-84 years"	"75-84"	141	3001	4698.4
+	"Coconino County, AZ"	"04005"	"2006"	"2006"	"85+ years"	"85+"	135	951	14195.6
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"< 1 year"	"1"	14	1955	Unreliable
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"15-24 years"	"15-24"	32	28862	110.9
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"25-34 years"	"25-34"	21	17081	122.9
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"35-44 years"	"35-44"	50	16025	312.0
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"45-54 years"	"45-54"	61	18245	334.3
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"55-64 years"	"55-64"	77	13315	578.3
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"65-74 years"	"65-74"	84	6600	1272.7
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"75-84 years"	"75-84"	130	3121	4165.3
+	"Coconino County, AZ"	"04005"	"2007"	"2007"	"85+ years"	"85+"	157	1001	15684.3
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"< 1 year"	"1"	10	1930	Unreliable
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"15-24 years"	"15-24"	19	29197	Unreliable
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"25-34 years"	"25-34"	23	17243	133.4
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"35-44 years"	"35-44"	38	15826	240.1
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"45-54 years"	"45-54"	70	18153	385.6
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"55-64 years"	"55-64"	120	14096	851.3
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"65-74 years"	"65-74"	109	6916	1576.1
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"75-84 years"	"75-84"	153	3180	4811.3
+	"Coconino County, AZ"	"04005"	"2008"	"2008"	"85+ years"	"85+"	164	1043	15723.9
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"15-24 years"	"15-24"	32	29403	108.8
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"25-34 years"	"25-34"	38	17768	213.9
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"35-44 years"	"35-44"	33	15661	210.7
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"45-54 years"	"45-54"	79	18086	436.8
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"55-64 years"	"55-64"	111	14785	750.8
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"65-74 years"	"65-74"	116	7212	1608.4
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"75-84 years"	"75-84"	150	3317	4522.2
+	"Coconino County, AZ"	"04005"	"2009"	"2009"	"85+ years"	"85+"	137	1047	13085.0
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"< 1 year"	"1"	15	1732	Unreliable
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"15-24 years"	"15-24"	19	29249	Unreliable
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"25-34 years"	"25-34"	24	18129	132.4
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"35-44 years"	"35-44"	38	15499	245.2
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"45-54 years"	"45-54"	86	17953	479.0
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"55-64 years"	"55-64"	90	15360	585.9
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"65-74 years"	"65-74"	104	7447	1396.5
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"75-84 years"	"75-84"	135	3385	3988.2
+	"Coconino County, AZ"	"04005"	"2010"	"2010"	"85+ years"	"85+"	163	1092	14926.7
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"15-24 years"	"15-24"	35	30520	114.7
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"25-34 years"	"25-34"	30	17812	168.4
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"35-44 years"	"35-44"	41	14983	273.6
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"45-54 years"	"45-54"	75	17137	437.6
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"55-64 years"	"55-64"	123	15640	786.4
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"65-74 years"	"65-74"	113	7922	1426.4
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"75-84 years"	"75-84"	137	3470	3948.1
+	"Coconino County, AZ"	"04005"	"2011"	"2011"	"85+ years"	"85+"	165	1160	14224.1
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"< 1 year"	"1"	10	1754	Unreliable
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"15-24 years"	"15-24"	18	31445	Unreliable
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"25-34 years"	"25-34"	34	18058	188.3
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"35-44 years"	"35-44"	50	15094	331.3
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"45-54 years"	"45-54"	72	16713	430.8
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"55-64 years"	"55-64"	98	15833	619.0
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"65-74 years"	"65-74"	115	8376	1373.0
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"75-84 years"	"75-84"	171	3616	4729.0
+	"Coconino County, AZ"	"04005"	"2012"	"2012"	"85+ years"	"85+"	160	1247	12830.8
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"< 1 year"	"1"	12	1744	Unreliable
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"15-24 years"	"15-24"	16	31769	Unreliable
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"25-34 years"	"25-34"	31	18127	171.0
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"35-44 years"	"35-44"	37	14945	247.6
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"45-54 years"	"45-54"	73	16094	453.6
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"55-64 years"	"55-64"	112	16164	692.9
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"65-74 years"	"65-74"	114	8954	1273.2
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"75-84 years"	"75-84"	144	3742	3848.2
+	"Coconino County, AZ"	"04005"	"2013"	"2013"	"85+ years"	"85+"	159	1335	11910.1
+	"Coconino County, AZ"	"04005"	"2014"	"2014"	"15-24 years"	"15-24"	21	32046	65.5
+	"Coconino County, AZ"	"04005"	"2014"	"2014"	"25-34 years"	"25-34"	36	18463	195.0
+	"Coconino County, AZ"	"04005"	"2014"	"2014"	"35-44 years"	"35-44"	32	14863	215.3
+	"Coconino County, AZ"	"04005"	"2014"	"2014"	"45-54 years"	"45-54"	59	15638	377.3
+	"Coconino County, AZ"	"04005"	"2014"	"2014"	"55-64 years"	"55-64"	129	16306	791.1
+	"Coconino County, AZ"	"04005"	"2014"	"2014"	"65-74 years"	"65-74"	122	9687	1259.4
+	"Coconino County, AZ"	"04005"	"2014"	"2014"	"75-84 years"	"75-84"	150	4023	3728.6
+	"Coconino County, AZ"	"04005"	"2014"	"2014"	"85+ years"	"85+"	177	1542	11478.6
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"< 1 year"	"1"	10	1663	Unreliable
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"15-24 years"	"15-24"	24	32799	73.2
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"25-34 years"	"25-34"	37	18869	196.1
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"35-44 years"	"35-44"	39	14906	261.6
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"45-54 years"	"45-54"	78	15242	511.7
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"55-64 years"	"55-64"	149	16456	905.4
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"65-74 years"	"65-74"	149	10157	1467.0
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"75-84 years"	"75-84"	137	4236	3234.2
+	"Coconino County, AZ"	"04005"	"2015"	"2015"	"85+ years"	"85+"	180	1537	11711.1
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"< 1 year"	"1"	10	1686	Unreliable
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"15-24 years"	"15-24"	25	33264	75.2
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"25-34 years"	"25-34"	39	19229	202.8
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"35-44 years"	"35-44"	42	15111	277.9
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"45-54 years"	"45-54"	83	14977	554.2
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"55-64 years"	"55-64"	132	16716	789.7
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"65-74 years"	"65-74"	167	10708	1559.6
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"75-84 years"	"75-84"	171	4458	3835.8
+	"Coconino County, AZ"	"04005"	"2016"	"2016"	"85+ years"	"85+"	178	1642	10840.4
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"15-24 years"	"15-24"	21	32993	63.6
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"25-34 years"	"25-34"	47	19809	237.3
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"35-44 years"	"35-44"	55	15367	357.9
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"45-54 years"	"45-54"	82	14670	559.0
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"55-64 years"	"55-64"	102	16479	619.0
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"65-74 years"	"65-74"	171	10924	1565.4
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"75-84 years"	"75-84"	194	4585	4231.2
+	"Coconino County, AZ"	"04005"	"2017"	"2017"	"85+ years"	"85+"	192	1492	12868.6
+	"Gila County, AZ"	"04007"	"1999"	"1999"	"15-24 years"	"15-24"	13	5496	Unreliable
+	"Gila County, AZ"	"04007"	"1999"	"1999"	"35-44 years"	"35-44"	26	6779	383.5
+	"Gila County, AZ"	"04007"	"1999"	"1999"	"45-54 years"	"45-54"	38	6888	551.7
+	"Gila County, AZ"	"04007"	"1999"	"1999"	"55-64 years"	"55-64"	69	6407	1076.9
+	"Gila County, AZ"	"04007"	"1999"	"1999"	"65-74 years"	"65-74"	150	5712	2626.1
+	"Gila County, AZ"	"04007"	"1999"	"1999"	"75-84 years"	"75-84"	194	3365	5765.2
+	"Gila County, AZ"	"04007"	"1999"	"1999"	"85+ years"	"85+"	128	930	13763.4
+	"Gila County, AZ"	"04007"	"2000"	"2000"	"25-34 years"	"25-34"	20	4726	423.2
+	"Gila County, AZ"	"04007"	"2000"	"2000"	"35-44 years"	"35-44"	24	6704	358.0
+	"Gila County, AZ"	"04007"	"2000"	"2000"	"45-54 years"	"45-54"	40	7051	567.3
+	"Gila County, AZ"	"04007"	"2000"	"2000"	"55-64 years"	"55-64"	68	6525	1042.1
+	"Gila County, AZ"	"04007"	"2000"	"2000"	"65-74 years"	"65-74"	114	5748	1983.3
+	"Gila County, AZ"	"04007"	"2000"	"2000"	"75-84 years"	"75-84"	163	3426	4757.7
+	"Gila County, AZ"	"04007"	"2000"	"2000"	"85+ years"	"85+"	139	985	14111.7
+	"Gila County, AZ"	"04007"	"2001"	"2001"	"15-24 years"	"15-24"	12	5647	Unreliable
+	"Gila County, AZ"	"04007"	"2001"	"2001"	"35-44 years"	"35-44"	22	6569	334.9
+	"Gila County, AZ"	"04007"	"2001"	"2001"	"45-54 years"	"45-54"	44	7187	612.2
+	"Gila County, AZ"	"04007"	"2001"	"2001"	"55-64 years"	"55-64"	62	6736	920.4
+	"Gila County, AZ"	"04007"	"2001"	"2001"	"65-74 years"	"65-74"	126	5862	2149.4
+	"Gila County, AZ"	"04007"	"2001"	"2001"	"75-84 years"	"75-84"	185	3471	5329.9
+	"Gila County, AZ"	"04007"	"2001"	"2001"	"85+ years"	"85+"	173	1009	17145.7
+	"Gila County, AZ"	"04007"	"2002"	"2002"	"35-44 years"	"35-44"	27	6345	425.5
+	"Gila County, AZ"	"04007"	"2002"	"2002"	"45-54 years"	"45-54"	50	7234	691.2
+	"Gila County, AZ"	"04007"	"2002"	"2002"	"55-64 years"	"55-64"	67	7183	932.8
+	"Gila County, AZ"	"04007"	"2002"	"2002"	"65-74 years"	"65-74"	144	5941	2423.8
+	"Gila County, AZ"	"04007"	"2002"	"2002"	"75-84 years"	"75-84"	176	3579	4917.6
+	"Gila County, AZ"	"04007"	"2002"	"2002"	"85+ years"	"85+"	164	1011	16221.6
+	"Gila County, AZ"	"04007"	"2003"	"2003"	"15-24 years"	"15-24"	10	5813	Unreliable
+	"Gila County, AZ"	"04007"	"2003"	"2003"	"25-34 years"	"25-34"	10	4238	Unreliable
+	"Gila County, AZ"	"04007"	"2003"	"2003"	"35-44 years"	"35-44"	28	6090	459.8
+	"Gila County, AZ"	"04007"	"2003"	"2003"	"45-54 years"	"45-54"	38	7223	526.1
+	"Gila County, AZ"	"04007"	"2003"	"2003"	"55-64 years"	"55-64"	69	7432	928.4
+	"Gila County, AZ"	"04007"	"2003"	"2003"	"65-74 years"	"65-74"	137	5990	2287.1
+	"Gila County, AZ"	"04007"	"2003"	"2003"	"75-84 years"	"75-84"	170	3636	4675.5
+	"Gila County, AZ"	"04007"	"2003"	"2003"	"85+ years"	"85+"	168	1037	16200.6
+	"Gila County, AZ"	"04007"	"2004"	"2004"	"15-24 years"	"15-24"	10	5910	Unreliable
+	"Gila County, AZ"	"04007"	"2004"	"2004"	"25-34 years"	"25-34"	11	4124	Unreliable
+	"Gila County, AZ"	"04007"	"2004"	"2004"	"35-44 years"	"35-44"	22	5859	375.5
+	"Gila County, AZ"	"04007"	"2004"	"2004"	"45-54 years"	"45-54"	54	7237	746.2
+	"Gila County, AZ"	"04007"	"2004"	"2004"	"55-64 years"	"55-64"	80	7789	1027.1
+	"Gila County, AZ"	"04007"	"2004"	"2004"	"65-74 years"	"65-74"	130	6080	2138.2
+	"Gila County, AZ"	"04007"	"2004"	"2004"	"75-84 years"	"75-84"	198	3635	5447.0
+	"Gila County, AZ"	"04007"	"2004"	"2004"	"85+ years"	"85+"	134	1033	12971.9
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"15-24 years"	"15-24"	11	5977	Unreliable
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"25-34 years"	"25-34"	14	4069	Unreliable
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"35-44 years"	"35-44"	29	5707	508.1
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"45-54 years"	"45-54"	62	7302	849.1
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"55-64 years"	"55-64"	80	8124	984.7
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"65-74 years"	"65-74"	140	6268	2233.6
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"75-84 years"	"75-84"	180	3620	4972.4
+	"Gila County, AZ"	"04007"	"2005"	"2005"	"85+ years"	"85+"	169	1055	16019.0
+	"Gila County, AZ"	"04007"	"2006"	"2006"	"25-34 years"	"25-34"	11	4139	Unreliable
+	"Gila County, AZ"	"04007"	"2006"	"2006"	"35-44 years"	"35-44"	20	5548	360.5
+	"Gila County, AZ"	"04007"	"2006"	"2006"	"45-54 years"	"45-54"	48	7581	633.2
+	"Gila County, AZ"	"04007"	"2006"	"2006"	"55-64 years"	"55-64"	73	8398	869.3
+	"Gila County, AZ"	"04007"	"2006"	"2006"	"65-74 years"	"65-74"	120	6522	1839.9
+	"Gila County, AZ"	"04007"	"2006"	"2006"	"75-84 years"	"75-84"	187	3736	5005.4
+	"Gila County, AZ"	"04007"	"2006"	"2006"	"85+ years"	"85+"	158	1077	14670.4
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"< 1 year"	"1"	11	673	Unreliable
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"15-24 years"	"15-24"	13	5977	Unreliable
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"25-34 years"	"25-34"	14	4235	Unreliable
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"35-44 years"	"35-44"	11	5511	Unreliable
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"45-54 years"	"45-54"	35	7719	453.4
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"55-64 years"	"55-64"	62	8533	726.6
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"65-74 years"	"65-74"	138	6759	2041.7
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"75-84 years"	"75-84"	206	3837	5368.8
+	"Gila County, AZ"	"04007"	"2007"	"2007"	"85+ years"	"85+"	175	1090	16055.0
+	"Gila County, AZ"	"04007"	"2008"	"2008"	"15-24 years"	"15-24"	12	5990	Unreliable
+	"Gila County, AZ"	"04007"	"2008"	"2008"	"25-34 years"	"25-34"	11	4260	Unreliable
+	"Gila County, AZ"	"04007"	"2008"	"2008"	"35-44 years"	"35-44"	22	5471	402.1
+	"Gila County, AZ"	"04007"	"2008"	"2008"	"45-54 years"	"45-54"	52	7694	675.9
+	"Gila County, AZ"	"04007"	"2008"	"2008"	"55-64 years"	"55-64"	90	8621	1044.0
+	"Gila County, AZ"	"04007"	"2008"	"2008"	"65-74 years"	"65-74"	162	6936	2335.6
+	"Gila County, AZ"	"04007"	"2008"	"2008"	"75-84 years"	"75-84"	171	3909	4374.5
+	"Gila County, AZ"	"04007"	"2008"	"2008"	"85+ years"	"85+"	195	1068	18258.4
+	"Gila County, AZ"	"04007"	"2009"	"2009"	"15-24 years"	"15-24"	11	5985	Unreliable
+	"Gila County, AZ"	"04007"	"2009"	"2009"	"25-34 years"	"25-34"	10	4417	Unreliable
+	"Gila County, AZ"	"04007"	"2009"	"2009"	"35-44 years"	"35-44"	18	5286	Unreliable
+	"Gila County, AZ"	"04007"	"2009"	"2009"	"45-54 years"	"45-54"	34	7559	449.8
+	"Gila County, AZ"	"04007"	"2009"	"2009"	"55-64 years"	"55-64"	84	8657	970.3
+	"Gila County, AZ"	"04007"	"2009"	"2009"	"65-74 years"	"65-74"	136	7182	1893.6
+	"Gila County, AZ"	"04007"	"2009"	"2009"	"75-84 years"	"75-84"	181	3906	4633.9
+	"Gila County, AZ"	"04007"	"2009"	"2009"	"85+ years"	"85+"	161	1124	14323.8
+	"Gila County, AZ"	"04007"	"2010"	"2010"	"25-34 years"	"25-34"	11	4501	Unreliable
+	"Gila County, AZ"	"04007"	"2010"	"2010"	"35-44 years"	"35-44"	12	5156	Unreliable
+	"Gila County, AZ"	"04007"	"2010"	"2010"	"45-54 years"	"45-54"	38	7517	505.5
+	"Gila County, AZ"	"04007"	"2010"	"2010"	"55-64 years"	"55-64"	87	8733	996.2
+	"Gila County, AZ"	"04007"	"2010"	"2010"	"65-74 years"	"65-74"	133	7255	1833.2
+	"Gila County, AZ"	"04007"	"2010"	"2010"	"75-84 years"	"75-84"	208	4004	5194.8
+	"Gila County, AZ"	"04007"	"2010"	"2010"	"85+ years"	"85+"	160	1191	13434.1
+	"Gila County, AZ"	"04007"	"2011"	"2011"	"25-34 years"	"25-34"	12	4610	Unreliable
+	"Gila County, AZ"	"04007"	"2011"	"2011"	"35-44 years"	"35-44"	25	4866	513.8
+	"Gila County, AZ"	"04007"	"2011"	"2011"	"45-54 years"	"45-54"	55	7184	765.6
+	"Gila County, AZ"	"04007"	"2011"	"2011"	"55-64 years"	"55-64"	101	8834	1143.3
+	"Gila County, AZ"	"04007"	"2011"	"2011"	"65-74 years"	"65-74"	136	7240	1878.5
+	"Gila County, AZ"	"04007"	"2011"	"2011"	"75-84 years"	"75-84"	181	3955	4576.5
+	"Gila County, AZ"	"04007"	"2011"	"2011"	"85+ years"	"85+"	165	1175	14042.6
+	"Gila County, AZ"	"04007"	"2012"	"2012"	"25-34 years"	"25-34"	11	4654	Unreliable
+	"Gila County, AZ"	"04007"	"2012"	"2012"	"35-44 years"	"35-44"	14	4717	Unreliable
+	"Gila County, AZ"	"04007"	"2012"	"2012"	"45-54 years"	"45-54"	33	6872	480.2
+	"Gila County, AZ"	"04007"	"2012"	"2012"	"55-64 years"	"55-64"	98	8685	1128.4
+	"Gila County, AZ"	"04007"	"2012"	"2012"	"65-74 years"	"65-74"	150	7857	1909.1
+	"Gila County, AZ"	"04007"	"2012"	"2012"	"75-84 years"	"75-84"	162	4094	3957.0
+	"Gila County, AZ"	"04007"	"2012"	"2012"	"85+ years"	"85+"	171	1265	13517.8
+	"Gila County, AZ"	"04007"	"2013"	"2013"	"25-34 years"	"25-34"	14	4818	Unreliable
+	"Gila County, AZ"	"04007"	"2013"	"2013"	"35-44 years"	"35-44"	21	4621	454.4
+	"Gila County, AZ"	"04007"	"2013"	"2013"	"45-54 years"	"45-54"	50	6638	753.2
+	"Gila County, AZ"	"04007"	"2013"	"2013"	"55-64 years"	"55-64"	81	8597	942.2
+	"Gila County, AZ"	"04007"	"2013"	"2013"	"65-74 years"	"65-74"	149	8158	1826.4
+	"Gila County, AZ"	"04007"	"2013"	"2013"	"75-84 years"	"75-84"	180	4190	4295.9
+	"Gila County, AZ"	"04007"	"2013"	"2013"	"85+ years"	"85+"	187	1335	14007.5
+	"Gila County, AZ"	"04007"	"2014"	"2014"	"25-34 years"	"25-34"	12	4925	Unreliable
+	"Gila County, AZ"	"04007"	"2014"	"2014"	"35-44 years"	"35-44"	18	4519	Unreliable
+	"Gila County, AZ"	"04007"	"2014"	"2014"	"45-54 years"	"45-54"	56	6381	877.6
+	"Gila County, AZ"	"04007"	"2014"	"2014"	"55-64 years"	"55-64"	100	8486	1178.4
+	"Gila County, AZ"	"04007"	"2014"	"2014"	"65-74 years"	"65-74"	175	8435	2074.7
+	"Gila County, AZ"	"04007"	"2014"	"2014"	"75-84 years"	"75-84"	175	4358	4015.6
+	"Gila County, AZ"	"04007"	"2014"	"2014"	"85+ years"	"85+"	193	1354	14254.1
+	"Gila County, AZ"	"04007"	"2015"	"2015"	"15-24 years"	"15-24"	12	5449	Unreliable
+	"Gila County, AZ"	"04007"	"2015"	"2015"	"25-34 years"	"25-34"	16	5036	Unreliable
+	"Gila County, AZ"	"04007"	"2015"	"2015"	"35-44 years"	"35-44"	20	4418	452.7
+	"Gila County, AZ"	"04007"	"2015"	"2015"	"45-54 years"	"45-54"	55	6150	894.3
+	"Gila County, AZ"	"04007"	"2015"	"2015"	"55-64 years"	"55-64"	109	8427	1293.5
+	"Gila County, AZ"	"04007"	"2015"	"2015"	"65-74 years"	"65-74"	174	8666	2007.8
+	"Gila County, AZ"	"04007"	"2015"	"2015"	"75-84 years"	"75-84"	215	4513	4764.0
+	"Gila County, AZ"	"04007"	"2015"	"2015"	"85+ years"	"85+"	205	1430	14335.7
+	"Gila County, AZ"	"04007"	"2016"	"2016"	"15-24 years"	"15-24"	10	5391	Unreliable
+	"Gila County, AZ"	"04007"	"2016"	"2016"	"25-34 years"	"25-34"	23	5176	444.4
+	"Gila County, AZ"	"04007"	"2016"	"2016"	"35-44 years"	"35-44"	22	4438	495.7
+	"Gila County, AZ"	"04007"	"2016"	"2016"	"45-54 years"	"45-54"	45	5972	753.5
+	"Gila County, AZ"	"04007"	"2016"	"2016"	"55-64 years"	"55-64"	129	8490	1519.4
+	"Gila County, AZ"	"04007"	"2016"	"2016"	"65-74 years"	"65-74"	198	8780	2255.1
+	"Gila County, AZ"	"04007"	"2016"	"2016"	"75-84 years"	"75-84"	206	4636	4443.5
+	"Gila County, AZ"	"04007"	"2016"	"2016"	"85+ years"	"85+"	195	1523	12803.7
+	"Gila County, AZ"	"04007"	"2017"	"2017"	"25-34 years"	"25-34"	19	5249	Unreliable
+	"Gila County, AZ"	"04007"	"2017"	"2017"	"35-44 years"	"35-44"	24	4517	531.3
+	"Gila County, AZ"	"04007"	"2017"	"2017"	"45-54 years"	"45-54"	40	5768	693.5
+	"Gila County, AZ"	"04007"	"2017"	"2017"	"55-64 years"	"55-64"	94	8482	1108.2
+	"Gila County, AZ"	"04007"	"2017"	"2017"	"65-74 years"	"65-74"	157	8780	1788.2
+	"Gila County, AZ"	"04007"	"2017"	"2017"	"75-84 years"	"75-84"	184	4735	3886.0
+	"Gila County, AZ"	"04007"	"2017"	"2017"	"85+ years"	"85+"	187	1555	12025.7
+	"Graham County, AZ"	"04009"	"1999"	"1999"	"35-44 years"	"35-44"	11	4634	Unreliable
+	"Graham County, AZ"	"04009"	"1999"	"1999"	"45-54 years"	"45-54"	21	3563	589.4
+	"Graham County, AZ"	"04009"	"1999"	"1999"	"55-64 years"	"55-64"	20	2619	763.7
+	"Graham County, AZ"	"04009"	"1999"	"1999"	"65-74 years"	"65-74"	49	2166	2262.2
+	"Graham County, AZ"	"04009"	"1999"	"1999"	"75-84 years"	"75-84"	90	1349	6671.6
+	"Graham County, AZ"	"04009"	"1999"	"1999"	"85+ years"	"85+"	88	408	21568.6
+	"Graham County, AZ"	"04009"	"2000"	"2000"	"45-54 years"	"45-54"	14	3635	Unreliable
+	"Graham County, AZ"	"04009"	"2000"	"2000"	"55-64 years"	"55-64"	21	2638	796.1
+	"Graham County, AZ"	"04009"	"2000"	"2000"	"65-74 years"	"65-74"	46	2191	2099.5
+	"Graham County, AZ"	"04009"	"2000"	"2000"	"75-84 years"	"75-84"	83	1366	6076.1
+	"Graham County, AZ"	"04009"	"2000"	"2000"	"85+ years"	"85+"	59	428	13785.0
+	"Graham County, AZ"	"04009"	"2001"	"2001"	"35-44 years"	"35-44"	14	4489	Unreliable
+	"Graham County, AZ"	"04009"	"2001"	"2001"	"45-54 years"	"45-54"	15	3766	Unreliable
+	"Graham County, AZ"	"04009"	"2001"	"2001"	"55-64 years"	"55-64"	22	2666	825.2
+	"Graham County, AZ"	"04009"	"2001"	"2001"	"65-74 years"	"65-74"	52	2183	2382.0
+	"Graham County, AZ"	"04009"	"2001"	"2001"	"75-84 years"	"75-84"	71	1338	5306.4
+	"Graham County, AZ"	"04009"	"2001"	"2001"	"85+ years"	"85+"	72	434	16589.9
+	"Graham County, AZ"	"04009"	"2002"	"2002"	"45-54 years"	"45-54"	16	3806	Unreliable
+	"Graham County, AZ"	"04009"	"2002"	"2002"	"55-64 years"	"55-64"	36	2725	1321.1
+	"Graham County, AZ"	"04009"	"2002"	"2002"	"65-74 years"	"65-74"	51	2204	2314.0
+	"Graham County, AZ"	"04009"	"2002"	"2002"	"75-84 years"	"75-84"	69	1402	4921.5
+	"Graham County, AZ"	"04009"	"2002"	"2002"	"85+ years"	"85+"	65	448	14508.9
+	"Graham County, AZ"	"04009"	"2003"	"2003"	"35-44 years"	"35-44"	12	4378	Unreliable
+	"Graham County, AZ"	"04009"	"2003"	"2003"	"45-54 years"	"45-54"	28	3852	726.9
+	"Graham County, AZ"	"04009"	"2003"	"2003"	"55-64 years"	"55-64"	28	2797	1001.1
+	"Graham County, AZ"	"04009"	"2003"	"2003"	"65-74 years"	"65-74"	43	2246	1914.5
+	"Graham County, AZ"	"04009"	"2003"	"2003"	"75-84 years"	"75-84"	77	1387	5551.6
+	"Graham County, AZ"	"04009"	"2003"	"2003"	"85+ years"	"85+"	61	444	13738.7
+	"Graham County, AZ"	"04009"	"2004"	"2004"	"15-24 years"	"15-24"	10	5710	Unreliable
+	"Graham County, AZ"	"04009"	"2004"	"2004"	"45-54 years"	"45-54"	17	3856	Unreliable
+	"Graham County, AZ"	"04009"	"2004"	"2004"	"55-64 years"	"55-64"	28	2914	960.9
+	"Graham County, AZ"	"04009"	"2004"	"2004"	"65-74 years"	"65-74"	52	2274	2286.7
+	"Graham County, AZ"	"04009"	"2004"	"2004"	"75-84 years"	"75-84"	75	1398	5364.8
+	"Graham County, AZ"	"04009"	"2004"	"2004"	"85+ years"	"85+"	75	439	17084.3
+	"Graham County, AZ"	"04009"	"2005"	"2005"	"35-44 years"	"35-44"	10	4213	Unreliable
+	"Graham County, AZ"	"04009"	"2005"	"2005"	"45-54 years"	"45-54"	22	3947	557.4
+	"Graham County, AZ"	"04009"	"2005"	"2005"	"55-64 years"	"55-64"	33	2958	1115.6
+	"Graham County, AZ"	"04009"	"2005"	"2005"	"65-74 years"	"65-74"	49	2268	2160.5
+	"Graham County, AZ"	"04009"	"2005"	"2005"	"75-84 years"	"75-84"	66	1459	4523.6
+	"Graham County, AZ"	"04009"	"2005"	"2005"	"85+ years"	"85+"	90	432	20833.3
+	"Graham County, AZ"	"04009"	"2006"	"2006"	"35-44 years"	"35-44"	11	4326	Unreliable
+	"Graham County, AZ"	"04009"	"2006"	"2006"	"45-54 years"	"45-54"	15	4045	Unreliable
+	"Graham County, AZ"	"04009"	"2006"	"2006"	"55-64 years"	"55-64"	29	3126	927.7
+	"Graham County, AZ"	"04009"	"2006"	"2006"	"65-74 years"	"65-74"	47	2260	2079.6
+	"Graham County, AZ"	"04009"	"2006"	"2006"	"75-84 years"	"75-84"	99	1481	6684.7
+	"Graham County, AZ"	"04009"	"2006"	"2006"	"85+ years"	"85+"	75	405	18518.5
+	"Graham County, AZ"	"04009"	"2007"	"2007"	"35-44 years"	"35-44"	17	4445	Unreliable
+	"Graham County, AZ"	"04009"	"2007"	"2007"	"45-54 years"	"45-54"	17	4208	Unreliable
+	"Graham County, AZ"	"04009"	"2007"	"2007"	"55-64 years"	"55-64"	40	3343	1196.5
+	"Graham County, AZ"	"04009"	"2007"	"2007"	"65-74 years"	"65-74"	50	2259	2213.4
+	"Graham County, AZ"	"04009"	"2007"	"2007"	"75-84 years"	"75-84"	69	1465	4709.9
+	"Graham County, AZ"	"04009"	"2007"	"2007"	"85+ years"	"85+"	65	432	15046.3
+	"Graham County, AZ"	"04009"	"2008"	"2008"	"35-44 years"	"35-44"	18	4521	Unreliable
+	"Graham County, AZ"	"04009"	"2008"	"2008"	"45-54 years"	"45-54"	21	4439	473.1
+	"Graham County, AZ"	"04009"	"2008"	"2008"	"55-64 years"	"55-64"	28	3495	801.1
+	"Graham County, AZ"	"04009"	"2008"	"2008"	"65-74 years"	"65-74"	62	2397	2586.6
+	"Graham County, AZ"	"04009"	"2008"	"2008"	"75-84 years"	"75-84"	67	1399	4789.1
+	"Graham County, AZ"	"04009"	"2008"	"2008"	"85+ years"	"85+"	76	452	16814.2
+	"Graham County, AZ"	"04009"	"2009"	"2009"	"25-34 years"	"25-34"	10	5286	Unreliable
+	"Graham County, AZ"	"04009"	"2009"	"2009"	"35-44 years"	"35-44"	11	4558	Unreliable
+	"Graham County, AZ"	"04009"	"2009"	"2009"	"45-54 years"	"45-54"	12	4499	Unreliable
+	"Graham County, AZ"	"04009"	"2009"	"2009"	"55-64 years"	"55-64"	32	3634	880.6
+	"Graham County, AZ"	"04009"	"2009"	"2009"	"65-74 years"	"65-74"	45	2390	1882.8
+	"Graham County, AZ"	"04009"	"2009"	"2009"	"75-84 years"	"75-84"	78	1458	5349.8
+	"Graham County, AZ"	"04009"	"2009"	"2009"	"85+ years"	"85+"	68	431	15777.3
+	"Graham County, AZ"	"04009"	"2010"	"2010"	"45-54 years"	"45-54"	21	4462	470.6
+	"Graham County, AZ"	"04009"	"2010"	"2010"	"55-64 years"	"55-64"	41	3678	1114.7
+	"Graham County, AZ"	"04009"	"2010"	"2010"	"65-74 years"	"65-74"	48	2388	2010.1
+	"Graham County, AZ"	"04009"	"2010"	"2010"	"75-84 years"	"75-84"	83	1429	5808.3
+	"Graham County, AZ"	"04009"	"2010"	"2010"	"85+ years"	"85+"	89	444	20045.0
+	"Graham County, AZ"	"04009"	"2011"	"2011"	"35-44 years"	"35-44"	10	4550	Unreliable
+	"Graham County, AZ"	"04009"	"2011"	"2011"	"45-54 years"	"45-54"	20	4353	459.5
+	"Graham County, AZ"	"04009"	"2011"	"2011"	"55-64 years"	"55-64"	31	3763	823.8
+	"Graham County, AZ"	"04009"	"2011"	"2011"	"65-74 years"	"65-74"	51	2405	2120.6
+	"Graham County, AZ"	"04009"	"2011"	"2011"	"75-84 years"	"75-84"	60	1436	4178.3
+	"Graham County, AZ"	"04009"	"2011"	"2011"	"85+ years"	"85+"	60	451	13303.8
+	"Graham County, AZ"	"04009"	"2012"	"2012"	"25-34 years"	"25-34"	11	5454	Unreliable
+	"Graham County, AZ"	"04009"	"2012"	"2012"	"45-54 years"	"45-54"	25	4250	588.2
+	"Graham County, AZ"	"04009"	"2012"	"2012"	"55-64 years"	"55-64"	34	3840	885.4
+	"Graham County, AZ"	"04009"	"2012"	"2012"	"65-74 years"	"65-74"	51	2511	2031.1
+	"Graham County, AZ"	"04009"	"2012"	"2012"	"75-84 years"	"75-84"	83	1466	5661.7
+	"Graham County, AZ"	"04009"	"2012"	"2012"	"85+ years"	"85+"	79	458	17248.9
+	"Graham County, AZ"	"04009"	"2013"	"2013"	"45-54 years"	"45-54"	23	4205	547.0
+	"Graham County, AZ"	"04009"	"2013"	"2013"	"55-64 years"	"55-64"	52	3809	1365.2
+	"Graham County, AZ"	"04009"	"2013"	"2013"	"65-74 years"	"65-74"	47	2618	1795.3
+	"Graham County, AZ"	"04009"	"2013"	"2013"	"75-84 years"	"75-84"	71	1551	4577.7
+	"Graham County, AZ"	"04009"	"2013"	"2013"	"85+ years"	"85+"	59	417	14148.7
+	"Graham County, AZ"	"04009"	"2014"	"2014"	"25-34 years"	"25-34"	10	5617	Unreliable
+	"Graham County, AZ"	"04009"	"2014"	"2014"	"45-54 years"	"45-54"	18	4132	Unreliable
+	"Graham County, AZ"	"04009"	"2014"	"2014"	"55-64 years"	"55-64"	37	3874	955.1
+	"Graham County, AZ"	"04009"	"2014"	"2014"	"65-74 years"	"65-74"	43	2675	1607.5
+	"Graham County, AZ"	"04009"	"2014"	"2014"	"75-84 years"	"75-84"	85	1525	5573.8
+	"Graham County, AZ"	"04009"	"2014"	"2014"	"85+ years"	"85+"	74	467	15845.8
+	"Graham County, AZ"	"04009"	"2015"	"2015"	"25-34 years"	"25-34"	12	5604	Unreliable
+	"Graham County, AZ"	"04009"	"2015"	"2015"	"45-54 years"	"45-54"	17	4082	Unreliable
+	"Graham County, AZ"	"04009"	"2015"	"2015"	"55-64 years"	"55-64"	39	3902	999.5
+	"Graham County, AZ"	"04009"	"2015"	"2015"	"65-74 years"	"65-74"	51	2745	1857.9
+	"Graham County, AZ"	"04009"	"2015"	"2015"	"75-84 years"	"75-84"	72	1540	4675.3
+	"Graham County, AZ"	"04009"	"2015"	"2015"	"85+ years"	"85+"	50	503	9940.4
+	"Graham County, AZ"	"04009"	"2016"	"2016"	"25-34 years"	"25-34"	13	5649	Unreliable
+	"Graham County, AZ"	"04009"	"2016"	"2016"	"45-54 years"	"45-54"	24	4057	591.6
+	"Graham County, AZ"	"04009"	"2016"	"2016"	"55-64 years"	"55-64"	41	3859	1062.5
+	"Graham County, AZ"	"04009"	"2016"	"2016"	"65-74 years"	"65-74"	53	2803	1890.8
+	"Graham County, AZ"	"04009"	"2016"	"2016"	"75-84 years"	"75-84"	62	1564	3964.2
+	"Graham County, AZ"	"04009"	"2016"	"2016"	"85+ years"	"85+"	71	513	13840.2
+	"Graham County, AZ"	"04009"	"2017"	"2017"	"35-44 years"	"35-44"	13	4793	Unreliable
+	"Graham County, AZ"	"04009"	"2017"	"2017"	"45-54 years"	"45-54"	19	4057	Unreliable
+	"Graham County, AZ"	"04009"	"2017"	"2017"	"55-64 years"	"55-64"	42	3864	1087.0
+	"Graham County, AZ"	"04009"	"2017"	"2017"	"65-74 years"	"65-74"	62	2981	2079.8
+	"Graham County, AZ"	"04009"	"2017"	"2017"	"75-84 years"	"75-84"	78	1587	4914.9
+	"Graham County, AZ"	"04009"	"2017"	"2017"	"85+ years"	"85+"	73	602	12126.2
+	"Greenlee County, AZ"	"04011"	"1999"	"1999"	"55-64 years"	"55-64"	11	722	Unreliable
+	"Greenlee County, AZ"	"04011"	"1999"	"1999"	"65-74 years"	"65-74"	16	511	Unreliable
+	"Greenlee County, AZ"	"04011"	"1999"	"1999"	"75-84 years"	"75-84"	21	264	7954.5
+	"Greenlee County, AZ"	"04011"	"2000"	"2000"	"65-74 years"	"65-74"	17	505	Unreliable
+	"Greenlee County, AZ"	"04011"	"2000"	"2000"	"75-84 years"	"75-84"	19	270	Unreliable
+	"Greenlee County, AZ"	"04011"	"2000"	"2000"	"85+ years"	"85+"	16	74	Unreliable
+	"Greenlee County, AZ"	"04011"	"2001"	"2001"	"75-84 years"	"75-84"	16	272	Unreliable
+	"Greenlee County, AZ"	"04011"	"2002"	"2002"	"55-64 years"	"55-64"	10	745	Unreliable
+	"Greenlee County, AZ"	"04011"	"2002"	"2002"	"75-84 years"	"75-84"	19	249	Unreliable
+	"Greenlee County, AZ"	"04011"	"2002"	"2002"	"85+ years"	"85+"	14	99	Unreliable
+	"Greenlee County, AZ"	"04011"	"2003"	"2003"	"55-64 years"	"55-64"	10	771	Unreliable
+	"Greenlee County, AZ"	"04011"	"2003"	"2003"	"65-74 years"	"65-74"	10	517	Unreliable
+	"Greenlee County, AZ"	"04011"	"2003"	"2003"	"75-84 years"	"75-84"	17	252	Unreliable
+	"Greenlee County, AZ"	"04011"	"2003"	"2003"	"85+ years"	"85+"	12	108	Unreliable
+	"Greenlee County, AZ"	"04011"	"2004"	"2004"	"65-74 years"	"65-74"	11	488	Unreliable
+	"Greenlee County, AZ"	"04011"	"2004"	"2004"	"75-84 years"	"75-84"	10	302	Unreliable
+	"Greenlee County, AZ"	"04011"	"2004"	"2004"	"85+ years"	"85+"	12	108	Unreliable
+	"Greenlee County, AZ"	"04011"	"2005"	"2005"	"65-74 years"	"65-74"	14	462	Unreliable
+	"Greenlee County, AZ"	"04011"	"2005"	"2005"	"75-84 years"	"75-84"	18	322	Unreliable
+	"Greenlee County, AZ"	"04011"	"2005"	"2005"	"85+ years"	"85+"	14	98	Unreliable
+	"Greenlee County, AZ"	"04011"	"2006"	"2006"	"65-74 years"	"65-74"	13	471	Unreliable
+	"Greenlee County, AZ"	"04011"	"2006"	"2006"	"75-84 years"	"75-84"	19	313	Unreliable
+	"Greenlee County, AZ"	"04011"	"2006"	"2006"	"85+ years"	"85+"	13	106	Unreliable
+	"Greenlee County, AZ"	"04011"	"2007"	"2007"	"55-64 years"	"55-64"	13	914	Unreliable
+	"Greenlee County, AZ"	"04011"	"2007"	"2007"	"65-74 years"	"65-74"	13	497	Unreliable
+	"Greenlee County, AZ"	"04011"	"2007"	"2007"	"75-84 years"	"75-84"	17	330	Unreliable
+	"Greenlee County, AZ"	"04011"	"2007"	"2007"	"85+ years"	"85+"	15	94	Unreliable
+	"Greenlee County, AZ"	"04011"	"2008"	"2008"	"85+ years"	"85+"	17	103	Unreliable
+	"Greenlee County, AZ"	"04011"	"2009"	"2009"	"65-74 years"	"65-74"	10	551	Unreliable
+	"Greenlee County, AZ"	"04011"	"2009"	"2009"	"75-84 years"	"75-84"	14	361	Unreliable
+	"Greenlee County, AZ"	"04011"	"2009"	"2009"	"85+ years"	"85+"	13	110	Unreliable
+	"Greenlee County, AZ"	"04011"	"2010"	"2010"	"75-84 years"	"75-84"	22	383	5744.1
+	"Greenlee County, AZ"	"04011"	"2010"	"2010"	"85+ years"	"85+"	10	106	Unreliable
+	"Greenlee County, AZ"	"04011"	"2011"	"2011"	"55-64 years"	"55-64"	10	1034	Unreliable
+	"Greenlee County, AZ"	"04011"	"2011"	"2011"	"65-74 years"	"65-74"	10	527	Unreliable
+	"Greenlee County, AZ"	"04011"	"2011"	"2011"	"75-84 years"	"75-84"	14	399	Unreliable
+	"Greenlee County, AZ"	"04011"	"2011"	"2011"	"85+ years"	"85+"	22	102	21568.6
+	"Greenlee County, AZ"	"04011"	"2012"	"2012"	"55-64 years"	"55-64"	10	1028	Unreliable
+	"Greenlee County, AZ"	"04011"	"2012"	"2012"	"65-74 years"	"65-74"	10	569	Unreliable
+	"Greenlee County, AZ"	"04011"	"2012"	"2012"	"75-84 years"	"75-84"	26	391	6649.6
+	"Greenlee County, AZ"	"04011"	"2012"	"2012"	"85+ years"	"85+"	11	106	Unreliable
+	"Greenlee County, AZ"	"04011"	"2013"	"2013"	"75-84 years"	"75-84"	11	361	Unreliable
+	"Greenlee County, AZ"	"04011"	"2013"	"2013"	"85+ years"	"85+"	10	117	Unreliable
+	"Greenlee County, AZ"	"04011"	"2014"	"2014"	"65-74 years"	"65-74"	14	609	Unreliable
+	"Greenlee County, AZ"	"04011"	"2014"	"2014"	"75-84 years"	"75-84"	13	362	Unreliable
+	"Greenlee County, AZ"	"04011"	"2014"	"2014"	"85+ years"	"85+"	11	109	Unreliable
+	"Greenlee County, AZ"	"04011"	"2015"	"2015"	"55-64 years"	"55-64"	12	1109	Unreliable
+	"Greenlee County, AZ"	"04011"	"2015"	"2015"	"65-74 years"	"65-74"	14	638	Unreliable
+	"Greenlee County, AZ"	"04011"	"2015"	"2015"	"75-84 years"	"75-84"	22	359	6128.1
+	"Greenlee County, AZ"	"04011"	"2016"	"2016"	"65-74 years"	"65-74"	16	657	Unreliable
+	"Greenlee County, AZ"	"04011"	"2016"	"2016"	"75-84 years"	"75-84"	10	356	Unreliable
+	"Greenlee County, AZ"	"04011"	"2016"	"2016"	"85+ years"	"85+"	12	131	Unreliable
+	"Greenlee County, AZ"	"04011"	"2017"	"2017"	"55-64 years"	"55-64"	11	1076	Unreliable
+	"Greenlee County, AZ"	"04011"	"2017"	"2017"	"65-74 years"	"65-74"	17	689	Unreliable
+	"Greenlee County, AZ"	"04011"	"2017"	"2017"	"75-84 years"	"75-84"	13	344	Unreliable
+	"Greenlee County, AZ"	"04011"	"2017"	"2017"	"85+ years"	"85+"	13	189	Unreliable
+	"La Paz County, AZ"	"04012"	"1999"	"1999"	"35-44 years"	"35-44"	11	2339	Unreliable
+	"La Paz County, AZ"	"04012"	"1999"	"1999"	"45-54 years"	"45-54"	14	2320	Unreliable
+	"La Paz County, AZ"	"04012"	"1999"	"1999"	"55-64 years"	"55-64"	25	2723	918.1
+	"La Paz County, AZ"	"04012"	"1999"	"1999"	"65-74 years"	"65-74"	52	3179	1635.7
+	"La Paz County, AZ"	"04012"	"1999"	"1999"	"75-84 years"	"75-84"	45	1497	3006.0
+	"La Paz County, AZ"	"04012"	"1999"	"1999"	"85+ years"	"85+"	35	266	13157.9
+	"La Paz County, AZ"	"04012"	"2000"	"2000"	"45-54 years"	"45-54"	17	2402	Unreliable
+	"La Paz County, AZ"	"04012"	"2000"	"2000"	"55-64 years"	"55-64"	37	2836	1304.7
+	"La Paz County, AZ"	"04012"	"2000"	"2000"	"65-74 years"	"65-74"	38	3268	1162.8
+	"La Paz County, AZ"	"04012"	"2000"	"2000"	"75-84 years"	"75-84"	64	1545	4142.4
+	"La Paz County, AZ"	"04012"	"2000"	"2000"	"85+ years"	"85+"	21	275	7636.4
+	"La Paz County, AZ"	"04012"	"2001"	"2001"	"35-44 years"	"35-44"	10	2226	Unreliable
+	"La Paz County, AZ"	"04012"	"2001"	"2001"	"45-54 years"	"45-54"	13	2397	Unreliable
+	"La Paz County, AZ"	"04012"	"2001"	"2001"	"55-64 years"	"55-64"	28	2897	966.5
+	"La Paz County, AZ"	"04012"	"2001"	"2001"	"65-74 years"	"65-74"	51	3365	1515.6
+	"La Paz County, AZ"	"04012"	"2001"	"2001"	"75-84 years"	"75-84"	40	1605	2492.2
+	"La Paz County, AZ"	"04012"	"2001"	"2001"	"85+ years"	"85+"	23	301	7641.2
+	"La Paz County, AZ"	"04012"	"2002"	"2002"	"45-54 years"	"45-54"	25	2407	1038.6
+	"La Paz County, AZ"	"04012"	"2002"	"2002"	"55-64 years"	"55-64"	40	2928	1366.1
+	"La Paz County, AZ"	"04012"	"2002"	"2002"	"65-74 years"	"65-74"	60	3351	1790.5
+	"La Paz County, AZ"	"04012"	"2002"	"2002"	"75-84 years"	"75-84"	60	1699	3531.5
+	"La Paz County, AZ"	"04012"	"2002"	"2002"	"85+ years"	"85+"	37	284	13028.2
+	"La Paz County, AZ"	"04012"	"2003"	"2003"	"45-54 years"	"45-54"	17	2462	Unreliable
+	"La Paz County, AZ"	"04012"	"2003"	"2003"	"55-64 years"	"55-64"	29	2977	974.1
+	"La Paz County, AZ"	"04012"	"2003"	"2003"	"65-74 years"	"65-74"	35	3457	1012.4
+	"La Paz County, AZ"	"04012"	"2003"	"2003"	"75-84 years"	"75-84"	62	1747	3548.9
+	"La Paz County, AZ"	"04012"	"2003"	"2003"	"85+ years"	"85+"	37	312	11859.0
+	"La Paz County, AZ"	"04012"	"2004"	"2004"	"45-54 years"	"45-54"	28	2501	1119.6
+	"La Paz County, AZ"	"04012"	"2004"	"2004"	"55-64 years"	"55-64"	50	3048	1640.4
+	"La Paz County, AZ"	"04012"	"2004"	"2004"	"65-74 years"	"65-74"	65	3580	1815.6
+	"La Paz County, AZ"	"04012"	"2004"	"2004"	"75-84 years"	"75-84"	57	1850	3081.1
+	"La Paz County, AZ"	"04012"	"2004"	"2004"	"85+ years"	"85+"	33	313	10543.1
+	"La Paz County, AZ"	"04012"	"2005"	"2005"	"35-44 years"	"35-44"	15	1975	Unreliable
+	"La Paz County, AZ"	"04012"	"2005"	"2005"	"45-54 years"	"45-54"	19	2536	Unreliable
+	"La Paz County, AZ"	"04012"	"2005"	"2005"	"55-64 years"	"55-64"	28	3113	899.5
+	"La Paz County, AZ"	"04012"	"2005"	"2005"	"65-74 years"	"65-74"	45	3762	1196.2
+	"La Paz County, AZ"	"04012"	"2005"	"2005"	"75-84 years"	"75-84"	70	1949	3591.6
+	"La Paz County, AZ"	"04012"	"2005"	"2005"	"85+ years"	"85+"	29	329	8814.6
+	"La Paz County, AZ"	"04012"	"2006"	"2006"	"45-54 years"	"45-54"	30	2572	1166.4
+	"La Paz County, AZ"	"04012"	"2006"	"2006"	"55-64 years"	"55-64"	37	3192	1159.1
+	"La Paz County, AZ"	"04012"	"2006"	"2006"	"65-74 years"	"65-74"	50	3945	1267.4
+	"La Paz County, AZ"	"04012"	"2006"	"2006"	"75-84 years"	"75-84"	62	1977	3136.1
+	"La Paz County, AZ"	"04012"	"2006"	"2006"	"85+ years"	"85+"	39	361	10803.3
+	"La Paz County, AZ"	"04012"	"2007"	"2007"	"45-54 years"	"45-54"	18	2555	Unreliable
+	"La Paz County, AZ"	"04012"	"2007"	"2007"	"55-64 years"	"55-64"	40	3238	1235.3
+	"La Paz County, AZ"	"04012"	"2007"	"2007"	"65-74 years"	"65-74"	64	4123	1552.3
+	"La Paz County, AZ"	"04012"	"2007"	"2007"	"75-84 years"	"75-84"	60	1981	3028.8
+	"La Paz County, AZ"	"04012"	"2007"	"2007"	"85+ years"	"85+"	41	379	10817.9
+	"La Paz County, AZ"	"04012"	"2008"	"2008"	"35-44 years"	"35-44"	11	1724	Unreliable
+	"La Paz County, AZ"	"04012"	"2008"	"2008"	"45-54 years"	"45-54"	16	2471	Unreliable
+	"La Paz County, AZ"	"04012"	"2008"	"2008"	"55-64 years"	"55-64"	31	3177	975.8
+	"La Paz County, AZ"	"04012"	"2008"	"2008"	"65-74 years"	"65-74"	67	4257	1573.9
+	"La Paz County, AZ"	"04012"	"2008"	"2008"	"75-84 years"	"75-84"	58	2060	2815.5
+	"La Paz County, AZ"	"04012"	"2008"	"2008"	"85+ years"	"85+"	25	351	7122.5
+	"La Paz County, AZ"	"04012"	"2009"	"2009"	"45-54 years"	"45-54"	24	2436	985.2
+	"La Paz County, AZ"	"04012"	"2009"	"2009"	"55-64 years"	"55-64"	34	3228	1053.3
+	"La Paz County, AZ"	"04012"	"2009"	"2009"	"65-74 years"	"65-74"	64	4199	1524.2
+	"La Paz County, AZ"	"04012"	"2009"	"2009"	"75-84 years"	"75-84"	64	2080	3076.9
+	"La Paz County, AZ"	"04012"	"2009"	"2009"	"85+ years"	"85+"	43	388	11082.5
+	"La Paz County, AZ"	"04012"	"2010"	"2010"	"45-54 years"	"45-54"	20	2422	825.8
+	"La Paz County, AZ"	"04012"	"2010"	"2010"	"55-64 years"	"55-64"	33	3284	1004.9
+	"La Paz County, AZ"	"04012"	"2010"	"2010"	"65-74 years"	"65-74"	63	4205	1498.2
+	"La Paz County, AZ"	"04012"	"2010"	"2010"	"75-84 years"	"75-84"	66	2093	3153.4
+	"La Paz County, AZ"	"04012"	"2010"	"2010"	"85+ years"	"85+"	33	385	8571.4
+	"La Paz County, AZ"	"04012"	"2011"	"2011"	"45-54 years"	"45-54"	15	2292	Unreliable
+	"La Paz County, AZ"	"04012"	"2011"	"2011"	"55-64 years"	"55-64"	38	3139	1210.6
+	"La Paz County, AZ"	"04012"	"2011"	"2011"	"65-74 years"	"65-74"	50	4201	1190.2
+	"La Paz County, AZ"	"04012"	"2011"	"2011"	"75-84 years"	"75-84"	71	2225	3191.0
+	"La Paz County, AZ"	"04012"	"2011"	"2011"	"85+ years"	"85+"	32	397	8060.5
+	"La Paz County, AZ"	"04012"	"2012"	"2012"	"35-44 years"	"35-44"	11	1519	Unreliable
+	"La Paz County, AZ"	"04012"	"2012"	"2012"	"45-54 years"	"45-54"	20	2231	896.5
+	"La Paz County, AZ"	"04012"	"2012"	"2012"	"55-64 years"	"55-64"	29	2994	968.6
+	"La Paz County, AZ"	"04012"	"2012"	"2012"	"65-74 years"	"65-74"	75	4197	1787.0
+	"La Paz County, AZ"	"04012"	"2012"	"2012"	"75-84 years"	"75-84"	77	2403	3204.3
+	"La Paz County, AZ"	"04012"	"2012"	"2012"	"85+ years"	"85+"	33	479	6889.4
+	"La Paz County, AZ"	"04012"	"2013"	"2013"	"45-54 years"	"45-54"	14	2201	Unreliable
+	"La Paz County, AZ"	"04012"	"2013"	"2013"	"55-64 years"	"55-64"	59	2897	2036.6
+	"La Paz County, AZ"	"04012"	"2013"	"2013"	"65-74 years"	"65-74"	66	4069	1622.0
+	"La Paz County, AZ"	"04012"	"2013"	"2013"	"75-84 years"	"75-84"	70	2618	2673.8
+	"La Paz County, AZ"	"04012"	"2013"	"2013"	"85+ years"	"85+"	37	537	6890.1
+	"La Paz County, AZ"	"04012"	"2014"	"2014"	"35-44 years"	"35-44"	11	1521	Unreliable
+	"La Paz County, AZ"	"04012"	"2014"	"2014"	"45-54 years"	"45-54"	23	2102	1094.2
+	"La Paz County, AZ"	"04012"	"2014"	"2014"	"55-64 years"	"55-64"	27	2836	952.0
+	"La Paz County, AZ"	"04012"	"2014"	"2014"	"65-74 years"	"65-74"	85	3959	2147.0
+	"La Paz County, AZ"	"04012"	"2014"	"2014"	"75-84 years"	"75-84"	76	2748	2765.6
+	"La Paz County, AZ"	"04012"	"2014"	"2014"	"85+ years"	"85+"	33	591	5583.8
+	"La Paz County, AZ"	"04012"	"2015"	"2015"	"45-54 years"	"45-54"	26	1997	1302.0
+	"La Paz County, AZ"	"04012"	"2015"	"2015"	"55-64 years"	"55-64"	34	2699	1259.7
+	"La Paz County, AZ"	"04012"	"2015"	"2015"	"65-74 years"	"65-74"	76	3945	1926.5
+	"La Paz County, AZ"	"04012"	"2015"	"2015"	"75-84 years"	"75-84"	68	2852	2384.3
+	"La Paz County, AZ"	"04012"	"2015"	"2015"	"85+ years"	"85+"	45	694	6484.1
+	"La Paz County, AZ"	"04012"	"2016"	"2016"	"35-44 years"	"35-44"	10	1540	Unreliable
+	"La Paz County, AZ"	"04012"	"2016"	"2016"	"45-54 years"	"45-54"	24	1864	1287.6
+	"La Paz County, AZ"	"04012"	"2016"	"2016"	"55-64 years"	"55-64"	39	2716	1435.9
+	"La Paz County, AZ"	"04012"	"2016"	"2016"	"65-74 years"	"65-74"	74	3872	1911.2
+	"La Paz County, AZ"	"04012"	"2016"	"2016"	"75-84 years"	"75-84"	77	3031	2540.4
+	"La Paz County, AZ"	"04012"	"2016"	"2016"	"85+ years"	"85+"	39	772	5051.8
+	"La Paz County, AZ"	"04012"	"2017"	"2017"	"45-54 years"	"45-54"	22	1752	1255.7
+	"La Paz County, AZ"	"04012"	"2017"	"2017"	"55-64 years"	"55-64"	43	2636	1631.3
+	"La Paz County, AZ"	"04012"	"2017"	"2017"	"65-74 years"	"65-74"	90	3929	2290.7
+	"La Paz County, AZ"	"04012"	"2017"	"2017"	"75-84 years"	"75-84"	91	3279	2775.2
+	"La Paz County, AZ"	"04012"	"2017"	"2017"	"85+ years"	"85+"	70	895	7821.2
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"< 1 year"	"1"	367	49020	748.7
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"1-4 years"	"1-4"	63	187952	33.5
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"5-14 years"	"5-14"	71	444168	16.0
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"15-24 years"	"15-24"	370	425907	86.9
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"25-34 years"	"25-34"	537	483850	111.0
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"35-44 years"	"35-44"	936	470698	198.9
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"45-54 years"	"45-54"	1489	353606	421.1
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"55-64 years"	"55-64"	2187	233412	937.0
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"65-74 years"	"65-74"	4115	189221	2174.7
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"75-84 years"	"75-84"	6713	128297	5232.4
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"85+ years"	"85+"	5688	38854	14639.4
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	"Not Stated"	"NS"	13	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"< 1 year"	"1"	358	49108	729.0
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"1-4 years"	"1-4"	66	192866	34.2
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"5-14 years"	"5-14"	80	460278	17.4
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"15-24 years"	"15-24"	363	439116	82.7
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"25-34 years"	"25-34"	509	488329	104.2
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"35-44 years"	"35-44"	960	475907	201.7
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"45-54 years"	"45-54"	1519	366464	414.5
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"55-64 years"	"55-64"	2135	241102	885.5
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"65-74 years"	"65-74"	4094	188816	2168.2
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"75-84 years"	"75-84"	6733	130036	5177.8
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	"85+ years"	"85+"	5900	40127	14703.3
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"< 1 year"	"1"	373	55121	676.7
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"1-4 years"	"1-4"	86	197328	43.6
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"5-14 years"	"5-14"	86	473465	18.2
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"15-24 years"	"15-24"	431	458372	94.0
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"25-34 years"	"25-34"	560	495900	112.9
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"35-44 years"	"35-44"	991	485660	204.1
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"45-54 years"	"45-54"	1581	389124	406.3
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"55-64 years"	"55-64"	2206	254372	867.2
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"65-74 years"	"65-74"	3913	190892	2049.9
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"75-84 years"	"75-84"	6643	134069	4954.9
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"85+ years"	"85+"	6032	41686	14470.1
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	"Not Stated"	"NS"	17	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"< 1 year"	"1"	363	54876	661.5
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"1-4 years"	"1-4"	81	205053	39.5
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"5-14 years"	"5-14"	79	483634	16.3
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"15-24 years"	"15-24"	470	469829	100.0
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"25-34 years"	"25-34"	527	505142	104.3
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"35-44 years"	"35-44"	981	491013	199.8
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"45-54 years"	"45-54"	1668	399683	417.3
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"55-64 years"	"55-64"	2384	273494	871.7
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"65-74 years"	"65-74"	3867	193872	1994.6
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"75-84 years"	"75-84"	6960	136348	5104.6
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"85+ years"	"85+"	6282	42444	14800.7
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	"Not Stated"	"NS"	15	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"< 1 year"	"1"	372	56353	660.1
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"1-4 years"	"1-4"	84	211797	39.7
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"5-14 years"	"5-14"	77	491699	15.7
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"15-24 years"	"15-24"	422	478818	88.1
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"25-34 years"	"25-34"	539	511308	105.4
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"35-44 years"	"35-44"	1027	494693	207.6
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"45-54 years"	"45-54"	1759	412265	426.7
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"55-64 years"	"55-64"	2420	290959	831.7
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"65-74 years"	"65-74"	3785	197739	1914.1
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"75-84 years"	"75-84"	6871	138784	4950.9
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"85+ years"	"85+"	6424	44053	14582.4
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	"Not Stated"	"NS"	33	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"< 1 year"	"1"	400	57131	700.1
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"1-4 years"	"1-4"	60	219949	27.3
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"5-14 years"	"5-14"	85	501647	16.9
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"15-24 years"	"15-24"	481	489154	98.3
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"25-34 years"	"25-34"	511	521091	98.1
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"35-44 years"	"35-44"	953	503234	189.4
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"45-54 years"	"45-54"	1743	426361	408.8
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"55-64 years"	"55-64"	2512	309291	812.2
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"65-74 years"	"65-74"	3806	203591	1869.4
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"75-84 years"	"75-84"	6613	140955	4691.6
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"85+ years"	"85+"	6547	45456	14402.9
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	"Not Stated"	"NS"	31	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"< 1 year"	"1"	387	59456	650.9
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"1-4 years"	"1-4"	79	229568	34.4
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"5-14 years"	"5-14"	95	515567	18.4
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"15-24 years"	"15-24"	501	503104	99.6
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"25-34 years"	"25-34"	602	535566	112.4
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"35-44 years"	"35-44"	961	517695	185.6
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"45-54 years"	"45-54"	1871	445523	420.0
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"55-64 years"	"55-64"	2707	329758	820.9
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"65-74 years"	"65-74"	4058	210313	1929.5
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"75-84 years"	"75-84"	6941	144666	4797.9
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"85+ years"	"85+"	6964	47772	14577.6
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	"Not Stated"	"NS"	15	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"< 1 year"	"1"	410	60547	677.2
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"1-4 years"	"1-4"	91	235463	38.6
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"5-14 years"	"5-14"	78	530692	14.7
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"15-24 years"	"15-24"	565	516071	109.5
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"25-34 years"	"25-34"	614	549024	111.8
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"35-44 years"	"35-44"	988	529187	186.7
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"45-54 years"	"45-54"	1907	461830	412.9
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"55-64 years"	"55-64"	2897	348385	831.6
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"65-74 years"	"65-74"	3903	216229	1805.0
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"75-84 years"	"75-84"	6955	145256	4788.1
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"85+ years"	"85+"	7105	50200	14153.4
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	"Not Stated"	"NS"	32	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"< 1 year"	"1"	425	60969	697.1
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"1-4 years"	"1-4"	72	238566	30.2
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"5-14 years"	"5-14"	88	541020	16.3
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"15-24 years"	"15-24"	508	527908	96.2
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"25-34 years"	"25-34"	596	551446	108.1
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"35-44 years"	"35-44"	909	531393	171.1
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"45-54 years"	"45-54"	1900	476923	398.4
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"55-64 years"	"55-64"	2804	361831	774.9
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"65-74 years"	"65-74"	3762	223555	1682.8
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"75-84 years"	"75-84"	6588	145917	4514.9
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"85+ years"	"85+"	7100	52426	13542.9
+	"Maricopa County, AZ"	"04013"	"2007"	"2007"	"Not Stated"	"NS"	17	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"< 1 year"	"1"	386	59600	647.7
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"1-4 years"	"1-4"	72	239411	30.1
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"5-14 years"	"5-14"	69	551156	12.5
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"15-24 years"	"15-24"	394	538454	73.2
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"25-34 years"	"25-34"	544	552012	98.5
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"35-44 years"	"35-44"	851	531200	160.2
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"45-54 years"	"45-54"	1881	489163	384.5
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"55-64 years"	"55-64"	2920	373416	782.0
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"65-74 years"	"65-74"	3877	235531	1646.1
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"75-84 years"	"75-84"	6377	146617	4349.4
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	"85+ years"	"85+"	7351	54501	13487.8
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"< 1 year"	"1"	334	52910	631.3
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"1-4 years"	"1-4"	81	236942	34.2
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"5-14 years"	"5-14"	93	557125	16.7
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"15-24 years"	"15-24"	346	542971	63.7
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"25-34 years"	"25-34"	549	548628	100.1
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"35-44 years"	"35-44"	856	528661	161.9
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"45-54 years"	"45-54"	1918	498838	384.5
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"55-64 years"	"55-64"	2977	386343	770.6
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"65-74 years"	"65-74"	3953	246960	1600.7
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"75-84 years"	"75-84"	6281	147130	4269.0
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"85+ years"	"85+"	7323	57271	12786.6
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	"Not Stated"	"NS"	11	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"< 1 year"	"1"	315	54300	580.1
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"1-4 years"	"1-4"	70	228470	30.6
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"5-14 years"	"5-14"	73	559937	13.0
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"15-24 years"	"15-24"	343	543771	63.1
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"25-34 years"	"25-34"	532	541126	98.3
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"35-44 years"	"35-44"	801	524598	152.7
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"45-54 years"	"45-54"	1869	503965	370.9
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"55-64 years"	"55-64"	3044	398309	764.2
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"65-74 years"	"65-74"	3999	255388	1565.9
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"75-84 years"	"75-84"	6220	148199	4197.1
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	"85+ years"	"85+"	7634	59054	12927.2
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"< 1 year"	"1"	314	54225	579.1
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"1-4 years"	"1-4"	62	224749	27.6
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"5-14 years"	"5-14"	67	562569	11.9
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"15-24 years"	"15-24"	369	549661	67.1
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"25-34 years"	"25-34"	520	551691	94.3
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"35-44 years"	"35-44"	823	526563	156.3
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"45-54 years"	"45-54"	1846	508990	362.7
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"55-64 years"	"55-64"	3145	417781	752.8
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"65-74 years"	"65-74"	4212	268677	1567.7
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"75-84 years"	"75-84"	6435	152663	4215.2
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"85+ years"	"85+"	8142	62675	12990.8
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	"Not Stated"	"NS"	12	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"< 1 year"	"1"	325	54010	601.7
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"1-4 years"	"1-4"	71	220149	32.3
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"5-14 years"	"5-14"	72	570474	12.6
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"15-24 years"	"15-24"	361	556452	64.9
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"25-34 years"	"25-34"	581	557232	104.3
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"35-44 years"	"35-44"	780	531959	146.6
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"45-54 years"	"45-54"	1881	513524	366.3
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"55-64 years"	"55-64"	3313	426594	776.6
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"65-74 years"	"65-74"	4414	290152	1521.3
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"75-84 years"	"75-84"	6432	156810	4101.8
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	"85+ years"	"85+"	8123	64813	12533.0
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"< 1 year"	"1"	287	53849	533.0
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"1-4 years"	"1-4"	70	217975	32.1
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"5-14 years"	"5-14"	68	575869	11.8
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"15-24 years"	"15-24"	363	558894	64.9
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"25-34 years"	"25-34"	587	567755	103.4
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"35-44 years"	"35-44"	917	538045	170.4
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"45-54 years"	"45-54"	1926	519943	370.4
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"55-64 years"	"55-64"	3400	439009	774.5
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"65-74 years"	"65-74"	4666	309069	1509.7
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"75-84 years"	"75-84"	6470	161697	4001.3
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"85+ years"	"85+"	8464	67307	12575.2
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	"Not Stated"	"NS"	13	Not Applicable	Not Applicable
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"< 1 year"	"1"	344	54797	627.8
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"1-4 years"	"1-4"	48	217722	22.0
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"5-14 years"	"5-14"	73	580184	12.6
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"15-24 years"	"15-24"	376	565263	66.5
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"25-34 years"	"25-34"	585	579958	100.9
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"35-44 years"	"35-44"	917	543375	168.8
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"45-54 years"	"45-54"	1891	527666	358.4
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"55-64 years"	"55-64"	3550	452292	784.9
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"65-74 years"	"65-74"	4966	327311	1517.2
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"75-84 years"	"75-84"	6615	168393	3928.3
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	"85+ years"	"85+"	8600	70230	12245.5
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"< 1 year"	"1"	291	55205	527.1
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"1-4 years"	"1-4"	53	217386	24.4
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"5-14 years"	"5-14"	57	583177	9.8
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"15-24 years"	"15-24"	399	569984	70.0
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"25-34 years"	"25-34"	621	594281	104.5
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"35-44 years"	"35-44"	961	549018	175.0
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"45-54 years"	"45-54"	1849	537170	344.2
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"55-64 years"	"55-64"	3714	468765	792.3
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"65-74 years"	"65-74"	5396	345084	1563.7
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"75-84 years"	"75-84"	6913	174721	3956.6
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	"85+ years"	"85+"	8938	73156	12217.7
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"< 1 year"	"1"	299	56496	529.2
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"1-4 years"	"1-4"	67	225263	29.7
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"5-14 years"	"5-14"	75	581393	12.9
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"15-24 years"	"15-24"	438	572826	76.5
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"25-34 years"	"25-34"	752	609189	123.4
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"35-44 years"	"35-44"	901	551926	163.2
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"45-54 years"	"45-54"	2064	543880	379.5
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"55-64 years"	"55-64"	4025	482093	834.9
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"65-74 years"	"65-74"	5699	361741	1575.4
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"75-84 years"	"75-84"	7084	181989	3892.5
+	"Maricopa County, AZ"	"04013"	"2016"	"2016"	"85+ years"	"85+"	9340	76201	12257.1
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"< 1 year"	"1"	307	55154	556.6
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"1-4 years"	"1-4"	65	225399	28.8
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"5-14 years"	"5-14"	86	586270	14.7
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"15-24 years"	"15-24"	456	575181	79.3
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"25-34 years"	"25-34"	731	623763	117.2
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"35-44 years"	"35-44"	1016	560423	181.3
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"45-54 years"	"45-54"	1968	547997	359.1
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"55-64 years"	"55-64"	3903	494530	789.2
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"65-74 years"	"65-74"	5871	373897	1570.2
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"75-84 years"	"75-84"	7400	188670	3922.2
+	"Maricopa County, AZ"	"04013"	"2017"	"2017"	"85+ years"	"85+"	9518	75749	12565.2
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"< 1 year"	"1"	15	1905	Unreliable
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"15-24 years"	"15-24"	23	15243	150.9
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"25-34 years"	"25-34"	17	15333	Unreliable
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"35-44 years"	"35-44"	49	20160	243.1
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"45-54 years"	"45-54"	120	19486	615.8
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"55-64 years"	"55-64"	230	20228	1137.0
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"65-74 years"	"65-74"	528	18903	2793.2
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"75-84 years"	"75-84"	575	10074	5707.8
+	"Mohave County, AZ"	"04015"	"1999"	"1999"	"85+ years"	"85+"	295	2123	13895.4
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"< 1 year"	"1"	16	1925	Unreliable
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"5-14 years"	"5-14"	10	20569	Unreliable
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"15-24 years"	"15-24"	22	15938	138.0
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"25-34 years"	"25-34"	28	15446	181.3
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"35-44 years"	"35-44"	72	20552	350.3
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"45-54 years"	"45-54"	116	20302	571.4
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"55-64 years"	"55-64"	242	21129	1145.3
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"65-74 years"	"65-74"	521	19067	2732.5
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"75-84 years"	"75-84"	620	10407	5957.5
+	"Mohave County, AZ"	"04015"	"2000"	"2000"	"85+ years"	"85+"	322	2254	14285.7
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"< 1 year"	"1"	13	1781	Unreliable
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"15-24 years"	"15-24"	20	16577	120.6
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"25-34 years"	"25-34"	23	15392	149.4
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"35-44 years"	"35-44"	73	20906	349.2
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"45-54 years"	"45-54"	133	21887	607.7
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"55-64 years"	"55-64"	267	22072	1209.7
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"65-74 years"	"65-74"	481	19760	2434.2
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"75-84 years"	"75-84"	591	10907	5418.5
+	"Mohave County, AZ"	"04015"	"2001"	"2001"	"85+ years"	"85+"	358	2349	15240.5
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"< 1 year"	"1"	13	2002	Unreliable
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"15-24 years"	"15-24"	23	17165	134.0
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"25-34 years"	"25-34"	27	15588	173.2
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"35-44 years"	"35-44"	82	21232	386.2
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"45-54 years"	"45-54"	143	22660	631.1
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"55-64 years"	"55-64"	274	23797	1151.4
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"65-74 years"	"65-74"	526	20586	2555.1
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"75-84 years"	"75-84"	675	11335	5955.0
+	"Mohave County, AZ"	"04015"	"2002"	"2002"	"85+ years"	"85+"	415	2405	17255.7
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"< 1 year"	"1"	20	2184	915.8
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"15-24 years"	"15-24"	22	18011	122.1
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"25-34 years"	"25-34"	29	16055	180.6
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"35-44 years"	"35-44"	90	21167	425.2
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"45-54 years"	"45-54"	164	23776	689.8
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"55-64 years"	"55-64"	307	25242	1216.2
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"65-74 years"	"65-74"	507	21632	2343.8
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"75-84 years"	"75-84"	702	11725	5987.2
+	"Mohave County, AZ"	"04015"	"2003"	"2003"	"85+ years"	"85+"	445	2644	16830.6
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"< 1 year"	"1"	17	2315	Unreliable
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"5-14 years"	"5-14"	10	22807	Unreliable
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"15-24 years"	"15-24"	26	19027	136.6
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"25-34 years"	"25-34"	31	16787	184.7
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"35-44 years"	"35-44"	76	21703	350.2
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"45-54 years"	"45-54"	152	25161	604.1
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"55-64 years"	"55-64"	364	26692	1363.7
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"65-74 years"	"65-74"	554	22731	2437.2
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"75-84 years"	"75-84"	694	12171	5702.1
+	"Mohave County, AZ"	"04015"	"2004"	"2004"	"85+ years"	"85+"	414	2688	15401.8
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"< 1 year"	"1"	28	2346	1193.5
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"15-24 years"	"15-24"	27	19978	135.1
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"25-34 years"	"25-34"	27	17738	152.2
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"35-44 years"	"35-44"	63	22218	283.6
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"45-54 years"	"45-54"	195	26656	731.5
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"55-64 years"	"55-64"	339	28462	1191.1
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"65-74 years"	"65-74"	553	23657	2337.6
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"75-84 years"	"75-84"	754	12588	5989.8
+	"Mohave County, AZ"	"04015"	"2005"	"2005"	"85+ years"	"85+"	479	2912	16449.2
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"< 1 year"	"1"	20	2337	855.8
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"15-24 years"	"15-24"	27	20989	128.6
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"25-34 years"	"25-34"	23	18392	125.1
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"35-44 years"	"35-44"	68	22730	299.2
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"45-54 years"	"45-54"	186	28035	663.5
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"55-64 years"	"55-64"	365	29809	1224.5
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"65-74 years"	"65-74"	599	24780	2417.3
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"75-84 years"	"75-84"	751	12933	5806.9
+	"Mohave County, AZ"	"04015"	"2006"	"2006"	"85+ years"	"85+"	537	3171	16934.7
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"< 1 year"	"1"	19	2490	Unreliable
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"15-24 years"	"15-24"	25	21424	116.7
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"25-34 years"	"25-34"	39	18589	209.8
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"35-44 years"	"35-44"	68	22358	304.1
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"45-54 years"	"45-54"	181	28665	631.4
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"55-64 years"	"55-64"	338	30676	1101.8
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"65-74 years"	"65-74"	585	25828	2265.0
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"75-84 years"	"75-84"	700	13246	5284.6
+	"Mohave County, AZ"	"04015"	"2007"	"2007"	"85+ years"	"85+"	494	3340	14790.4
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"< 1 year"	"1"	11	2465	Unreliable
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"15-24 years"	"15-24"	19	21194	Unreliable
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"25-34 years"	"25-34"	21	18495	113.5
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"35-44 years"	"35-44"	56	21549	259.9
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"45-54 years"	"45-54"	194	28810	673.4
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"55-64 years"	"55-64"	375	30776	1218.5
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"65-74 years"	"65-74"	643	26851	2394.7
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"75-84 years"	"75-84"	734	13586	5402.6
+	"Mohave County, AZ"	"04015"	"2008"	"2008"	"85+ years"	"85+"	496	3462	14327.0
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"< 1 year"	"1"	15	2147	Unreliable
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"15-24 years"	"15-24"	23	20971	109.7
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"25-34 years"	"25-34"	37	18256	202.7
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"35-44 years"	"35-44"	71	20630	344.2
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"45-54 years"	"45-54"	208	28821	721.7
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"55-64 years"	"55-64"	323	30970	1042.9
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"65-74 years"	"65-74"	630	27878	2259.8
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"75-84 years"	"75-84"	672	13900	4834.5
+	"Mohave County, AZ"	"04015"	"2009"	"2009"	"85+ years"	"85+"	516	3707	13919.6
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"< 1 year"	"1"	14	2093	Unreliable
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"15-24 years"	"15-24"	33	20997	157.2
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"25-34 years"	"25-34"	30	18277	164.1
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"35-44 years"	"35-44"	47	20110	233.7
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"45-54 years"	"45-54"	189	28724	658.0
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"55-64 years"	"55-64"	421	31509	1336.1
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"65-74 years"	"65-74"	614	28309	2168.9
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"75-84 years"	"75-84"	766	14431	5308.0
+	"Mohave County, AZ"	"04015"	"2010"	"2010"	"85+ years"	"85+"	577	3918	14726.9
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"< 1 year"	"1"	19	2079	Unreliable
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"15-24 years"	"15-24"	19	21027	Unreliable
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"25-34 years"	"25-34"	36	18743	192.1
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"35-44 years"	"35-44"	61	19678	310.0
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"45-54 years"	"45-54"	188	27950	672.6
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"55-64 years"	"55-64"	390	32671	1193.7
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"65-74 years"	"65-74"	626	29121	2149.7
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"75-84 years"	"75-84"	814	15199	5355.6
+	"Mohave County, AZ"	"04015"	"2011"	"2011"	"85+ years"	"85+"	582	4194	13877.0
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"15-24 years"	"15-24"	26	21318	122.0
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"25-34 years"	"25-34"	39	19368	201.4
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"35-44 years"	"35-44"	78	19557	398.8
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"45-54 years"	"45-54"	199	27250	730.3
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"55-64 years"	"55-64"	427	32052	1332.2
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"65-74 years"	"65-74"	685	30533	2243.5
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"75-84 years"	"75-84"	777	15695	4950.6
+	"Mohave County, AZ"	"04015"	"2012"	"2012"	"85+ years"	"85+"	603	4387	13745.2
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"15-24 years"	"15-24"	18	21026	Unreliable
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"25-34 years"	"25-34"	35	19693	177.7
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"35-44 years"	"35-44"	62	19411	319.4
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"45-54 years"	"45-54"	198	26278	753.5
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"55-64 years"	"55-64"	460	32062	1434.7
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"65-74 years"	"65-74"	725	31325	2314.4
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"75-84 years"	"75-84"	809	16574	4881.1
+	"Mohave County, AZ"	"04015"	"2013"	"2013"	"85+ years"	"85+"	656	4685	14002.1
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"< 1 year"	"1"	16	1824	Unreliable
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"15-24 years"	"15-24"	16	20675	Unreliable
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"25-34 years"	"25-34"	21	19966	105.2
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"35-44 years"	"35-44"	74	19181	385.8
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"45-54 years"	"45-54"	166	25415	653.2
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"55-64 years"	"55-64"	413	32246	1280.8
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"65-74 years"	"65-74"	721	32412	2224.5
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"75-84 years"	"75-84"	762	17335	4395.7
+	"Mohave County, AZ"	"04015"	"2014"	"2014"	"85+ years"	"85+"	612	5008	12220.4
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"< 1 year"	"1"	13	1835	Unreliable
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"15-24 years"	"15-24"	19	20677	Unreliable
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"25-34 years"	"25-34"	47	20360	230.8
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"35-44 years"	"35-44"	54	18889	285.9
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"45-54 years"	"45-54"	191	24825	769.4
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"55-64 years"	"55-64"	414	32727	1265.0
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"65-74 years"	"65-74"	795	33253	2390.8
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"75-84 years"	"75-84"	870	18067	4815.4
+	"Mohave County, AZ"	"04015"	"2015"	"2015"	"85+ years"	"85+"	677	5396	12546.3
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"15-24 years"	"15-24"	21	20048	104.7
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"25-34 years"	"25-34"	41	20475	200.2
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"35-44 years"	"35-44"	65	18574	350.0
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"45-54 years"	"45-54"	172	24213	710.4
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"55-64 years"	"55-64"	460	33224	1384.5
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"65-74 years"	"65-74"	815	34226	2381.2
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"75-84 years"	"75-84"	890	18858	4719.5
+	"Mohave County, AZ"	"04015"	"2016"	"2016"	"85+ years"	"85+"	772	5550	13909.9
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"< 1 year"	"1"	11	1786	Unreliable
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"15-24 years"	"15-24"	19	19591	Unreliable
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"25-34 years"	"25-34"	39	20987	185.8
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"35-44 years"	"35-44"	59	18580	317.5
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"45-54 years"	"45-54"	167	23479	711.3
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"55-64 years"	"55-64"	447	33412	1337.8
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"65-74 years"	"65-74"	835	35431	2356.7
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"75-84 years"	"75-84"	937	20108	4659.8
+	"Mohave County, AZ"	"04015"	"2017"	"2017"	"85+ years"	"85+"	777	5908	13151.7
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"< 1 year"	"1"	15	1631	Unreliable
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"15-24 years"	"15-24"	22	14351	153.3
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"25-34 years"	"25-34"	29	11175	259.5
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"35-44 years"	"35-44"	43	13545	317.5
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"45-54 years"	"45-54"	43	10980	391.6
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"55-64 years"	"55-64"	100	8243	1213.2
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"65-74 years"	"65-74"	134	5918	2264.3
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"75-84 years"	"75-84"	176	2760	6376.8
+	"Navajo County, AZ"	"04017"	"1999"	"1999"	"85+ years"	"85+"	109	777	14028.3
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"< 1 year"	"1"	11	1624	Unreliable
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"15-24 years"	"15-24"	22	14634	150.3
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"25-34 years"	"25-34"	14	11087	Unreliable
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"35-44 years"	"35-44"	45	13588	331.2
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"45-54 years"	"45-54"	78	11376	685.7
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"55-64 years"	"55-64"	82	8523	962.1
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"65-74 years"	"65-74"	138	6063	2276.1
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"75-84 years"	"75-84"	160	2882	5551.7
+	"Navajo County, AZ"	"04017"	"2000"	"2000"	"85+ years"	"85+"	110	813	13530.1
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"< 1 year"	"1"	11	1596	Unreliable
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"15-24 years"	"15-24"	37	14809	249.8
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"25-34 years"	"25-34"	30	10843	276.7
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"35-44 years"	"35-44"	53	13544	391.3
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"45-54 years"	"45-54"	66	11875	555.8
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"55-64 years"	"55-64"	84	8785	956.2
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"65-74 years"	"65-74"	123	6202	1983.2
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"75-84 years"	"75-84"	146	3080	4740.3
+	"Navajo County, AZ"	"04017"	"2001"	"2001"	"85+ years"	"85+"	125	818	15281.2
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"15-24 years"	"15-24"	30	15423	194.5
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"25-34 years"	"25-34"	28	11013	254.2
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"35-44 years"	"35-44"	51	13457	379.0
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"45-54 years"	"45-54"	74	12341	599.6
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"55-64 years"	"55-64"	88	9217	954.8
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"65-74 years"	"65-74"	132	6485	2035.5
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"75-84 years"	"75-84"	159	3241	4905.9
+	"Navajo County, AZ"	"04017"	"2002"	"2002"	"85+ years"	"85+"	116	828	14009.7
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"< 1 year"	"1"	15	1590	Unreliable
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"5-14 years"	"5-14"	11	19697	Unreliable
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"15-24 years"	"15-24"	38	15964	238.0
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"25-34 years"	"25-34"	41	11184	366.6
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"35-44 years"	"35-44"	75	13238	566.6
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"45-54 years"	"45-54"	73	12622	578.4
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"55-64 years"	"55-64"	87	9676	899.1
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"65-74 years"	"65-74"	152	6721	2261.6
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"75-84 years"	"75-84"	192	3333	5760.6
+	"Navajo County, AZ"	"04017"	"2003"	"2003"	"85+ years"	"85+"	134	852	15727.7
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"< 1 year"	"1"	12	1720	Unreliable
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"15-24 years"	"15-24"	36	16365	220.0
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"25-34 years"	"25-34"	30	11229	267.2
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"35-44 years"	"35-44"	56	13154	425.7
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"45-54 years"	"45-54"	75	12980	577.8
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"55-64 years"	"55-64"	109	10247	1063.7
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"65-74 years"	"65-74"	136	7016	1938.4
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"75-84 years"	"75-84"	170	3403	4995.6
+	"Navajo County, AZ"	"04017"	"2004"	"2004"	"85+ years"	"85+"	139	892	15583.0
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"< 1 year"	"1"	17	1833	Unreliable
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"15-24 years"	"15-24"	36	16615	216.7
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"25-34 years"	"25-34"	43	11328	379.6
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"35-44 years"	"35-44"	44	13023	337.9
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"45-54 years"	"45-54"	78	13266	588.0
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"55-64 years"	"55-64"	120	10756	1115.7
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"65-74 years"	"65-74"	144	7312	1969.4
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"75-84 years"	"75-84"	173	3593	4814.9
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	"85+ years"	"85+"	152	926	16414.7
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"15-24 years"	"15-24"	44	16728	263.0
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"25-34 years"	"25-34"	39	11371	343.0
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"35-44 years"	"35-44"	69	12945	533.0
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"45-54 years"	"45-54"	79	13830	571.2
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"55-64 years"	"55-64"	103	11276	913.4
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"65-74 years"	"65-74"	136	7704	1765.3
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"75-84 years"	"75-84"	216	3686	5860.0
+	"Navajo County, AZ"	"04017"	"2006"	"2006"	"85+ years"	"85+"	163	1014	16075.0
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"< 1 year"	"1"	23	1852	1241.9
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"15-24 years"	"15-24"	36	16647	216.3
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"25-34 years"	"25-34"	41	11559	354.7
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"35-44 years"	"35-44"	55	12892	426.6
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"45-54 years"	"45-54"	72	14119	510.0
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"55-64 years"	"55-64"	123	11761	1045.8
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"65-74 years"	"65-74"	162	8009	2022.7
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"75-84 years"	"75-84"	190	3848	4937.6
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	"85+ years"	"85+"	188	1042	18042.2
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"< 1 year"	"1"	17	1910	Unreliable
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"15-24 years"	"15-24"	30	16564	181.1
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"25-34 years"	"25-34"	31	11668	265.7
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"35-44 years"	"35-44"	53	12530	423.0
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"45-54 years"	"45-54"	82	14424	568.5
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"55-64 years"	"55-64"	125	12210	1023.8
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"65-74 years"	"65-74"	160	8335	1919.6
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"75-84 years"	"75-84"	159	3932	4043.7
+	"Navajo County, AZ"	"04017"	"2008"	"2008"	"85+ years"	"85+"	139	1069	13002.8
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	"15-24 years"	"15-24"	25	16205	154.3
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	"25-34 years"	"25-34"	36	11776	305.7
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	"35-44 years"	"35-44"	61	12122	503.2
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	"45-54 years"	"45-54"	89	14518	613.0
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	"55-64 years"	"55-64"	108	12592	857.7
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	"65-74 years"	"65-74"	147	8694	1690.8
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	"75-84 years"	"75-84"	188	4051	4640.8
+	"Navajo County, AZ"	"04017"	"2009"	"2009"	"85+ years"	"85+"	133	1143	11636.0
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"15-24 years"	"15-24"	34	15859	214.4
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"25-34 years"	"25-34"	44	11935	368.7
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"35-44 years"	"35-44"	52	11815	440.1
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"45-54 years"	"45-54"	96	14365	668.3
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"55-64 years"	"55-64"	117	12934	904.6
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"65-74 years"	"65-74"	145	8867	1635.3
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"75-84 years"	"75-84"	173	4136	4182.8
+	"Navajo County, AZ"	"04017"	"2010"	"2010"	"85+ years"	"85+"	151	1238	12197.1
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"< 1 year"	"1"	14	1719	Unreliable
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"15-24 years"	"15-24"	33	15874	207.9
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"25-34 years"	"25-34"	46	11839	388.5
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"35-44 years"	"35-44"	37	11578	319.6
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"45-54 years"	"45-54"	93	13995	664.5
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"55-64 years"	"55-64"	135	13353	1011.0
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"65-74 years"	"65-74"	156	9209	1694.0
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"75-84 years"	"75-84"	195	4276	4560.3
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	"85+ years"	"85+"	191	1343	14221.9
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"< 1 year"	"1"	15	1689	Unreliable
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"15-24 years"	"15-24"	37	15673	236.1
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"25-34 years"	"25-34"	49	11803	415.1
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"35-44 years"	"35-44"	51	11386	447.9
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"45-54 years"	"45-54"	81	13623	594.6
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"55-64 years"	"55-64"	131	13452	973.8
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"65-74 years"	"65-74"	159	9707	1638.0
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"75-84 years"	"75-84"	218	4434	4916.6
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	"85+ years"	"85+"	166	1469	11300.2
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"15-24 years"	"15-24"	28	15436	181.4
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"25-34 years"	"25-34"	46	12202	377.0
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"35-44 years"	"35-44"	58	11436	507.2
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"45-54 years"	"45-54"	84	13256	633.7
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"55-64 years"	"55-64"	137	13590	1008.1
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"65-74 years"	"65-74"	190	9936	1912.2
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"75-84 years"	"75-84"	208	4717	4409.6
+	"Navajo County, AZ"	"04017"	"2013"	"2013"	"85+ years"	"85+"	197	1559	12636.3
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"< 1 year"	"1"	11	1611	Unreliable
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"15-24 years"	"15-24"	18	15295	Unreliable
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"25-34 years"	"25-34"	55	12459	441.4
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"35-44 years"	"35-44"	35	11402	307.0
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"45-54 years"	"45-54"	82	13091	626.4
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"55-64 years"	"55-64"	124	13711	904.4
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"65-74 years"	"65-74"	201	10570	1901.6
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"75-84 years"	"75-84"	205	4904	4180.3
+	"Navajo County, AZ"	"04017"	"2014"	"2014"	"85+ years"	"85+"	206	1587	12980.5
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"< 1 year"	"1"	13	1571	Unreliable
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"15-24 years"	"15-24"	17	14951	Unreliable
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"25-34 years"	"25-34"	55	12655	434.6
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"35-44 years"	"35-44"	48	11419	420.4
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"45-54 years"	"45-54"	82	12791	641.1
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"55-64 years"	"55-64"	133	13856	959.9
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"65-74 years"	"65-74"	172	10980	1566.5
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"75-84 years"	"75-84"	191	5173	3692.2
+	"Navajo County, AZ"	"04017"	"2015"	"2015"	"85+ years"	"85+"	205	1672	12260.8
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"15-24 years"	"15-24"	24	14736	162.9
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"25-34 years"	"25-34"	55	13201	416.6
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"35-44 years"	"35-44"	51	11508	443.2
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"45-54 years"	"45-54"	90	12765	705.1
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"55-64 years"	"55-64"	137	14219	963.5
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"65-74 years"	"65-74"	207	11456	1806.9
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"75-84 years"	"75-84"	221	5440	4062.5
+	"Navajo County, AZ"	"04017"	"2016"	"2016"	"85+ years"	"85+"	219	1746	12543.0
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"< 1 year"	"1"	17	1506	Unreliable
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"15-24 years"	"15-24"	25	14176	176.4
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"25-34 years"	"25-34"	57	13132	434.1
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"35-44 years"	"35-44"	66	11459	576.0
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"45-54 years"	"45-54"	81	12276	659.8
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"55-64 years"	"55-64"	141	14234	990.6
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"65-74 years"	"65-74"	209	11685	1788.6
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"75-84 years"	"75-84"	242	5704	4242.6
+	"Navajo County, AZ"	"04017"	"2017"	"2017"	"85+ years"	"85+"	231	1796	12861.9
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"< 1 year"	"1"	64	11589	552.2
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"1-4 years"	"1-4"	17	43734	Unreliable
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"5-14 years"	"5-14"	17	114404	Unreliable
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"15-24 years"	"15-24"	88	123129	71.5
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"25-34 years"	"25-34"	130	114320	113.7
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"35-44 years"	"35-44"	320	125350	255.3
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"45-54 years"	"45-54"	484	106091	456.2
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"55-64 years"	"55-64"	710	71850	988.2
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"65-74 years"	"65-74"	1375	63029	2181.5
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"75-84 years"	"75-84"	2218	42719	5192.1
+	"Pima County, AZ"	"04019"	"1999"	"1999"	"85+ years"	"85+"	1853	12690	14602.0
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"< 1 year"	"1"	76	11480	662.0
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"1-4 years"	"1-4"	20	44349	45.1
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"5-14 years"	"5-14"	31	117852	26.3
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"15-24 years"	"15-24"	123	125984	97.6
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"25-34 years"	"25-34"	163	113874	143.1
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"35-44 years"	"35-44"	279	126061	221.3
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"45-54 years"	"45-54"	525	110563	474.8
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"55-64 years"	"55-64"	729	74096	983.9
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"65-74 years"	"65-74"	1361	62916	2163.2
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"75-84 years"	"75-84"	2195	43499	5046.1
+	"Pima County, AZ"	"04019"	"2000"	"2000"	"85+ years"	"85+"	1856	13072	14198.3
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"< 1 year"	"1"	92	12271	749.7
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"1-4 years"	"1-4"	20	44864	44.6
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"5-14 years"	"5-14"	34	117965	28.8
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"15-24 years"	"15-24"	105	129921	80.8
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"25-34 years"	"25-34"	144	112656	127.8
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"35-44 years"	"35-44"	298	125487	237.5
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"45-54 years"	"45-54"	520	116344	447.0
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"55-64 years"	"55-64"	757	78020	970.3
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"65-74 years"	"65-74"	1322	63494	2082.1
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"75-84 years"	"75-84"	2285	44792	5101.4
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"85+ years"	"85+"	1904	13466	14139.3
+	"Pima County, AZ"	"04019"	"2001"	"2001"	"Not Stated"	"NS"	18	Not Applicable	Not Applicable
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"< 1 year"	"1"	90	12111	743.1
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"1-4 years"	"1-4"	18	46125	Unreliable
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"5-14 years"	"5-14"	18	118226	Unreliable
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"15-24 years"	"15-24"	115	132780	86.6
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"25-34 years"	"25-34"	149	114325	130.3
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"35-44 years"	"35-44"	320	123652	258.8
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"45-54 years"	"45-54"	618	119126	518.8
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"55-64 years"	"55-64"	721	84132	857.0
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"65-74 years"	"65-74"	1307	64436	2028.4
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"75-84 years"	"75-84"	2269	45464	4990.8
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"85+ years"	"85+"	2104	13890	15147.6
+	"Pima County, AZ"	"04019"	"2002"	"2002"	"Not Stated"	"NS"	16	Not Applicable	Not Applicable
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"< 1 year"	"1"	84	12334	681.0
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"1-4 years"	"1-4"	12	47056	Unreliable
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"5-14 years"	"5-14"	22	118001	18.6
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"15-24 years"	"15-24"	129	134518	95.9
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"25-34 years"	"25-34"	135	115757	116.6
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"35-44 years"	"35-44"	296	121330	244.0
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"45-54 years"	"45-54"	561	121698	461.0
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"55-64 years"	"55-64"	747	89362	835.9
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"65-74 years"	"65-74"	1357	65256	2079.5
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"75-84 years"	"75-84"	2358	46048	5120.7
+	"Pima County, AZ"	"04019"	"2003"	"2003"	"85+ years"	"85+"	2078	14533	14298.5
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"< 1 year"	"1"	100	12663	789.7
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"1-4 years"	"1-4"	18	48256	Unreliable
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"5-14 years"	"5-14"	16	117784	Unreliable
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"15-24 years"	"15-24"	119	136261	87.3
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"25-34 years"	"25-34"	142	118828	119.5
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"35-44 years"	"35-44"	298	120029	248.3
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"45-54 years"	"45-54"	596	124311	479.4
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"55-64 years"	"55-64"	817	94928	860.7
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"65-74 years"	"65-74"	1297	66547	1949.0
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"75-84 years"	"75-84"	2174	46763	4649.0
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"85+ years"	"85+"	2099	14972	14019.5
+	"Pima County, AZ"	"04019"	"2004"	"2004"	"Not Stated"	"NS"	15	Not Applicable	Not Applicable
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"< 1 year"	"1"	110	12753	862.5
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"1-4 years"	"1-4"	20	49570	40.3
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"5-14 years"	"5-14"	13	117921	Unreliable
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"15-24 years"	"15-24"	126	137760	91.5
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"25-34 years"	"25-34"	146	121775	119.9
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"35-44 years"	"35-44"	299	120020	249.1
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"45-54 years"	"45-54"	582	127231	457.4
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"55-64 years"	"55-64"	909	100865	901.2
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"65-74 years"	"65-74"	1274	68459	1861.0
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"75-84 years"	"75-84"	2282	48229	4731.6
+	"Pima County, AZ"	"04019"	"2005"	"2005"	"85+ years"	"85+"	2266	15715	14419.3
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"< 1 year"	"1"	103	12866	800.6
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"1-4 years"	"1-4"	13	50222	Unreliable
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"5-14 years"	"5-14"	20	119474	16.7
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"15-24 years"	"15-24"	144	139846	103.0
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"25-34 years"	"25-34"	173	124647	138.8
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"35-44 years"	"35-44"	313	120447	259.9
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"45-54 years"	"45-54"	634	130039	487.5
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"55-64 years"	"55-64"	879	107053	821.1
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"65-74 years"	"65-74"	1276	70704	1804.7
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"75-84 years"	"75-84"	2120	49000	4326.5
+	"Pima County, AZ"	"04019"	"2006"	"2006"	"85+ years"	"85+"	2281	16632	13714.5
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"< 1 year"	"1"	101	13242	762.7
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"5-14 years"	"5-14"	21	120560	17.4
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"15-24 years"	"15-24"	132	142460	92.7
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"25-34 years"	"25-34"	167	125489	133.1
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"35-44 years"	"35-44"	280	120097	233.1
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"45-54 years"	"45-54"	592	131560	450.0
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"55-64 years"	"55-64"	912	111802	815.7
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"65-74 years"	"65-74"	1207	72901	1655.7
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"75-84 years"	"75-84"	2183	49257	4431.9
+	"Pima County, AZ"	"04019"	"2007"	"2007"	"85+ years"	"85+"	2371	17644	13438.0
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"< 1 year"	"1"	100	13129	761.7
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"1-4 years"	"1-4"	26	51393	50.6
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"5-14 years"	"5-14"	22	121610	18.1
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"15-24 years"	"15-24"	140	144921	96.6
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"25-34 years"	"25-34"	146	125930	115.9
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"35-44 years"	"35-44"	245	118729	206.4
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"45-54 years"	"45-54"	628	132257	474.8
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"55-64 years"	"55-64"	991	115668	856.8
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"65-74 years"	"65-74"	1298	76172	1704.0
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"75-84 years"	"75-84"	2175	49517	4392.4
+	"Pima County, AZ"	"04019"	"2008"	"2008"	"85+ years"	"85+"	2413	18452	13077.2
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"< 1 year"	"1"	83	12027	690.1
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"1-4 years"	"1-4"	16	51318	Unreliable
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"5-14 years"	"5-14"	21	122830	17.1
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"15-24 years"	"15-24"	104	146255	71.1
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"25-34 years"	"25-34"	177	126406	140.0
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"35-44 years"	"35-44"	244	116708	209.1
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"45-54 years"	"45-54"	564	132021	427.2
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"55-64 years"	"55-64"	992	119810	828.0
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"65-74 years"	"65-74"	1353	79423	1703.5
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"75-84 years"	"75-84"	2160	49523	4361.6
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"85+ years"	"85+"	2450	19259	12721.3
+	"Pima County, AZ"	"04019"	"2009"	"2009"	"Not Stated"	"NS"	68	Not Applicable	Not Applicable
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"< 1 year"	"1"	74	12125	610.3
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"1-4 years"	"1-4"	16	50396	Unreliable
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"5-14 years"	"5-14"	22	123902	17.8
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"15-24 years"	"15-24"	108	146684	73.6
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"25-34 years"	"25-34"	186	126173	147.4
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"35-44 years"	"35-44"	224	115795	193.4
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"45-54 years"	"45-54"	581	131528	441.7
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"55-64 years"	"55-64"	1039	122367	849.1
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"65-74 years"	"65-74"	1351	81792	1651.8
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"75-84 years"	"75-84"	2053	49606	4138.6
+	"Pima County, AZ"	"04019"	"2010"	"2010"	"85+ years"	"85+"	2576	19895	12948.0
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"< 1 year"	"1"	58	12085	479.9
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"1-4 years"	"1-4"	15	50239	Unreliable
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"5-14 years"	"5-14"	18	124014	Unreliable
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"15-24 years"	"15-24"	114	146331	77.9
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"25-34 years"	"25-34"	176	128565	136.9
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"35-44 years"	"35-44"	259	115226	224.8
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"45-54 years"	"45-54"	569	129769	438.5
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"55-64 years"	"55-64"	1103	126405	872.6
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"65-74 years"	"65-74"	1369	85168	1607.4
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"75-84 years"	"75-84"	2070	50620	4089.3
+	"Pima County, AZ"	"04019"	"2011"	"2011"	"85+ years"	"85+"	2708	21147	12805.6
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"< 1 year"	"1"	59	11897	495.9
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"1-4 years"	"1-4"	13	48920	Unreliable
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"5-14 years"	"5-14"	15	123977	Unreliable
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"15-24 years"	"15-24"	108	144445	74.8
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"25-34 years"	"25-34"	157	130119	120.7
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"35-44 years"	"35-44"	238	115365	206.3
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"45-54 years"	"45-54"	563	126632	444.6
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"55-64 years"	"55-64"	1140	126741	899.5
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"65-74 years"	"65-74"	1503	90904	1653.4
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"75-84 years"	"75-84"	2171	51558	4210.8
+	"Pima County, AZ"	"04019"	"2012"	"2012"	"85+ years"	"85+"	2825	21836	12937.4
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"< 1 year"	"1"	58	11651	497.8
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"1-4 years"	"1-4"	18	47815	Unreliable
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"5-14 years"	"5-14"	17	123557	Unreliable
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"15-24 years"	"15-24"	112	157617	71.1
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"25-34 years"	"25-34"	179	123057	145.5
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"35-44 years"	"35-44"	237	114088	207.7
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"45-54 years"	"45-54"	589	121754	483.8
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"55-64 years"	"55-64"	1104	125889	877.0
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"65-74 years"	"65-74"	1452	95770	1516.1
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"75-84 years"	"75-84"	2055	52777	3893.7
+	"Pima County, AZ"	"04019"	"2013"	"2013"	"85+ years"	"85+"	2812	22579	12454.1
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"< 1 year"	"1"	65	11820	549.9
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"1-4 years"	"1-4"	21	47855	43.9
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"5-14 years"	"5-14"	19	123131	Unreliable
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"15-24 years"	"15-24"	76	159518	47.6
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"25-34 years"	"25-34"	176	123470	142.5
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"35-44 years"	"35-44"	246	114407	215.0
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"45-54 years"	"45-54"	544	119441	455.5
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"55-64 years"	"55-64"	1124	126686	887.2
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"65-74 years"	"65-74"	1595	100398	1588.7
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"75-84 years"	"75-84"	2126	54462	3903.6
+	"Pima County, AZ"	"04019"	"2014"	"2014"	"85+ years"	"85+"	2756	23328	11814.1
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"< 1 year"	"1"	48	11891	403.7
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"1-4 years"	"1-4"	16	47459	Unreliable
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"5-14 years"	"5-14"	10	121813	Unreliable
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"15-24 years"	"15-24"	89	159994	55.6
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"25-34 years"	"25-34"	194	123556	157.0
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"35-44 years"	"35-44"	240	114135	210.3
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"45-54 years"	"45-54"	603	117536	513.0
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"55-64 years"	"55-64"	1181	127776	924.3
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"65-74 years"	"65-74"	1696	105439	1608.5
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"75-84 years"	"75-84"	2178	56149	3879.0
+	"Pima County, AZ"	"04019"	"2015"	"2015"	"85+ years"	"85+"	2993	24277	12328.5
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"< 1 year"	"1"	53	11848	447.3
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"1-4 years"	"1-4"	21	47329	44.4
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"15-24 years"	"15-24"	114	159737	71.4
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"25-34 years"	"25-34"	210	125088	167.9
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"35-44 years"	"35-44"	232	113760	203.9
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"45-54 years"	"45-54"	565	115837	487.8
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"55-64 years"	"55-64"	1159	128443	902.3
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"65-74 years"	"65-74"	1806	110310	1637.2
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"75-84 years"	"75-84"	2240	58169	3850.8
+	"Pima County, AZ"	"04019"	"2016"	"2016"	"85+ years"	"85+"	3099	25221	12287.4
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"< 1 year"	"1"	43	11472	374.8
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"1-4 years"	"1-4"	10	47434	Unreliable
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"5-14 years"	"5-14"	14	120432	Unreliable
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"15-24 years"	"15-24"	98	159000	61.6
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"25-34 years"	"25-34"	214	128490	166.5
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"35-44 years"	"35-44"	250	115860	215.8
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"45-54 years"	"45-54"	512	114552	447.0
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"55-64 years"	"55-64"	1216	128895	943.4
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"65-74 years"	"65-74"	1858	112503	1651.5
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"75-84 years"	"75-84"	2345	59378	3949.3
+	"Pima County, AZ"	"04019"	"2017"	"2017"	"85+ years"	"85+"	3023	24753	12212.7
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"< 1 year"	"1"	18	2406	Unreliable
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"15-24 years"	"15-24"	28	22220	126.0
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"25-34 years"	"25-34"	38	23003	165.2
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"35-44 years"	"35-44"	65	24691	263.3
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"45-54 years"	"45-54"	116	20287	571.8
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"55-64 years"	"55-64"	204	18275	1116.3
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"65-74 years"	"65-74"	343	17558	1953.5
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"75-84 years"	"75-84"	367	8909	4119.4
+	"Pinal County, AZ"	"04021"	"1999"	"1999"	"85+ years"	"85+"	246	1925	12779.2
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"< 1 year"	"1"	25	2420	1033.1
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"15-24 years"	"15-24"	32	23135	138.3
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"25-34 years"	"25-34"	44	23594	186.5
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"35-44 years"	"35-44"	79	25384	311.2
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"45-54 years"	"45-54"	123	21405	574.6
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"55-64 years"	"55-64"	179	19374	923.9
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"65-74 years"	"65-74"	393	17990	2184.5
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"75-84 years"	"75-84"	417	9173	4546.0
+	"Pinal County, AZ"	"04021"	"2000"	"2000"	"85+ years"	"85+"	244	2008	12151.4
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"< 1 year"	"1"	22	2622	839.1
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"15-24 years"	"15-24"	23	24392	94.3
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"25-34 years"	"25-34"	32	24714	129.5
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"35-44 years"	"35-44"	77	26203	293.9
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"45-54 years"	"45-54"	123	22893	537.3
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"55-64 years"	"55-64"	196	20185	971.0
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"65-74 years"	"65-74"	350	18277	1915.0
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"75-84 years"	"75-84"	441	9689	4551.6
+	"Pinal County, AZ"	"04021"	"2001"	"2001"	"85+ years"	"85+"	240	2088	11494.3
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"< 1 year"	"1"	16	2784	Unreliable
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"15-24 years"	"15-24"	39	25737	151.5
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"25-34 years"	"25-34"	37	26669	138.7
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"35-44 years"	"35-44"	70	27411	255.4
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"45-54 years"	"45-54"	150	24146	621.2
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"55-64 years"	"55-64"	219	21171	1034.4
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"65-74 years"	"65-74"	373	18483	2018.1
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"75-84 years"	"75-84"	480	9966	4816.4
+	"Pinal County, AZ"	"04021"	"2002"	"2002"	"85+ years"	"85+"	286	2127	13446.2
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"< 1 year"	"1"	19	2943	Unreliable
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"1-4 years"	"1-4"	10	11977	Unreliable
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"5-14 years"	"5-14"	10	28746	Unreliable
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"15-24 years"	"15-24"	33	27159	121.5
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"25-34 years"	"25-34"	37	28693	129.0
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"35-44 years"	"35-44"	76	28656	265.2
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"45-54 years"	"45-54"	156	25703	606.9
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"55-64 years"	"55-64"	230	22690	1013.7
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"65-74 years"	"65-74"	366	18848	1941.9
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"75-84 years"	"75-84"	463	10291	4499.1
+	"Pinal County, AZ"	"04021"	"2003"	"2003"	"85+ years"	"85+"	312	2214	14092.1
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"< 1 year"	"1"	21	3220	652.2
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"15-24 years"	"15-24"	31	28240	109.8
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"25-34 years"	"25-34"	54	30716	175.8
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"35-44 years"	"35-44"	72	30103	239.2
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"45-54 years"	"45-54"	130	27321	475.8
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"55-64 years"	"55-64"	204	24242	841.5
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"65-74 years"	"65-74"	368	19736	1864.6
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"75-84 years"	"75-84"	474	10721	4421.2
+	"Pinal County, AZ"	"04021"	"2004"	"2004"	"85+ years"	"85+"	317	2338	13558.6
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"< 1 year"	"1"	31	3574	867.4
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"5-14 years"	"5-14"	12	32340	Unreliable
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"15-24 years"	"15-24"	41	29455	139.2
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"25-34 years"	"25-34"	32	33108	96.7
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"35-44 years"	"35-44"	86	31934	269.3
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"45-54 years"	"45-54"	195	29525	660.5
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"55-64 years"	"55-64"	270	26952	1001.8
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"65-74 years"	"65-74"	401	21391	1874.6
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"75-84 years"	"75-84"	499	11373	4387.6
+	"Pinal County, AZ"	"04021"	"2005"	"2005"	"85+ years"	"85+"	349	2481	14066.9
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"< 1 year"	"1"	29	4331	669.6
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"5-14 years"	"5-14"	14	37616	Unreliable
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"15-24 years"	"15-24"	46	32624	141.0
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"25-34 years"	"25-34"	45	40182	112.0
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"35-44 years"	"35-44"	85	36707	231.6
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"45-54 years"	"45-54"	186	33429	556.4
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"55-64 years"	"55-64"	270	30783	877.1
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"65-74 years"	"65-74"	411	24184	1699.5
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"75-84 years"	"75-84"	526	12364	4254.3
+	"Pinal County, AZ"	"04021"	"2006"	"2006"	"85+ years"	"85+"	348	2778	12527.0
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"< 1 year"	"1"	39	5118	762.0
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"1-4 years"	"1-4"	10	19344	Unreliable
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"15-24 years"	"15-24"	38	36265	104.8
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"25-34 years"	"25-34"	52	47020	110.6
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"35-44 years"	"35-44"	104	41637	249.8
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"45-54 years"	"45-54"	177	36993	478.5
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"55-64 years"	"55-64"	332	34281	968.5
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"65-74 years"	"65-74"	430	26289	1635.7
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"75-84 years"	"75-84"	516	13075	3946.5
+	"Pinal County, AZ"	"04021"	"2007"	"2007"	"85+ years"	"85+"	345	3078	11208.6
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"< 1 year"	"1"	33	5938	555.7
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"15-24 years"	"15-24"	39	38994	100.0
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"25-34 years"	"25-34"	50	51532	97.0
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"35-44 years"	"35-44"	76	45313	167.7
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"45-54 years"	"45-54"	170	40353	421.3
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"55-64 years"	"55-64"	311	37538	828.5
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"65-74 years"	"65-74"	415	28776	1442.2
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"75-84 years"	"75-84"	540	13789	3916.2
+	"Pinal County, AZ"	"04021"	"2008"	"2008"	"85+ years"	"85+"	374	3236	11557.5
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"< 1 year"	"1"	40	5944	672.9
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"15-24 years"	"15-24"	36	40375	89.2
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"25-34 years"	"25-34"	46	53055	86.7
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"35-44 years"	"35-44"	96	46841	204.9
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"45-54 years"	"45-54"	165	41707	395.6
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"55-64 years"	"55-64"	290	39534	733.5
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"65-74 years"	"65-74"	445	31318	1420.9
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"75-84 years"	"75-84"	510	14470	3524.5
+	"Pinal County, AZ"	"04021"	"2009"	"2009"	"85+ years"	"85+"	375	3510	10683.8
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"< 1 year"	"1"	20	5627	355.4
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"15-24 years"	"15-24"	45	43821	102.7
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"25-34 years"	"25-34"	71	56746	125.1
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"35-44 years"	"35-44"	85	50359	168.8
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"45-54 years"	"45-54"	178	44388	401.0
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"55-64 years"	"55-64"	353	42808	824.6
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"65-74 years"	"65-74"	503	33255	1512.6
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"75-84 years"	"75-84"	551	15089	3651.7
+	"Pinal County, AZ"	"04021"	"2010"	"2010"	"85+ years"	"85+"	454	3727	12181.4
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"< 1 year"	"1"	26	5219	498.2
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"5-14 years"	"5-14"	12	56176	Unreliable
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"15-24 years"	"15-24"	35	44526	78.6
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"25-34 years"	"25-34"	46	55493	82.9
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"35-44 years"	"35-44"	72	50872	141.5
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"45-54 years"	"45-54"	203	45000	451.1
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"55-64 years"	"55-64"	348	45351	767.3
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"65-74 years"	"65-74"	527	35999	1463.9
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"75-84 years"	"75-84"	615	16253	3783.9
+	"Pinal County, AZ"	"04021"	"2011"	"2011"	"85+ years"	"85+"	513	4277	11994.4
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"< 1 year"	"1"	26	4911	529.4
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"5-14 years"	"5-14"	11	56592	Unreliable
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"15-24 years"	"15-24"	27	45513	59.3
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"25-34 years"	"25-34"	55	54700	100.5
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"35-44 years"	"35-44"	84	51774	162.2
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"45-54 years"	"45-54"	189	44867	421.2
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"55-64 years"	"55-64"	399	45471	877.5
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"65-74 years"	"65-74"	561	39508	1420.0
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"75-84 years"	"75-84"	644	17490	3682.1
+	"Pinal County, AZ"	"04021"	"2012"	"2012"	"85+ years"	"85+"	471	4640	10150.9
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"< 1 year"	"1"	17	4488	Unreliable
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"1-4 years"	"1-4"	10	20565	Unreliable
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"5-14 years"	"5-14"	12	57254	Unreliable
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"15-24 years"	"15-24"	43	46079	93.3
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"25-34 years"	"25-34"	61	52873	115.4
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"35-44 years"	"35-44"	84	51712	162.4
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"45-54 years"	"45-54"	186	44671	416.4
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"55-64 years"	"55-64"	353	45339	778.6
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"65-74 years"	"65-74"	607	42376	1432.4
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"75-84 years"	"75-84"	584	19025	3069.6
+	"Pinal County, AZ"	"04021"	"2013"	"2013"	"85+ years"	"85+"	512	4968	10306.0
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"< 1 year"	"1"	29	4600	630.4
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"15-24 years"	"15-24"	33	47656	69.2
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"25-34 years"	"25-34"	58	53920	107.6
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"35-44 years"	"35-44"	87	53216	163.5
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"45-54 years"	"45-54"	193	45666	422.6
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"55-64 years"	"55-64"	382	46788	816.4
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"65-74 years"	"65-74"	653	46110	1416.2
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"75-84 years"	"75-84"	657	20882	3146.3
+	"Pinal County, AZ"	"04021"	"2014"	"2014"	"85+ years"	"85+"	546	5457	10005.5
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"< 1 year"	"1"	26	4614	563.5
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"1-4 years"	"1-4"	10	18971	Unreliable
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"15-24 years"	"15-24"	40	47991	83.3
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"25-34 years"	"25-34"	69	53735	128.4
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"35-44 years"	"35-44"	101	53294	189.5
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"45-54 years"	"45-54"	205	45571	449.8
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"55-64 years"	"55-64"	401	47582	842.8
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"65-74 years"	"65-74"	677	48722	1389.5
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"75-84 years"	"75-84"	798	22694	3516.3
+	"Pinal County, AZ"	"04021"	"2015"	"2015"	"85+ years"	"85+"	654	6111	10702.0
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"< 1 year"	"1"	23	4578	502.4
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"15-24 years"	"15-24"	32	48901	65.4
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"25-34 years"	"25-34"	56	54315	103.1
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"35-44 years"	"35-44"	110	54400	202.2
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"45-54 years"	"45-54"	204	46578	438.0
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"55-64 years"	"55-64"	419	49121	853.0
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"65-74 years"	"65-74"	769	51915	1481.3
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"75-84 years"	"75-84"	754	24987	3017.6
+	"Pinal County, AZ"	"04021"	"2016"	"2016"	"85+ years"	"85+"	645	6679	9657.1
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"< 1 year"	"1"	27	4529	596.2
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"15-24 years"	"15-24"	37	50330	73.5
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"25-34 years"	"25-34"	87	56710	153.4
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"35-44 years"	"35-44"	118	56254	209.8
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"45-54 years"	"45-54"	217	48248	449.8
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"55-64 years"	"55-64"	403	50901	791.7
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"65-74 years"	"65-74"	783	52565	1489.6
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"75-84 years"	"75-84"	800	25883	3090.8
+	"Pinal County, AZ"	"04021"	"2017"	"2017"	"85+ years"	"85+"	654	6914	9459.1
+	"Santa Cruz County, AZ"	"04023"	"1999"	"1999"	"35-44 years"	"35-44"	10	5446	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"1999"	"1999"	"45-54 years"	"45-54"	10	4553	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"1999"	"1999"	"55-64 years"	"55-64"	23	3192	720.6
+	"Santa Cruz County, AZ"	"04023"	"1999"	"1999"	"65-74 years"	"65-74"	43	2362	1820.5
+	"Santa Cruz County, AZ"	"04023"	"1999"	"1999"	"75-84 years"	"75-84"	48	1303	3683.8
+	"Santa Cruz County, AZ"	"04023"	"1999"	"1999"	"85+ years"	"85+"	48	341	14076.2
+	"Santa Cruz County, AZ"	"04023"	"2000"	"2000"	"45-54 years"	"45-54"	11	4719	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2000"	"2000"	"55-64 years"	"55-64"	18	3260	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2000"	"2000"	"65-74 years"	"65-74"	44	2399	1834.1
+	"Santa Cruz County, AZ"	"04023"	"2000"	"2000"	"75-84 years"	"75-84"	67	1364	4912.0
+	"Santa Cruz County, AZ"	"04023"	"2000"	"2000"	"85+ years"	"85+"	45	351	12820.5
+	"Santa Cruz County, AZ"	"04023"	"2001"	"2001"	"45-54 years"	"45-54"	12	4984	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2001"	"2001"	"55-64 years"	"55-64"	28	3456	810.2
+	"Santa Cruz County, AZ"	"04023"	"2001"	"2001"	"65-74 years"	"65-74"	34	2463	1380.4
+	"Santa Cruz County, AZ"	"04023"	"2001"	"2001"	"75-84 years"	"75-84"	63	1444	4362.9
+	"Santa Cruz County, AZ"	"04023"	"2001"	"2001"	"85+ years"	"85+"	46	377	12201.6
+	"Santa Cruz County, AZ"	"04023"	"2002"	"2002"	"35-44 years"	"35-44"	11	5548	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2002"	"2002"	"45-54 years"	"45-54"	24	5130	467.8
+	"Santa Cruz County, AZ"	"04023"	"2002"	"2002"	"55-64 years"	"55-64"	13	3704	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2002"	"2002"	"65-74 years"	"65-74"	37	2513	1472.3
+	"Santa Cruz County, AZ"	"04023"	"2002"	"2002"	"75-84 years"	"75-84"	76	1476	5149.1
+	"Santa Cruz County, AZ"	"04023"	"2002"	"2002"	"85+ years"	"85+"	64	411	15571.8
+	"Santa Cruz County, AZ"	"04023"	"2003"	"2003"	"45-54 years"	"45-54"	11	5290	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2003"	"2003"	"55-64 years"	"55-64"	31	3922	790.4
+	"Santa Cruz County, AZ"	"04023"	"2003"	"2003"	"65-74 years"	"65-74"	36	2635	1366.2
+	"Santa Cruz County, AZ"	"04023"	"2003"	"2003"	"75-84 years"	"75-84"	59	1472	4008.2
+	"Santa Cruz County, AZ"	"04023"	"2003"	"2003"	"85+ years"	"85+"	59	441	13378.7
+	"Santa Cruz County, AZ"	"04023"	"2004"	"2004"	"45-54 years"	"45-54"	18	5467	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2004"	"2004"	"55-64 years"	"55-64"	27	4133	653.3
+	"Santa Cruz County, AZ"	"04023"	"2004"	"2004"	"65-74 years"	"65-74"	47	2755	1706.0
+	"Santa Cruz County, AZ"	"04023"	"2004"	"2004"	"75-84 years"	"75-84"	51	1529	3335.5
+	"Santa Cruz County, AZ"	"04023"	"2004"	"2004"	"85+ years"	"85+"	55	459	11982.6
+	"Santa Cruz County, AZ"	"04023"	"2005"	"2005"	"45-54 years"	"45-54"	14	5735	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2005"	"2005"	"55-64 years"	"55-64"	34	4421	769.1
+	"Santa Cruz County, AZ"	"04023"	"2005"	"2005"	"65-74 years"	"65-74"	48	2849	1684.8
+	"Santa Cruz County, AZ"	"04023"	"2005"	"2005"	"75-84 years"	"75-84"	86	1598	5381.7
+	"Santa Cruz County, AZ"	"04023"	"2005"	"2005"	"85+ years"	"85+"	59	503	11729.6
+	"Santa Cruz County, AZ"	"04023"	"2006"	"2006"	"35-44 years"	"35-44"	10	5743	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2006"	"2006"	"45-54 years"	"45-54"	19	5999	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2006"	"2006"	"55-64 years"	"55-64"	28	4753	589.1
+	"Santa Cruz County, AZ"	"04023"	"2006"	"2006"	"65-74 years"	"65-74"	45	3022	1489.1
+	"Santa Cruz County, AZ"	"04023"	"2006"	"2006"	"75-84 years"	"75-84"	59	1669	3535.1
+	"Santa Cruz County, AZ"	"04023"	"2006"	"2006"	"85+ years"	"85+"	63	552	11413.0
+	"Santa Cruz County, AZ"	"04023"	"2007"	"2007"	"45-54 years"	"45-54"	15	6191	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2007"	"2007"	"55-64 years"	"55-64"	42	4989	841.9
+	"Santa Cruz County, AZ"	"04023"	"2007"	"2007"	"65-74 years"	"65-74"	50	3185	1569.9
+	"Santa Cruz County, AZ"	"04023"	"2007"	"2007"	"75-84 years"	"75-84"	68	1699	4002.4
+	"Santa Cruz County, AZ"	"04023"	"2007"	"2007"	"85+ years"	"85+"	70	601	11647.3
+	"Santa Cruz County, AZ"	"04023"	"2008"	"2008"	"45-54 years"	"45-54"	13	6295	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2008"	"2008"	"55-64 years"	"55-64"	24	5215	460.2
+	"Santa Cruz County, AZ"	"04023"	"2008"	"2008"	"65-74 years"	"65-74"	46	3439	1337.6
+	"Santa Cruz County, AZ"	"04023"	"2008"	"2008"	"75-84 years"	"75-84"	76	1766	4303.5
+	"Santa Cruz County, AZ"	"04023"	"2008"	"2008"	"85+ years"	"85+"	71	632	11234.2
+	"Santa Cruz County, AZ"	"04023"	"2009"	"2009"	"45-54 years"	"45-54"	16	6432	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2009"	"2009"	"55-64 years"	"55-64"	36	5439	661.9
+	"Santa Cruz County, AZ"	"04023"	"2009"	"2009"	"65-74 years"	"65-74"	66	3605	1830.8
+	"Santa Cruz County, AZ"	"04023"	"2009"	"2009"	"75-84 years"	"75-84"	66	1804	3658.5
+	"Santa Cruz County, AZ"	"04023"	"2009"	"2009"	"85+ years"	"85+"	75	646	11609.9
+	"Santa Cruz County, AZ"	"04023"	"2010"	"2010"	"45-54 years"	"45-54"	10	6443	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2010"	"2010"	"55-64 years"	"55-64"	40	5620	711.7
+	"Santa Cruz County, AZ"	"04023"	"2010"	"2010"	"65-74 years"	"65-74"	43	3691	1165.0
+	"Santa Cruz County, AZ"	"04023"	"2010"	"2010"	"75-84 years"	"75-84"	60	1877	3196.6
+	"Santa Cruz County, AZ"	"04023"	"2010"	"2010"	"85+ years"	"85+"	90	656	13719.5
+	"Santa Cruz County, AZ"	"04023"	"2011"	"2011"	"45-54 years"	"45-54"	11	6277	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2011"	"2011"	"55-64 years"	"55-64"	35	5723	611.6
+	"Santa Cruz County, AZ"	"04023"	"2011"	"2011"	"65-74 years"	"65-74"	49	3881	1262.6
+	"Santa Cruz County, AZ"	"04023"	"2011"	"2011"	"75-84 years"	"75-84"	69	2008	3436.3
+	"Santa Cruz County, AZ"	"04023"	"2011"	"2011"	"85+ years"	"85+"	71	699	10157.4
+	"Santa Cruz County, AZ"	"04023"	"2012"	"2012"	"15-24 years"	"15-24"	10	6961	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2012"	"2012"	"45-54 years"	"45-54"	18	6012	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2012"	"2012"	"55-64 years"	"55-64"	28	5748	487.1
+	"Santa Cruz County, AZ"	"04023"	"2012"	"2012"	"65-74 years"	"65-74"	68	4068	1671.6
+	"Santa Cruz County, AZ"	"04023"	"2012"	"2012"	"75-84 years"	"75-84"	77	2105	3658.0
+	"Santa Cruz County, AZ"	"04023"	"2012"	"2012"	"85+ years"	"85+"	89	730	12191.8
+	"Santa Cruz County, AZ"	"04023"	"2013"	"2013"	"45-54 years"	"45-54"	12	5818	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2013"	"2013"	"55-64 years"	"55-64"	39	5736	679.9
+	"Santa Cruz County, AZ"	"04023"	"2013"	"2013"	"65-74 years"	"65-74"	48	4250	1129.4
+	"Santa Cruz County, AZ"	"04023"	"2013"	"2013"	"75-84 years"	"75-84"	80	2178	3673.1
+	"Santa Cruz County, AZ"	"04023"	"2013"	"2013"	"85+ years"	"85+"	88	719	12239.2
+	"Santa Cruz County, AZ"	"04023"	"2014"	"2014"	"35-44 years"	"35-44"	10	5146	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2014"	"2014"	"55-64 years"	"55-64"	26	5805	447.9
+	"Santa Cruz County, AZ"	"04023"	"2014"	"2014"	"65-74 years"	"65-74"	53	4379	1210.3
+	"Santa Cruz County, AZ"	"04023"	"2014"	"2014"	"75-84 years"	"75-84"	85	2230	3811.7
+	"Santa Cruz County, AZ"	"04023"	"2014"	"2014"	"85+ years"	"85+"	84	760	11052.6
+	"Santa Cruz County, AZ"	"04023"	"2015"	"2015"	"45-54 years"	"45-54"	14	5693	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2015"	"2015"	"55-64 years"	"55-64"	39	5846	667.1
+	"Santa Cruz County, AZ"	"04023"	"2015"	"2015"	"65-74 years"	"65-74"	54	4502	1199.5
+	"Santa Cruz County, AZ"	"04023"	"2015"	"2015"	"75-84 years"	"75-84"	77	2325	3311.8
+	"Santa Cruz County, AZ"	"04023"	"2015"	"2015"	"85+ years"	"85+"	93	841	11058.3
+	"Santa Cruz County, AZ"	"04023"	"2016"	"2016"	"45-54 years"	"45-54"	14	5453	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2016"	"2016"	"55-64 years"	"55-64"	27	5717	472.3
+	"Santa Cruz County, AZ"	"04023"	"2016"	"2016"	"65-74 years"	"65-74"	49	4641	1055.8
+	"Santa Cruz County, AZ"	"04023"	"2016"	"2016"	"75-84 years"	"75-84"	91	2388	3810.7
+	"Santa Cruz County, AZ"	"04023"	"2016"	"2016"	"85+ years"	"85+"	103	908	11343.6
+	"Santa Cruz County, AZ"	"04023"	"2017"	"2017"	"45-54 years"	"45-54"	10	5428	Unreliable
+	"Santa Cruz County, AZ"	"04023"	"2017"	"2017"	"55-64 years"	"55-64"	33	5746	574.3
+	"Santa Cruz County, AZ"	"04023"	"2017"	"2017"	"65-74 years"	"65-74"	57	4710	1210.2
+	"Santa Cruz County, AZ"	"04023"	"2017"	"2017"	"75-84 years"	"75-84"	82	2453	3342.8
+	"Santa Cruz County, AZ"	"04023"	"2017"	"2017"	"85+ years"	"85+"	91	864	10532.4
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"15-24 years"	"15-24"	17	17759	Unreliable
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"25-34 years"	"25-34"	19	15213	Unreliable
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"35-44 years"	"35-44"	57	21918	260.1
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"45-54 years"	"45-54"	109	23117	471.5
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"55-64 years"	"55-64"	196	20714	946.2
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"65-74 years"	"65-74"	391	20170	1938.5
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"75-84 years"	"75-84"	620	12680	4889.6
+	"Yavapai County, AZ"	"04025"	"1999"	"1999"	"85+ years"	"85+"	489	3374	14493.2
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"< 1 year"	"1"	13	1608	Unreliable
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"15-24 years"	"15-24"	22	18500	118.9
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"25-34 years"	"25-34"	19	15335	Unreliable
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"35-44 years"	"35-44"	54	22165	243.6
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"45-54 years"	"45-54"	110	24300	452.7
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"55-64 years"	"55-64"	179	21548	830.7
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"65-74 years"	"65-74"	407	20257	2009.2
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"75-84 years"	"75-84"	635	13030	4873.4
+	"Yavapai County, AZ"	"04025"	"2000"	"2000"	"85+ years"	"85+"	470	3529	13318.2
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"< 1 year"	"1"	14	1768	Unreliable
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"15-24 years"	"15-24"	21	19261	109.0
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"25-34 years"	"25-34"	26	15323	169.7
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"35-44 years"	"35-44"	62	22281	278.3
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"45-54 years"	"45-54"	111	25949	427.8
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"55-64 years"	"55-64"	157	22727	690.8
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"65-74 years"	"65-74"	379	20465	1851.9
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"75-84 years"	"75-84"	661	13456	4912.3
+	"Yavapai County, AZ"	"04025"	"2001"	"2001"	"85+ years"	"85+"	514	3677	13978.8
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"15-24 years"	"15-24"	15	19831	Unreliable
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"25-34 years"	"25-34"	24	15534	154.5
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"35-44 years"	"35-44"	55	22303	246.6
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"45-54 years"	"45-54"	135	26626	507.0
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"55-64 years"	"55-64"	200	24623	812.2
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"65-74 years"	"65-74"	408	20763	1965.0
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"75-84 years"	"75-84"	629	13904	4523.9
+	"Yavapai County, AZ"	"04025"	"2002"	"2002"	"85+ years"	"85+"	567	3820	14842.9
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	"15-24 years"	"15-24"	23	20226	113.7
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	"25-34 years"	"25-34"	18	15982	Unreliable
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	"35-44 years"	"35-44"	60	22132	271.1
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	"45-54 years"	"45-54"	135	27391	492.9
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	"55-64 years"	"55-64"	231	26252	879.9
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	"65-74 years"	"65-74"	379	21259	1782.8
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	"75-84 years"	"75-84"	693	14085	4920.1
+	"Yavapai County, AZ"	"04025"	"2003"	"2003"	"85+ years"	"85+"	611	4033	15150.0
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"15-24 years"	"15-24"	29	20698	140.1
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"25-34 years"	"25-34"	24	16406	146.3
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"35-44 years"	"35-44"	58	22015	263.5
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"45-54 years"	"45-54"	128	28345	451.6
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"55-64 years"	"55-64"	187	28357	659.4
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"65-74 years"	"65-74"	387	22131	1748.7
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"75-84 years"	"75-84"	694	14386	4824.1
+	"Yavapai County, AZ"	"04025"	"2004"	"2004"	"85+ years"	"85+"	591	4329	13652.1
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"< 1 year"	"1"	10	2057	Unreliable
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"15-24 years"	"15-24"	25	21309	117.3
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"25-34 years"	"25-34"	24	17231	139.3
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"35-44 years"	"35-44"	50	22184	225.4
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"45-54 years"	"45-54"	155	29549	524.6
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"55-64 years"	"55-64"	223	30770	724.7
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"65-74 years"	"65-74"	408	23154	1762.1
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"75-84 years"	"75-84"	690	14728	4685.0
+	"Yavapai County, AZ"	"04025"	"2005"	"2005"	"85+ years"	"85+"	699	4529	15433.9
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"< 1 year"	"1"	19	2221	Unreliable
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"15-24 years"	"15-24"	26	22189	117.2
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"25-34 years"	"25-34"	26	17838	145.8
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"35-44 years"	"35-44"	62	22600	274.3
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"45-54 years"	"45-54"	127	30757	412.9
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"55-64 years"	"55-64"	253	33184	762.4
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"65-74 years"	"65-74"	445	24338	1828.4
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"75-84 years"	"75-84"	724	15107	4792.5
+	"Yavapai County, AZ"	"04025"	"2006"	"2006"	"85+ years"	"85+"	728	4814	15122.6
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"< 1 year"	"1"	19	2405	Unreliable
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"15-24 years"	"15-24"	21	22506	93.3
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"25-34 years"	"25-34"	32	18501	173.0
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"35-44 years"	"35-44"	47	22288	210.9
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"45-54 years"	"45-54"	148	31161	475.0
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"55-64 years"	"55-64"	288	34560	833.3
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"65-74 years"	"65-74"	404	25398	1590.7
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"75-84 years"	"75-84"	676	15170	4456.2
+	"Yavapai County, AZ"	"04025"	"2007"	"2007"	"85+ years"	"85+"	729	5047	14444.2
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	"15-24 years"	"15-24"	18	22388	Unreliable
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	"25-34 years"	"25-34"	28	18728	149.5
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	"35-44 years"	"35-44"	40	21725	184.1
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	"45-54 years"	"45-54"	147	31234	470.6
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	"55-64 years"	"55-64"	277	35150	788.1
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	"65-74 years"	"65-74"	439	26830	1636.2
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	"75-84 years"	"75-84"	714	15613	4573.1
+	"Yavapai County, AZ"	"04025"	"2008"	"2008"	"85+ years"	"85+"	720	5196	13856.8
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"< 1 year"	"1"	15	2046	Unreliable
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"15-24 years"	"15-24"	18	22253	Unreliable
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"25-34 years"	"25-34"	26	18732	138.8
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"35-44 years"	"35-44"	58	20883	277.7
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"45-54 years"	"45-54"	147	30497	482.0
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"55-64 years"	"55-64"	287	35732	803.2
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"65-74 years"	"65-74"	420	28071	1496.2
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"75-84 years"	"75-84"	657	15731	4176.5
+	"Yavapai County, AZ"	"04025"	"2009"	"2009"	"85+ years"	"85+"	682	5616	12143.9
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"< 1 year"	"1"	10	1957	Unreliable
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"15-24 years"	"15-24"	18	22083	Unreliable
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"25-34 years"	"25-34"	32	18552	172.5
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"35-44 years"	"35-44"	45	20458	220.0
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"45-54 years"	"45-54"	132	29810	442.8
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"55-64 years"	"55-64"	296	36237	816.8
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"65-74 years"	"65-74"	454	28925	1569.6
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"75-84 years"	"75-84"	690	15996	4313.6
+	"Yavapai County, AZ"	"04025"	"2010"	"2010"	"85+ years"	"85+"	768	5846	13137.2
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"15-24 years"	"15-24"	17	22053	Unreliable
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"25-34 years"	"25-34"	29	18552	156.3
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"35-44 years"	"35-44"	45	19878	226.4
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"45-54 years"	"45-54"	147	28723	511.8
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"55-64 years"	"55-64"	314	37244	843.1
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"65-74 years"	"65-74"	437	30451	1435.1
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"75-84 years"	"75-84"	707	16702	4233.0
+	"Yavapai County, AZ"	"04025"	"2011"	"2011"	"85+ years"	"85+"	822	6227	13200.6
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"< 1 year"	"1"	10	1842	Unreliable
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"15-24 years"	"15-24"	22	22199	99.1
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"25-34 years"	"25-34"	35	18614	188.0
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"35-44 years"	"35-44"	60	19389	309.5
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"45-54 years"	"45-54"	138	27643	499.2
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"55-64 years"	"55-64"	324	37457	865.0
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"65-74 years"	"65-74"	501	32527	1540.3
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"75-84 years"	"75-84"	696	16968	4101.8
+	"Yavapai County, AZ"	"04025"	"2012"	"2012"	"85+ years"	"85+"	858	6434	13335.4
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"15-24 years"	"15-24"	22	21829	100.8
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"25-34 years"	"25-34"	46	19101	240.8
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"35-44 years"	"35-44"	65	19425	334.6
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"45-54 years"	"45-54"	123	27006	455.5
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"55-64 years"	"55-64"	343	37818	907.0
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"65-74 years"	"65-74"	533	34649	1538.3
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"75-84 years"	"75-84"	686	17520	3915.5
+	"Yavapai County, AZ"	"04025"	"2013"	"2013"	"85+ years"	"85+"	905	6713	13481.3
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"< 1 year"	"1"	11	1804	Unreliable
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"15-24 years"	"15-24"	18	22104	Unreliable
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"25-34 years"	"25-34"	28	19678	142.3
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"35-44 years"	"35-44"	58	19643	295.3
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"45-54 years"	"45-54"	152	26413	575.5
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"55-64 years"	"55-64"	347	38504	901.2
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"65-74 years"	"65-74"	586	36584	1601.8
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"75-84 years"	"75-84"	673	18124	3713.3
+	"Yavapai County, AZ"	"04025"	"2014"	"2014"	"85+ years"	"85+"	905	6887	13140.7
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"< 1 year"	"1"	13	1897	Unreliable
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"15-24 years"	"15-24"	24	21951	109.3
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"25-34 years"	"25-34"	33	20098	164.2
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"35-44 years"	"35-44"	48	19738	243.2
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"45-54 years"	"45-54"	143	26006	549.9
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"55-64 years"	"55-64"	347	38825	893.8
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"65-74 years"	"65-74"	580	38551	1504.5
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"75-84 years"	"75-84"	800	18982	4214.5
+	"Yavapai County, AZ"	"04025"	"2015"	"2015"	"85+ years"	"85+"	935	7101	13167.2
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"< 1 year"	"1"	11	1940	Unreliable
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"15-24 years"	"15-24"	19	21743	Unreliable
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"25-34 years"	"25-34"	39	20517	190.1
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"35-44 years"	"35-44"	49	19619	249.8
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"45-54 years"	"45-54"	118	25392	464.7
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"55-64 years"	"55-64"	339	39478	858.7
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"65-74 years"	"65-74"	616	40674	1514.5
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"75-84 years"	"75-84"	780	19981	3903.7
+	"Yavapai County, AZ"	"04025"	"2016"	"2016"	"85+ years"	"85+"	993	7276	13647.6
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"< 1 year"	"1"	11	1882	Unreliable
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"15-24 years"	"15-24"	17	21793	Unreliable
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"25-34 years"	"25-34"	36	20876	172.4
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"35-44 years"	"35-44"	55	19928	276.0
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"45-54 years"	"45-54"	129	24804	520.1
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"55-64 years"	"55-64"	336	39640	847.6
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"65-74 years"	"65-74"	609	42072	1447.5
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"75-84 years"	"75-84"	883	20889	4227.1
+	"Yavapai County, AZ"	"04025"	"2017"	"2017"	"85+ years"	"85+"	1052	7205	14601.0
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"< 1 year"	"1"	18	2587	Unreliable
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"15-24 years"	"15-24"	14	22719	Unreliable
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"25-34 years"	"25-34"	14	19956	Unreliable
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"35-44 years"	"35-44"	30	20510	146.3
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"45-54 years"	"45-54"	54	15261	353.8
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"55-64 years"	"55-64"	105	13805	760.6
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"65-74 years"	"65-74"	230	15592	1475.1
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"75-84 years"	"75-84"	325	8433	3853.9
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"85+ years"	"85+"	163	1698	9599.5
+	"Yuma County, AZ"	"04027"	"1999"	"1999"	"Not Stated"	"NS"	10	Not Applicable	Not Applicable
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"< 1 year"	"1"	16	2578	Unreliable
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"15-24 years"	"15-24"	14	23277	Unreliable
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"25-34 years"	"25-34"	20	20054	99.7
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"35-44 years"	"35-44"	39	20945	186.2
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"45-54 years"	"45-54"	61	15903	383.6
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"55-64 years"	"55-64"	112	14350	780.5
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"65-74 years"	"65-74"	209	15941	1311.1
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"75-84 years"	"75-84"	296	8736	3388.3
+	"Yuma County, AZ"	"04027"	"2000"	"2000"	"85+ years"	"85+"	183	1779	10286.7
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	"< 1 year"	"1"	25	2873	870.2
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	"15-24 years"	"15-24"	12	24087	Unreliable
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	"25-34 years"	"25-34"	20	20073	99.6
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	"35-44 years"	"35-44"	40	21166	189.0
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	"45-54 years"	"45-54"	67	16553	404.8
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	"55-64 years"	"55-64"	102	14461	705.3
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	"65-74 years"	"65-74"	206	16090	1280.3
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	"75-84 years"	"75-84"	309	9046	3415.9
+	"Yuma County, AZ"	"04027"	"2001"	"2001"	"85+ years"	"85+"	225	1830	12295.1
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	"15-24 years"	"15-24"	20	25113	79.6
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	"25-34 years"	"25-34"	18	19938	Unreliable
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	"35-44 years"	"35-44"	52	21341	243.7
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	"45-54 years"	"45-54"	71	17065	416.1
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	"55-64 years"	"55-64"	117	14433	810.6
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	"65-74 years"	"65-74"	262	16227	1614.6
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	"75-84 years"	"75-84"	357	9131	3909.8
+	"Yuma County, AZ"	"04027"	"2002"	"2002"	"85+ years"	"85+"	246	1909	12886.3
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"< 1 year"	"1"	27	2978	906.6
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"15-24 years"	"15-24"	11	25540	Unreliable
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"25-34 years"	"25-34"	21	19887	105.6
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"35-44 years"	"35-44"	32	21417	149.4
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"45-54 years"	"45-54"	81	17773	455.7
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"55-64 years"	"55-64"	122	14854	821.3
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"65-74 years"	"65-74"	254	16361	1552.5
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"75-84 years"	"75-84"	369	9300	3967.7
+	"Yuma County, AZ"	"04027"	"2003"	"2003"	"85+ years"	"85+"	237	1966	12054.9
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"< 1 year"	"1"	17	3061	Unreliable
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"15-24 years"	"15-24"	19	26626	Unreliable
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"25-34 years"	"25-34"	15	20420	Unreliable
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"35-44 years"	"35-44"	41	21680	189.1
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"45-54 years"	"45-54"	70	18531	377.7
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"55-64 years"	"55-64"	137	15384	890.5
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"65-74 years"	"65-74"	254	16660	1524.6
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"75-84 years"	"75-84"	342	9513	3595.1
+	"Yuma County, AZ"	"04027"	"2004"	"2004"	"85+ years"	"85+"	266	2019	13174.8
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"< 1 year"	"1"	16	3200	Unreliable
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"15-24 years"	"15-24"	23	27908	82.4
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"25-34 years"	"25-34"	18	21347	Unreliable
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"35-44 years"	"35-44"	43	22143	194.2
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"45-54 years"	"45-54"	75	19485	384.9
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"55-64 years"	"55-64"	148	16021	923.8
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"65-74 years"	"65-74"	271	16843	1609.0
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"75-84 years"	"75-84"	384	10011	3835.8
+	"Yuma County, AZ"	"04027"	"2005"	"2005"	"85+ years"	"85+"	291	2097	13877.0
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"< 1 year"	"1"	18	3057	Unreliable
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"15-24 years"	"15-24"	16	28661	Unreliable
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"25-34 years"	"25-34"	20	22106	90.5
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"35-44 years"	"35-44"	34	22544	150.8
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"45-54 years"	"45-54"	67	20306	330.0
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"55-64 years"	"55-64"	137	16750	817.9
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"65-74 years"	"65-74"	252	17152	1469.2
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"75-84 years"	"75-84"	363	10310	3520.9
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"85+ years"	"85+"	294	2200	13363.6
+	"Yuma County, AZ"	"04027"	"2006"	"2006"	"Not Stated"	"NS"	11	Not Applicable	Not Applicable
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"< 1 year"	"1"	25	2976	840.1
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"15-24 years"	"15-24"	21	29311	71.6
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"25-34 years"	"25-34"	21	22765	92.2
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"35-44 years"	"35-44"	41	22691	180.7
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"45-54 years"	"45-54"	86	21131	407.0
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"55-64 years"	"55-64"	155	17221	900.1
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"65-74 years"	"65-74"	245	17303	1415.9
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"75-84 years"	"75-84"	375	10265	3653.2
+	"Yuma County, AZ"	"04027"	"2007"	"2007"	"85+ years"	"85+"	255	2379	10718.8
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"< 1 year"	"1"	26	3035	856.7
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"15-24 years"	"15-24"	21	30089	69.8
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"25-34 years"	"25-34"	12	23344	Unreliable
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"35-44 years"	"35-44"	34	23052	147.5
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"45-54 years"	"45-54"	87	21678	401.3
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"55-64 years"	"55-64"	117	17699	661.1
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"65-74 years"	"65-74"	225	17555	1281.7
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"75-84 years"	"75-84"	354	10441	3390.5
+	"Yuma County, AZ"	"04027"	"2008"	"2008"	"85+ years"	"85+"	262	2557	10246.4
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"< 1 year"	"1"	20	2898	690.1
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"15-24 years"	"15-24"	17	30655	Unreliable
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"25-34 years"	"25-34"	16	23824	Unreliable
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"35-44 years"	"35-44"	38	22887	166.0
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"45-54 years"	"45-54"	88	22133	397.6
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"55-64 years"	"55-64"	157	18314	857.3
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"65-74 years"	"65-74"	292	17538	1665.0
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"75-84 years"	"75-84"	376	10452	3597.4
+	"Yuma County, AZ"	"04027"	"2009"	"2009"	"85+ years"	"85+"	328	2674	12266.3
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"< 1 year"	"1"	20	2938	680.7
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"15-24 years"	"15-24"	10	31011	Unreliable
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"25-34 years"	"25-34"	16	24195	Unreliable
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"35-44 years"	"35-44"	19	22944	Unreliable
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"45-54 years"	"45-54"	91	22598	402.7
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"55-64 years"	"55-64"	141	19028	741.0
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"65-74 years"	"65-74"	272	17377	1565.3
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"75-84 years"	"75-84"	403	10515	3832.6
+	"Yuma County, AZ"	"04027"	"2010"	"2010"	"85+ years"	"85+"	333	2754	12091.5
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"< 1 year"	"1"	27	3086	874.9
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"15-24 years"	"15-24"	13	32627	Unreliable
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"25-34 years"	"25-34"	25	25436	98.3
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"35-44 years"	"35-44"	38	22937	165.7
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"45-54 years"	"45-54"	87	22999	378.3
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"55-64 years"	"55-64"	166	19235	863.0
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"65-74 years"	"65-74"	278	17752	1566.0
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"75-84 years"	"75-84"	407	10999	3700.3
+	"Yuma County, AZ"	"04027"	"2011"	"2011"	"85+ years"	"85+"	342	3096	11046.5
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"< 1 year"	"1"	18	3097	Unreliable
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"15-24 years"	"15-24"	15	33444	Unreliable
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"25-34 years"	"25-34"	29	24986	116.1
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"35-44 years"	"35-44"	27	22161	121.8
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"45-54 years"	"45-54"	82	22432	365.5
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"55-64 years"	"55-64"	170	19157	887.4
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"65-74 years"	"65-74"	295	18111	1628.8
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"75-84 years"	"75-84"	424	11496	3688.2
+	"Yuma County, AZ"	"04027"	"2012"	"2012"	"85+ years"	"85+"	356	3213	11080.0
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"< 1 year"	"1"	18	3057	Unreliable
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"15-24 years"	"15-24"	16	32988	Unreliable
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"25-34 years"	"25-34"	28	26195	106.9
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"35-44 years"	"35-44"	34	21982	154.7
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"45-54 years"	"45-54"	59	22247	265.2
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"55-64 years"	"55-64"	162	19234	842.3
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"65-74 years"	"65-74"	276	18288	1509.2
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"75-84 years"	"75-84"	388	12117	3202.1
+	"Yuma County, AZ"	"04027"	"2013"	"2013"	"85+ years"	"85+"	347	3476	9982.7
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"< 1 year"	"1"	18	3052	Unreliable
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"15-24 years"	"15-24"	25	32752	76.3
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"25-34 years"	"25-34"	30	26668	112.5
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"35-44 years"	"35-44"	30	22146	135.5
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"45-54 years"	"45-54"	92	22278	413.0
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"55-64 years"	"55-64"	188	19635	957.5
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"65-74 years"	"65-74"	312	18798	1659.8
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"75-84 years"	"75-84"	397	12708	3124.0
+	"Yuma County, AZ"	"04027"	"2014"	"2014"	"85+ years"	"85+"	332	3860	8601.0
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"< 1 year"	"1"	24	3013	796.5
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"15-24 years"	"15-24"	11	32336	Unreliable
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"25-34 years"	"25-34"	16	26978	Unreliable
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"35-44 years"	"35-44"	31	22055	140.6
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"45-54 years"	"45-54"	76	22127	343.5
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"55-64 years"	"55-64"	198	20021	989.0
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"65-74 years"	"65-74"	272	19248	1413.1
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"75-84 years"	"75-84"	412	13388	3077.4
+	"Yuma County, AZ"	"04027"	"2015"	"2015"	"85+ years"	"85+"	382	4177	9145.3
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"< 1 year"	"1"	14	2983	Unreliable
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"15-24 years"	"15-24"	20	32461	61.6
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"25-34 years"	"25-34"	28	27681	101.2
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"35-44 years"	"35-44"	38	22011	172.6
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"45-54 years"	"45-54"	86	21719	396.0
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"55-64 years"	"55-64"	172	20107	855.4
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"65-74 years"	"65-74"	289	19407	1489.2
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"75-84 years"	"75-84"	449	13849	3242.1
+	"Yuma County, AZ"	"04027"	"2016"	"2016"	"85+ years"	"85+"	408	4711	8660.6
+	"Yuma County, AZ"	"04027"	"2017"	"2017"	"15-24 years"	"15-24"	15	32287	Unreliable
+	"Yuma County, AZ"	"04027"	"2017"	"2017"	"25-34 years"	"25-34"	32	28633	111.8
+	"Yuma County, AZ"	"04027"	"2017"	"2017"	"35-44 years"	"35-44"	25	22470	111.3
+	"Yuma County, AZ"	"04027"	"2017"	"2017"	"45-54 years"	"45-54"	70	21549	324.8
+	"Yuma County, AZ"	"04027"	"2017"	"2017"	"55-64 years"	"55-64"	170	20511	828.8
+	"Yuma County, AZ"	"04027"	"2017"	"2017"	"65-74 years"	"65-74"	286	19068	1499.9
+	"Yuma County, AZ"	"04027"	"2017"	"2017"	"75-84 years"	"75-84"	468	14080	3323.9
+	"Yuma County, AZ"	"04027"	"2017"	"2017"	"85+ years"	"85+"	431	4854	8879.3
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"States: Arizona (04)"
+"Group By: County; Year; Ten-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Nov 11, 2019 9:42:48 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Nov 11, 2019 9:42:48 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"5. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017"
+"postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for"
+"year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS"
+"on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The"
+"population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal"
+"series released by NCHS on June 13, 2013. The population figures for year 2011 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2011 postcensal series released by NCHS on July 18, 2012. Population figures for 2010 are April 1"
+"Census counts. The population figures for years 2001 - 2009 are bridged-race estimates of the July 1 resident population, from"
+"the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are"
+"April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population"
+"figures for the infant age groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 -"
+"2009 differ slightly from previously published reports, due to use of the population estimates which were available at the time"
+"of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."

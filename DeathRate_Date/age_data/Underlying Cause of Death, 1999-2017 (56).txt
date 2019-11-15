@@ -1,0 +1,100 @@
+"Notes"	"County"	"County Code"	"Month"	"Month Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate
+"Total"	"Adams County, ND"	"38001"					29	Not Applicable	Not Applicable
+"Total"	"Barnes County, ND"	"38003"					102	Not Applicable	Not Applicable
+"Total"	"Benson County, ND"	"38005"					43	Not Applicable	Not Applicable
+"Total"	"Bottineau County, ND"	"38009"					63	Not Applicable	Not Applicable
+"Total"	"Bowman County, ND"	"38011"					32	Not Applicable	Not Applicable
+"Total"	"Burke County, ND"	"38013"					10	Not Applicable	Not Applicable
+"Total"	"Burleigh County, ND"	"38015"	"Jan., 2002"	"2002/01"			10	Not Applicable	Not Applicable
+"Total"	"Burleigh County, ND"	"38015"					316	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Feb., 1999"	"1999/02"			10	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Mar., 1999"	"1999/03"			13	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Sep., 2000"	"2000/09"			11	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Dec., 2000"	"2000/12"			10	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Dec., 2001"	"2001/12"			10	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Jan., 2002"	"2002/01"			11	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Feb., 2002"	"2002/02"			12	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Mar., 2002"	"2002/03"			10	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Dec., 2002"	"2002/12"			10	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Jan., 2003"	"2003/01"			11	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Dec., 2003"	"2003/12"			17	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Jan., 2004"	"2004/01"			12	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"	"Nov., 2004"	"2004/11"			12	Not Applicable	Not Applicable
+"Total"	"Cass County, ND"	"38017"					571	Not Applicable	Not Applicable
+"Total"	"Cavalier County, ND"	"38019"					43	Not Applicable	Not Applicable
+"Total"	"Dickey County, ND"	"38021"					54	Not Applicable	Not Applicable
+"Total"	"Divide County, ND"	"38023"					41	Not Applicable	Not Applicable
+"Total"	"Dunn County, ND"	"38025"					16	Not Applicable	Not Applicable
+"Total"	"Eddy County, ND"	"38027"					37	Not Applicable	Not Applicable
+"Total"	"Emmons County, ND"	"38029"					24	Not Applicable	Not Applicable
+"Total"	"Foster County, ND"	"38031"					15	Not Applicable	Not Applicable
+"Total"	"Grand Forks County, ND"	"38035"	"Mar., 2005"	"2005/03"			10	Not Applicable	Not Applicable
+"Total"	"Grand Forks County, ND"	"38035"					254	Not Applicable	Not Applicable
+"Total"	"Grant County, ND"	"38037"					33	Not Applicable	Not Applicable
+"Total"	"Griggs County, ND"	"38039"					41	Not Applicable	Not Applicable
+"Total"	"Hettinger County, ND"	"38041"					29	Not Applicable	Not Applicable
+"Total"	"Kidder County, ND"	"38043"					21	Not Applicable	Not Applicable
+"Total"	"LaMoure County, ND"	"38045"					29	Not Applicable	Not Applicable
+"Total"	"Logan County, ND"	"38047"					22	Not Applicable	Not Applicable
+"Total"	"McHenry County, ND"	"38049"					58	Not Applicable	Not Applicable
+"Total"	"McIntosh County, ND"	"38051"					29	Not Applicable	Not Applicable
+"Total"	"McKenzie County, ND"	"38053"					43	Not Applicable	Not Applicable
+"Total"	"McLean County, ND"	"38055"					119	Not Applicable	Not Applicable
+"Total"	"Mercer County, ND"	"38057"					54	Not Applicable	Not Applicable
+"Total"	"Morton County, ND"	"38059"					143	Not Applicable	Not Applicable
+"Total"	"Mountrail County, ND"	"38061"					46	Not Applicable	Not Applicable
+"Total"	"Nelson County, ND"	"38063"					61	Not Applicable	Not Applicable
+"Total"	"Pembina County, ND"	"38067"					44	Not Applicable	Not Applicable
+"Total"	"Pierce County, ND"	"38069"					42	Not Applicable	Not Applicable
+"Total"	"Ramsey County, ND"	"38071"					131	Not Applicable	Not Applicable
+"Total"	"Ransom County, ND"	"38073"					82	Not Applicable	Not Applicable
+"Total"	"Renville County, ND"	"38075"					30	Not Applicable	Not Applicable
+"Total"	"Richland County, ND"	"38077"					74	Not Applicable	Not Applicable
+"Total"	"Rolette County, ND"	"38079"					89	Not Applicable	Not Applicable
+"Total"	"Sargent County, ND"	"38081"					18	Not Applicable	Not Applicable
+"Total"	"Stark County, ND"	"38089"					121	Not Applicable	Not Applicable
+"Total"	"Steele County, ND"	"38091"					11	Not Applicable	Not Applicable
+"Total"	"Stutsman County, ND"	"38093"					151	Not Applicable	Not Applicable
+"Total"	"Towner County, ND"	"38095"					35	Not Applicable	Not Applicable
+"Total"	"Traill County, ND"	"38097"					86	Not Applicable	Not Applicable
+"Total"	"Walsh County, ND"	"38099"					96	Not Applicable	Not Applicable
+"Total"	"Ward County, ND"	"38101"					349	Not Applicable	Not Applicable
+"Total"	"Wells County, ND"	"38103"					34	Not Applicable	Not Applicable
+"Total"	"Williams County, ND"	"38105"					143	Not Applicable	Not Applicable
+"Total"							3942	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"ICD-10 Codes: J00-J98 (Diseases of the respiratory system)"
+"States: North Dakota (38)"
+"Year/Month: 1999; 2000; 2001; 2002; 2003; 2004; 2005"
+"Group By: County; Month; Ten-Year Age Groups"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Nov 12, 2019 11:03:45 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Nov 12, 2019 11:03:45 PM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"4. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
