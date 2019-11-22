@@ -7,12 +7,12 @@ import healthdata_module as hm
 ##Importing datasets as dataframes
 
 #dataframe of state names and abbreviations
-STATE_ABREVS = pd.read_csv('state_abrevs.csv', sep=',')
+STATE_ABREVS = pd.read_csv('state_abrevs/state_abrevs.csv', sep=',')
 
 #Dataframe of state populations from 2000-2010
-STATE_POPS_2000 = pd.read_csv('co-est00int-tot.csv', encoding='latin-1')
+STATE_POPS_2000 = pd.read_csv('population_data/co-est00int-tot.csv', encoding='latin-1')
 #Dataframe of state populations from 2010-2018
-STATE_POPS_2010 = pd.read_csv('co-est2018-alldata.csv', encoding='latin-1')
+STATE_POPS_2010 = pd.read_csv('population_data/co-est2018-alldata.csv', encoding='latin-1')
 
 #Importing the .csv files for death rates from each year and merging them into one df
 COUNTIES_DATA = pd.DataFrame()
