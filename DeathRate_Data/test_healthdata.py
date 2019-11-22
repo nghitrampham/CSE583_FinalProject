@@ -1,9 +1,10 @@
-'''Tests the health data'''
+'''Tests the health data files'''
 import pandas as pd
 import numpy as np
 import os
 import healthdata_cleanup
 
+#Checking the data files
 #Check the individual health data files downloaded from the CDC
 #Check that dataframe has at least one row
 def test_rows():
