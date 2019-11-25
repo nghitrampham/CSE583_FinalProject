@@ -4,8 +4,6 @@ language: python
 #specify what versions of python will be used
 python:
 - 3.6
-- 3.5
-- 2.7
 
 #what branches should be evaluated
 branches:
