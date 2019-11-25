@@ -30,10 +30,12 @@ def choose_data_by_year(dataframe, year):
     It also specifies which columns we want to keep in the final dataframe.
     It renames the population column so that it does not have a year-specific name.
     '''
-    return dataframe[['County', 'POPESTIMATE'+str(year), 'County Code', 'Deaths', 'Month', 'Month Code', 'State', 'Year']].loc[dataframe["Year"] == str(year)].rename(columns={'POPESTIMATE'+str(year):'Population'})
+    cols = ['County', 'POPESTIMATE'+str(year), 'County Code', 'Deaths', 'Month', 'Month Code', 'State', 'Year']
+    new_df = dataframe[cols].loc[dataframe["Year"] == str(year)]
+    return new_df.rename(columns={'POPESTIMATE'+str(year):'Population'})
 
 def concat_dfs_vertically(dataframe1, dataframe2):
     '''This function merges two dataframes vertically.
     It assumes they have the same column names already.
     '''
-    return pd.concat([dataframe1, dataframe2])
+    return pd.concat([dataframe1, dataframe2], sort=True)
