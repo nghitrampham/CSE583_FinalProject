@@ -1,0 +1,1627 @@
+"Notes"	"County"	"County Code"	"Month"	"Month Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate
+"Total"	"Churchill County, NV"	"32001"	"Dec., 2013"	"2013/12"			10	Not Applicable	Not Applicable
+"Total"	"Churchill County, NV"	"32001"					612	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 1999"	"1999/01"	"65-74 years"	"65-74"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 1999"	"1999/01"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 1999"	"1999/01"	"85+ years"	"85+"	30	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 1999"	"1999/01"			113	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 1999"	"1999/02"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 1999"	"1999/02"	"75-84 years"	"75-84"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 1999"	"1999/02"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 1999"	"1999/02"			92	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 1999"	"1999/03"	"65-74 years"	"65-74"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 1999"	"1999/03"	"75-84 years"	"75-84"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 1999"	"1999/03"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 1999"	"1999/03"			100	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 1999"	"1999/04"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 1999"	"1999/04"	"65-74 years"	"65-74"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 1999"	"1999/04"	"75-84 years"	"75-84"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 1999"	"1999/04"	"85+ years"	"85+"	25	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 1999"	"1999/04"			104	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 1999"	"1999/05"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 1999"	"1999/05"	"75-84 years"	"75-84"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 1999"	"1999/05"	"85+ years"	"85+"	21	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 1999"	"1999/05"			87	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 1999"	"1999/06"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 1999"	"1999/06"	"75-84 years"	"75-84"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 1999"	"1999/06"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 1999"	"1999/06"			86	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 1999"	"1999/07"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 1999"	"1999/07"	"75-84 years"	"75-84"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 1999"	"1999/07"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 1999"	"1999/07"			68	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 1999"	"1999/08"	"65-74 years"	"65-74"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 1999"	"1999/08"	"75-84 years"	"75-84"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 1999"	"1999/08"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 1999"	"1999/08"			53	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 1999"	"1999/09"	"65-74 years"	"65-74"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 1999"	"1999/09"	"75-84 years"	"75-84"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 1999"	"1999/09"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 1999"	"1999/09"			65	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 1999"	"1999/10"	"65-74 years"	"65-74"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 1999"	"1999/10"	"75-84 years"	"75-84"	20	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 1999"	"1999/10"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 1999"	"1999/10"			66	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 1999"	"1999/11"	"65-74 years"	"65-74"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 1999"	"1999/11"	"75-84 years"	"75-84"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 1999"	"1999/11"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 1999"	"1999/11"			72	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 1999"	"1999/12"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 1999"	"1999/12"	"65-74 years"	"65-74"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 1999"	"1999/12"	"75-84 years"	"75-84"	44	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 1999"	"1999/12"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 1999"	"1999/12"			122	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2000"	"2000/01"	"65-74 years"	"65-74"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2000"	"2000/01"	"75-84 years"	"75-84"	45	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2000"	"2000/01"	"85+ years"	"85+"	21	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2000"	"2000/01"			115	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2000"	"2000/02"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2000"	"2000/02"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2000"	"2000/02"	"75-84 years"	"75-84"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2000"	"2000/02"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2000"	"2000/02"			108	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2000"	"2000/03"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2000"	"2000/03"	"75-84 years"	"75-84"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2000"	"2000/03"	"85+ years"	"85+"	21	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2000"	"2000/03"			102	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2000"	"2000/04"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2000"	"2000/04"	"65-74 years"	"65-74"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2000"	"2000/04"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2000"	"2000/04"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2000"	"2000/04"			92	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2000"	"2000/05"	"65-74 years"	"65-74"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2000"	"2000/05"	"75-84 years"	"75-84"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2000"	"2000/05"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2000"	"2000/05"			71	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2000"	"2000/06"	"65-74 years"	"65-74"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2000"	"2000/06"	"75-84 years"	"75-84"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2000"	"2000/06"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2000"	"2000/06"			72	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2000"	"2000/07"	"65-74 years"	"65-74"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2000"	"2000/07"	"75-84 years"	"75-84"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2000"	"2000/07"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2000"	"2000/07"			66	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2000"	"2000/08"	"65-74 years"	"65-74"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2000"	"2000/08"	"75-84 years"	"75-84"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2000"	"2000/08"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2000"	"2000/08"			67	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2000"	"2000/09"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2000"	"2000/09"	"75-84 years"	"75-84"	20	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2000"	"2000/09"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2000"	"2000/09"			63	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2000"	"2000/10"	"65-74 years"	"65-74"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2000"	"2000/10"	"75-84 years"	"75-84"	31	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2000"	"2000/10"	"85+ years"	"85+"	29	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2000"	"2000/10"			98	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2000"	"2000/11"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2000"	"2000/11"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2000"	"2000/11"	"75-84 years"	"75-84"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2000"	"2000/11"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2000"	"2000/11"			85	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2000"	"2000/12"	"65-74 years"	"65-74"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2000"	"2000/12"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2000"	"2000/12"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2000"	"2000/12"			99	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2001"	"2001/01"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2001"	"2001/01"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2001"	"2001/01"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2001"	"2001/01"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2001"	"2001/01"			109	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2001"	"2001/02"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2001"	"2001/02"	"75-84 years"	"75-84"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2001"	"2001/02"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2001"	"2001/02"			71	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2001"	"2001/03"	"65-74 years"	"65-74"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2001"	"2001/03"	"75-84 years"	"75-84"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2001"	"2001/03"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2001"	"2001/03"			116	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2001"	"2001/04"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2001"	"2001/04"	"65-74 years"	"65-74"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2001"	"2001/04"	"75-84 years"	"75-84"	46	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2001"	"2001/04"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2001"	"2001/04"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2001"	"2001/05"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2001"	"2001/05"	"65-74 years"	"65-74"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2001"	"2001/05"	"75-84 years"	"75-84"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2001"	"2001/05"	"85+ years"	"85+"	25	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2001"	"2001/05"			104	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2001"	"2001/06"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2001"	"2001/06"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2001"	"2001/06"	"75-84 years"	"75-84"	31	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2001"	"2001/06"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2001"	"2001/06"			89	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2001"	"2001/07"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2001"	"2001/07"	"65-74 years"	"65-74"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2001"	"2001/07"	"75-84 years"	"75-84"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2001"	"2001/07"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2001"	"2001/07"			92	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2001"	"2001/08"	"65-74 years"	"65-74"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2001"	"2001/08"	"75-84 years"	"75-84"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2001"	"2001/08"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2001"	"2001/08"			73	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2001"	"2001/09"	"65-74 years"	"65-74"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2001"	"2001/09"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2001"	"2001/09"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2001"	"2001/09"			80	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2001"	"2001/10"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2001"	"2001/10"	"75-84 years"	"75-84"	33	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2001"	"2001/10"			66	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2001"	"2001/11"	"65-74 years"	"65-74"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2001"	"2001/11"	"75-84 years"	"75-84"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2001"	"2001/11"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2001"	"2001/11"			79	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2001"	"2001/12"	"55-64 years"	"55-64"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2001"	"2001/12"	"65-74 years"	"65-74"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2001"	"2001/12"	"75-84 years"	"75-84"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2001"	"2001/12"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2001"	"2001/12"			94	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2002"	"2002/01"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2002"	"2002/01"	"75-84 years"	"75-84"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2002"	"2002/01"	"85+ years"	"85+"	21	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2002"	"2002/01"			94	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2002"	"2002/02"	"55-64 years"	"55-64"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2002"	"2002/02"	"65-74 years"	"65-74"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2002"	"2002/02"	"75-84 years"	"75-84"	58	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2002"	"2002/02"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2002"	"2002/02"			136	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2002"	"2002/03"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2002"	"2002/03"	"65-74 years"	"65-74"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2002"	"2002/03"	"75-84 years"	"75-84"	48	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2002"	"2002/03"	"85+ years"	"85+"	38	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2002"	"2002/03"			145	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2002"	"2002/04"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2002"	"2002/04"	"65-74 years"	"65-74"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2002"	"2002/04"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2002"	"2002/04"	"85+ years"	"85+"	28	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2002"	"2002/04"			109	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2002"	"2002/05"	"65-74 years"	"65-74"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2002"	"2002/05"	"75-84 years"	"75-84"	48	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2002"	"2002/05"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2002"	"2002/05"			111	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2002"	"2002/06"	"65-74 years"	"65-74"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2002"	"2002/06"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2002"	"2002/06"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2002"	"2002/06"			89	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2002"	"2002/07"	"65-74 years"	"65-74"	20	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2002"	"2002/07"	"75-84 years"	"75-84"	31	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2002"	"2002/07"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2002"	"2002/07"			80	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2002"	"2002/08"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2002"	"2002/08"	"75-84 years"	"75-84"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2002"	"2002/08"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2002"	"2002/08"			75	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2002"	"2002/09"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2002"	"2002/09"	"65-74 years"	"65-74"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2002"	"2002/09"	"75-84 years"	"75-84"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2002"	"2002/09"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2002"	"2002/09"			75	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2002"	"2002/10"	"65-74 years"	"65-74"	20	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2002"	"2002/10"	"75-84 years"	"75-84"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2002"	"2002/10"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2002"	"2002/10"			91	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2002"	"2002/11"	"65-74 years"	"65-74"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2002"	"2002/11"	"75-84 years"	"75-84"	54	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2002"	"2002/11"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2002"	"2002/11"			111	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2002"	"2002/12"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2002"	"2002/12"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2002"	"2002/12"	"75-84 years"	"75-84"	49	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2002"	"2002/12"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2002"	"2002/12"			115	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2003"	"2003/01"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2003"	"2003/01"	"65-74 years"	"65-74"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2003"	"2003/01"	"75-84 years"	"75-84"	43	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2003"	"2003/01"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2003"	"2003/01"			105	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2003"	"2003/02"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2003"	"2003/02"	"65-74 years"	"65-74"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2003"	"2003/02"	"75-84 years"	"75-84"	45	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2003"	"2003/02"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2003"	"2003/02"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2003"	"2003/03"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2003"	"2003/03"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2003"	"2003/03"	"75-84 years"	"75-84"	50	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2003"	"2003/03"	"85+ years"	"85+"	33	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2003"	"2003/03"			126	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2003"	"2003/04"	"65-74 years"	"65-74"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2003"	"2003/04"	"75-84 years"	"75-84"	46	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2003"	"2003/04"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2003"	"2003/04"			116	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2003"	"2003/05"	"65-74 years"	"65-74"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2003"	"2003/05"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2003"	"2003/05"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2003"	"2003/05"			91	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2003"	"2003/06"	"65-74 years"	"65-74"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2003"	"2003/06"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2003"	"2003/06"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2003"	"2003/06"			96	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2003"	"2003/07"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2003"	"2003/07"	"65-74 years"	"65-74"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2003"	"2003/07"	"75-84 years"	"75-84"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2003"	"2003/07"	"85+ years"	"85+"	25	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2003"	"2003/07"			93	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2003"	"2003/08"	"65-74 years"	"65-74"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2003"	"2003/08"	"75-84 years"	"75-84"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2003"	"2003/08"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2003"	"2003/08"			77	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2003"	"2003/09"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2003"	"2003/09"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2003"	"2003/09"	"75-84 years"	"75-84"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2003"	"2003/09"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2003"	"2003/09"			88	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2003"	"2003/10"	"65-74 years"	"65-74"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2003"	"2003/10"	"75-84 years"	"75-84"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2003"	"2003/10"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2003"	"2003/10"			78	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2003"	"2003/11"	"65-74 years"	"65-74"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2003"	"2003/11"	"75-84 years"	"75-84"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2003"	"2003/11"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2003"	"2003/11"			105	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2003"	"2003/12"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2003"	"2003/12"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2003"	"2003/12"	"75-84 years"	"75-84"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2003"	"2003/12"	"85+ years"	"85+"	34	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2003"	"2003/12"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2004"	"2004/01"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2004"	"2004/01"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2004"	"2004/01"	"75-84 years"	"75-84"	49	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2004"	"2004/01"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2004"	"2004/01"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2004"	"2004/02"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2004"	"2004/02"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2004"	"2004/02"	"75-84 years"	"75-84"	44	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2004"	"2004/02"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2004"	"2004/02"			104	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2004"	"2004/03"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2004"	"2004/03"	"65-74 years"	"65-74"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2004"	"2004/03"	"75-84 years"	"75-84"	54	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2004"	"2004/03"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2004"	"2004/03"			125	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2004"	"2004/04"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2004"	"2004/04"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2004"	"2004/04"	"75-84 years"	"75-84"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2004"	"2004/04"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2004"	"2004/04"			102	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2004"	"2004/05"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2004"	"2004/05"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2004"	"2004/05"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2004"	"2004/05"			106	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2004"	"2004/06"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2004"	"2004/06"	"65-74 years"	"65-74"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2004"	"2004/06"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2004"	"2004/06"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2004"	"2004/06"			95	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2004"	"2004/07"	"65-74 years"	"65-74"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2004"	"2004/07"	"75-84 years"	"75-84"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2004"	"2004/07"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2004"	"2004/07"			78	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2004"	"2004/08"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2004"	"2004/08"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2004"	"2004/08"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2004"	"2004/08"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2004"	"2004/08"			99	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2004"	"2004/09"	"65-74 years"	"65-74"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2004"	"2004/09"	"75-84 years"	"75-84"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2004"	"2004/09"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2004"	"2004/09"			76	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2004"	"2004/10"	"65-74 years"	"65-74"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2004"	"2004/10"	"75-84 years"	"75-84"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2004"	"2004/10"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2004"	"2004/10"			78	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2004"	"2004/11"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2004"	"2004/11"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2004"	"2004/11"	"75-84 years"	"75-84"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2004"	"2004/11"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2004"	"2004/11"			88	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2004"	"2004/12"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2004"	"2004/12"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2004"	"2004/12"	"75-84 years"	"75-84"	43	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2004"	"2004/12"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2004"	"2004/12"			110	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2005"	"2005/01"	"55-64 years"	"55-64"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2005"	"2005/01"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2005"	"2005/01"	"75-84 years"	"75-84"	49	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2005"	"2005/01"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2005"	"2005/01"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2005"	"2005/02"	"45-54 years"	"45-54"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2005"	"2005/02"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2005"	"2005/02"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2005"	"2005/02"	"75-84 years"	"75-84"	44	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2005"	"2005/02"	"85+ years"	"85+"	25	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2005"	"2005/02"			126	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2005"	"2005/03"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2005"	"2005/03"	"65-74 years"	"65-74"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2005"	"2005/03"	"75-84 years"	"75-84"	56	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2005"	"2005/03"	"85+ years"	"85+"	31	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2005"	"2005/03"			137	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2005"	"2005/04"	"65-74 years"	"65-74"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2005"	"2005/04"	"75-84 years"	"75-84"	52	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2005"	"2005/04"	"85+ years"	"85+"	36	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2005"	"2005/04"			131	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2005"	"2005/05"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2005"	"2005/05"	"65-74 years"	"65-74"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2005"	"2005/05"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2005"	"2005/05"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2005"	"2005/05"			128	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2005"	"2005/06"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2005"	"2005/06"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2005"	"2005/06"	"75-84 years"	"75-84"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2005"	"2005/06"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2005"	"2005/06"			103	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2005"	"2005/07"	"65-74 years"	"65-74"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2005"	"2005/07"	"75-84 years"	"75-84"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2005"	"2005/07"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2005"	"2005/07"			84	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2005"	"2005/08"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2005"	"2005/08"	"65-74 years"	"65-74"	20	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2005"	"2005/08"	"75-84 years"	"75-84"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2005"	"2005/08"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2005"	"2005/08"			83	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2005"	"2005/09"	"65-74 years"	"65-74"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2005"	"2005/09"	"75-84 years"	"75-84"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2005"	"2005/09"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2005"	"2005/09"			79	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2005"	"2005/10"	"65-74 years"	"65-74"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2005"	"2005/10"	"75-84 years"	"75-84"	45	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2005"	"2005/10"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2005"	"2005/10"			109	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2005"	"2005/11"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2005"	"2005/11"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2005"	"2005/11"	"75-84 years"	"75-84"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2005"	"2005/11"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2005"	"2005/11"			97	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2005"	"2005/12"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2005"	"2005/12"	"65-74 years"	"65-74"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2005"	"2005/12"	"75-84 years"	"75-84"	53	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2005"	"2005/12"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2005"	"2005/12"			125	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2006"	"2006/01"	"55-64 years"	"55-64"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2006"	"2006/01"	"65-74 years"	"65-74"	47	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2006"	"2006/01"	"75-84 years"	"75-84"	59	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2006"	"2006/01"	"85+ years"	"85+"	37	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2006"	"2006/01"			169	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2006"	"2006/02"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2006"	"2006/02"	"65-74 years"	"65-74"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2006"	"2006/02"	"75-84 years"	"75-84"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2006"	"2006/02"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2006"	"2006/02"			102	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2006"	"2006/03"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2006"	"2006/03"	"65-74 years"	"65-74"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2006"	"2006/03"	"75-84 years"	"75-84"	44	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2006"	"2006/03"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2006"	"2006/03"			127	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2006"	"2006/04"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2006"	"2006/04"	"65-74 years"	"65-74"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2006"	"2006/04"	"75-84 years"	"75-84"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2006"	"2006/04"	"85+ years"	"85+"	37	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2006"	"2006/04"			108	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2006"	"2006/05"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2006"	"2006/05"	"65-74 years"	"65-74"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2006"	"2006/05"	"75-84 years"	"75-84"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2006"	"2006/05"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2006"	"2006/05"			83	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2006"	"2006/06"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2006"	"2006/06"	"65-74 years"	"65-74"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2006"	"2006/06"	"75-84 years"	"75-84"	25	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2006"	"2006/06"			71	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2006"	"2006/07"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2006"	"2006/07"	"65-74 years"	"65-74"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2006"	"2006/07"	"75-84 years"	"75-84"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2006"	"2006/07"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2006"	"2006/07"			91	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2006"	"2006/08"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2006"	"2006/08"	"75-84 years"	"75-84"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2006"	"2006/08"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2006"	"2006/08"			83	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2006"	"2006/09"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2006"	"2006/09"	"75-84 years"	"75-84"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2006"	"2006/09"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2006"	"2006/09"			73	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2006"	"2006/10"	"65-74 years"	"65-74"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2006"	"2006/10"	"75-84 years"	"75-84"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2006"	"2006/10"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2006"	"2006/10"			69	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2006"	"2006/11"	"65-74 years"	"65-74"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2006"	"2006/11"	"75-84 years"	"75-84"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2006"	"2006/11"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2006"	"2006/11"			92	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2006"	"2006/12"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2006"	"2006/12"	"65-74 years"	"65-74"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2006"	"2006/12"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2006"	"2006/12"	"85+ years"	"85+"	28	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2006"	"2006/12"			115	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2007"	"2007/01"	"65-74 years"	"65-74"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2007"	"2007/01"	"75-84 years"	"75-84"	50	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2007"	"2007/01"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2007"	"2007/01"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2007"	"2007/02"	"65-74 years"	"65-74"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2007"	"2007/02"	"75-84 years"	"75-84"	43	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2007"	"2007/02"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2007"	"2007/02"			99	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2007"	"2007/03"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2007"	"2007/03"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2007"	"2007/03"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2007"	"2007/03"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2007"	"2007/03"			104	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2007"	"2007/04"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2007"	"2007/04"	"65-74 years"	"65-74"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2007"	"2007/04"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2007"	"2007/04"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2007"	"2007/04"			106	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2007"	"2007/05"	"65-74 years"	"65-74"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2007"	"2007/05"	"75-84 years"	"75-84"	49	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2007"	"2007/05"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2007"	"2007/05"			103	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2007"	"2007/06"	"65-74 years"	"65-74"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2007"	"2007/06"	"75-84 years"	"75-84"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2007"	"2007/06"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2007"	"2007/06"			73	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2007"	"2007/07"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2007"	"2007/07"	"65-74 years"	"65-74"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2007"	"2007/07"	"75-84 years"	"75-84"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2007"	"2007/07"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2007"	"2007/07"			70	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2007"	"2007/08"	"75-84 years"	"75-84"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2007"	"2007/08"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2007"	"2007/08"			60	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2007"	"2007/09"	"65-74 years"	"65-74"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2007"	"2007/09"	"75-84 years"	"75-84"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2007"	"2007/09"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2007"	"2007/09"			65	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2007"	"2007/10"	"65-74 years"	"65-74"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2007"	"2007/10"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2007"	"2007/10"	"85+ years"	"85+"	21	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2007"	"2007/10"			94	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2007"	"2007/11"	"65-74 years"	"65-74"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2007"	"2007/11"	"75-84 years"	"75-84"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2007"	"2007/11"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2007"	"2007/11"			71	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2007"	"2007/12"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2007"	"2007/12"	"65-74 years"	"65-74"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2007"	"2007/12"	"75-84 years"	"75-84"	46	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2007"	"2007/12"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2007"	"2007/12"			107	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2008"	"2008/01"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2008"	"2008/01"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2008"	"2008/01"	"75-84 years"	"75-84"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2008"	"2008/01"	"85+ years"	"85+"	41	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2008"	"2008/01"			134	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2008"	"2008/02"	"55-64 years"	"55-64"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2008"	"2008/02"	"65-74 years"	"65-74"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2008"	"2008/02"	"75-84 years"	"75-84"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2008"	"2008/02"	"85+ years"	"85+"	40	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2008"	"2008/02"			144	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2008"	"2008/03"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2008"	"2008/03"	"65-74 years"	"65-74"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2008"	"2008/03"	"75-84 years"	"75-84"	54	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2008"	"2008/03"	"85+ years"	"85+"	31	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2008"	"2008/03"			129	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2008"	"2008/04"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2008"	"2008/04"	"65-74 years"	"65-74"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2008"	"2008/04"	"75-84 years"	"75-84"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2008"	"2008/04"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2008"	"2008/04"			114	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2008"	"2008/05"	"55-64 years"	"55-64"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2008"	"2008/05"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2008"	"2008/05"	"75-84 years"	"75-84"	49	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2008"	"2008/05"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2008"	"2008/05"			119	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2008"	"2008/06"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2008"	"2008/06"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2008"	"2008/06"	"75-84 years"	"75-84"	45	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2008"	"2008/06"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2008"	"2008/06"			109	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2008"	"2008/07"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2008"	"2008/07"	"75-84 years"	"75-84"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2008"	"2008/07"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2008"	"2008/07"			105	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2008"	"2008/08"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2008"	"2008/08"	"65-74 years"	"65-74"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2008"	"2008/08"	"75-84 years"	"75-84"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2008"	"2008/08"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2008"	"2008/08"			85	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2008"	"2008/09"	"65-74 years"	"65-74"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2008"	"2008/09"	"75-84 years"	"75-84"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2008"	"2008/09"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2008"	"2008/09"			80	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2008"	"2008/10"	"55-64 years"	"55-64"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2008"	"2008/10"	"65-74 years"	"65-74"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2008"	"2008/10"	"75-84 years"	"75-84"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2008"	"2008/10"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2008"	"2008/10"			87	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2008"	"2008/11"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2008"	"2008/11"	"65-74 years"	"65-74"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2008"	"2008/11"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2008"	"2008/11"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2008"	"2008/11"			97	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2008"	"2008/12"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2008"	"2008/12"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2008"	"2008/12"	"75-84 years"	"75-84"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2008"	"2008/12"	"85+ years"	"85+"	25	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2008"	"2008/12"			100	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2009"	"2009/01"	"55-64 years"	"55-64"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2009"	"2009/01"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2009"	"2009/01"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2009"	"2009/01"	"85+ years"	"85+"	29	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2009"	"2009/01"			120	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2009"	"2009/02"	"65-74 years"	"65-74"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2009"	"2009/02"	"75-84 years"	"75-84"	52	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2009"	"2009/02"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2009"	"2009/02"			106	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2009"	"2009/03"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2009"	"2009/03"	"65-74 years"	"65-74"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2009"	"2009/03"	"75-84 years"	"75-84"	48	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2009"	"2009/03"	"85+ years"	"85+"	25	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2009"	"2009/03"			130	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2009"	"2009/04"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2009"	"2009/04"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2009"	"2009/04"	"85+ years"	"85+"	43	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2009"	"2009/04"			125	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2009"	"2009/05"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2009"	"2009/05"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2009"	"2009/05"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2009"	"2009/05"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2009"	"2009/05"			97	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2009"	"2009/06"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2009"	"2009/06"	"65-74 years"	"65-74"	20	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2009"	"2009/06"	"75-84 years"	"75-84"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2009"	"2009/06"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2009"	"2009/06"			90	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2009"	"2009/07"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2009"	"2009/07"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2009"	"2009/07"	"75-84 years"	"75-84"	47	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2009"	"2009/07"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2009"	"2009/07"			112	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2009"	"2009/08"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2009"	"2009/08"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2009"	"2009/08"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2009"	"2009/08"			90	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2009"	"2009/09"	"55-64 years"	"55-64"	20	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2009"	"2009/09"	"65-74 years"	"65-74"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2009"	"2009/09"	"75-84 years"	"75-84"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2009"	"2009/09"	"85+ years"	"85+"	29	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2009"	"2009/09"			104	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2009"	"2009/10"	"45-54 years"	"45-54"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2009"	"2009/10"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2009"	"2009/10"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2009"	"2009/10"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2009"	"2009/10"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2009"	"2009/10"			121	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2009"	"2009/11"	"55-64 years"	"55-64"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2009"	"2009/11"	"65-74 years"	"65-74"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2009"	"2009/11"	"75-84 years"	"75-84"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2009"	"2009/11"	"85+ years"	"85+"	29	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2009"	"2009/11"			120	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2009"	"2009/12"	"45-54 years"	"45-54"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2009"	"2009/12"	"55-64 years"	"55-64"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2009"	"2009/12"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2009"	"2009/12"	"75-84 years"	"75-84"	53	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2009"	"2009/12"	"85+ years"	"85+"	38	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2009"	"2009/12"			152	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2010"	"2010/01"	"65-74 years"	"65-74"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2010"	"2010/01"	"75-84 years"	"75-84"	50	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2010"	"2010/01"	"85+ years"	"85+"	36	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2010"	"2010/01"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2010"	"2010/02"	"55-64 years"	"55-64"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2010"	"2010/02"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2010"	"2010/02"	"75-84 years"	"75-84"	31	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2010"	"2010/02"	"85+ years"	"85+"	30	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2010"	"2010/02"			110	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2010"	"2010/03"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2010"	"2010/03"	"65-74 years"	"65-74"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2010"	"2010/03"	"75-84 years"	"75-84"	58	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2010"	"2010/03"	"85+ years"	"85+"	33	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2010"	"2010/03"			154	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2010"	"2010/04"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2010"	"2010/04"	"65-74 years"	"65-74"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2010"	"2010/04"	"75-84 years"	"75-84"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2010"	"2010/04"	"85+ years"	"85+"	34	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2010"	"2010/04"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2010"	"2010/05"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2010"	"2010/05"	"65-74 years"	"65-74"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2010"	"2010/05"	"75-84 years"	"75-84"	43	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2010"	"2010/05"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2010"	"2010/05"			103	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2010"	"2010/06"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2010"	"2010/06"	"65-74 years"	"65-74"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2010"	"2010/06"	"75-84 years"	"75-84"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2010"	"2010/06"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2010"	"2010/06"			89	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2010"	"2010/07"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2010"	"2010/07"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2010"	"2010/07"	"75-84 years"	"75-84"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2010"	"2010/07"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2010"	"2010/07"			107	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2010"	"2010/08"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2010"	"2010/08"	"65-74 years"	"65-74"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2010"	"2010/08"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2010"	"2010/08"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2010"	"2010/08"			97	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2010"	"2010/09"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2010"	"2010/09"	"65-74 years"	"65-74"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2010"	"2010/09"	"75-84 years"	"75-84"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2010"	"2010/09"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2010"	"2010/09"			97	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2010"	"2010/10"	"65-74 years"	"65-74"	20	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2010"	"2010/10"	"75-84 years"	"75-84"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2010"	"2010/10"	"85+ years"	"85+"	21	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2010"	"2010/10"			82	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2010"	"2010/11"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2010"	"2010/11"	"65-74 years"	"65-74"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2010"	"2010/11"	"75-84 years"	"75-84"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2010"	"2010/11"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2010"	"2010/11"			98	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2010"	"2010/12"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2010"	"2010/12"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2010"	"2010/12"	"75-84 years"	"75-84"	47	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2010"	"2010/12"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2010"	"2010/12"			114	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2011"	"2011/01"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2011"	"2011/01"	"65-74 years"	"65-74"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2011"	"2011/01"	"75-84 years"	"75-84"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2011"	"2011/01"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2011"	"2011/01"			105	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2011"	"2011/02"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2011"	"2011/02"	"65-74 years"	"65-74"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2011"	"2011/02"	"75-84 years"	"75-84"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2011"	"2011/02"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2011"	"2011/02"			109	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2011"	"2011/03"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2011"	"2011/03"	"65-74 years"	"65-74"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2011"	"2011/03"	"75-84 years"	"75-84"	53	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2011"	"2011/03"	"85+ years"	"85+"	28	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2011"	"2011/03"			148	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2011"	"2011/04"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2011"	"2011/04"	"65-74 years"	"65-74"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2011"	"2011/04"	"75-84 years"	"75-84"	45	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2011"	"2011/04"	"85+ years"	"85+"	32	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2011"	"2011/04"			129	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2011"	"2011/05"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2011"	"2011/05"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2011"	"2011/05"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2011"	"2011/05"			104	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2011"	"2011/06"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2011"	"2011/06"	"65-74 years"	"65-74"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2011"	"2011/06"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2011"	"2011/06"	"85+ years"	"85+"	32	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2011"	"2011/06"			122	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2011"	"2011/07"	"55-64 years"	"55-64"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2011"	"2011/07"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2011"	"2011/07"	"75-84 years"	"75-84"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2011"	"2011/07"	"85+ years"	"85+"	32	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2011"	"2011/07"			115	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2011"	"2011/08"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2011"	"2011/08"	"65-74 years"	"65-74"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2011"	"2011/08"	"75-84 years"	"75-84"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2011"	"2011/08"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2011"	"2011/08"			98	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2011"	"2011/09"	"55-64 years"	"55-64"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2011"	"2011/09"	"65-74 years"	"65-74"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2011"	"2011/09"	"75-84 years"	"75-84"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2011"	"2011/09"	"85+ years"	"85+"	25	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2011"	"2011/09"			102	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2011"	"2011/10"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2011"	"2011/10"	"75-84 years"	"75-84"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2011"	"2011/10"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2011"	"2011/10"			89	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2011"	"2011/11"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2011"	"2011/11"	"65-74 years"	"65-74"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2011"	"2011/11"	"75-84 years"	"75-84"	45	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2011"	"2011/11"	"85+ years"	"85+"	29	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2011"	"2011/11"			121	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2011"	"2011/12"	"55-64 years"	"55-64"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2011"	"2011/12"	"65-74 years"	"65-74"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2011"	"2011/12"	"75-84 years"	"75-84"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2011"	"2011/12"	"85+ years"	"85+"	29	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2011"	"2011/12"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2012"	"2012/01"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2012"	"2012/01"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2012"	"2012/01"	"75-84 years"	"75-84"	45	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2012"	"2012/01"	"85+ years"	"85+"	39	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2012"	"2012/01"			133	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2012"	"2012/02"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2012"	"2012/02"	"65-74 years"	"65-74"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2012"	"2012/02"	"75-84 years"	"75-84"	50	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2012"	"2012/02"	"85+ years"	"85+"	36	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2012"	"2012/02"			139	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2012"	"2012/03"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2012"	"2012/03"	"65-74 years"	"65-74"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2012"	"2012/03"	"75-84 years"	"75-84"	46	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2012"	"2012/03"	"85+ years"	"85+"	33	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2012"	"2012/03"			141	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2012"	"2012/04"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2012"	"2012/04"	"65-74 years"	"65-74"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2012"	"2012/04"	"75-84 years"	"75-84"	52	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2012"	"2012/04"	"85+ years"	"85+"	34	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2012"	"2012/04"			144	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2012"	"2012/05"	"55-64 years"	"55-64"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2012"	"2012/05"	"65-74 years"	"65-74"	43	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2012"	"2012/05"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2012"	"2012/05"	"85+ years"	"85+"	38	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2012"	"2012/05"			149	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2012"	"2012/06"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2012"	"2012/06"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2012"	"2012/06"	"75-84 years"	"75-84"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2012"	"2012/06"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2012"	"2012/06"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2012"	"2012/07"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2012"	"2012/07"	"65-74 years"	"65-74"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2012"	"2012/07"	"75-84 years"	"75-84"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2012"	"2012/07"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2012"	"2012/07"			105	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2012"	"2012/08"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2012"	"2012/08"	"65-74 years"	"65-74"	25	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2012"	"2012/08"	"75-84 years"	"75-84"	47	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2012"	"2012/08"	"85+ years"	"85+"	31	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2012"	"2012/08"			126	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2012"	"2012/09"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2012"	"2012/09"	"65-74 years"	"65-74"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2012"	"2012/09"	"75-84 years"	"75-84"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2012"	"2012/09"	"85+ years"	"85+"	21	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2012"	"2012/09"			91	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2012"	"2012/10"	"55-64 years"	"55-64"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2012"	"2012/10"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2012"	"2012/10"	"75-84 years"	"75-84"	48	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2012"	"2012/10"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2012"	"2012/10"			122	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2012"	"2012/11"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2012"	"2012/11"	"65-74 years"	"65-74"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2012"	"2012/11"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2012"	"2012/11"	"85+ years"	"85+"	32	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2012"	"2012/11"			109	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2012"	"2012/12"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2012"	"2012/12"	"65-74 years"	"65-74"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2012"	"2012/12"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2012"	"2012/12"	"85+ years"	"85+"	36	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2012"	"2012/12"			127	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2013"	"2013/01"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2013"	"2013/01"	"65-74 years"	"65-74"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2013"	"2013/01"	"75-84 years"	"75-84"	51	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	51	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2013"	"2013/01"			174	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2013"	"2013/02"	"55-64 years"	"55-64"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2013"	"2013/02"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2013"	"2013/02"	"75-84 years"	"75-84"	52	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2013"	"2013/02"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2013"	"2013/02"			144	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2013"	"2013/03"	"55-64 years"	"55-64"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2013"	"2013/03"	"65-74 years"	"65-74"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2013"	"2013/03"	"75-84 years"	"75-84"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2013"	"2013/03"	"85+ years"	"85+"	41	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2013"	"2013/03"			150	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2013"	"2013/04"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2013"	"2013/04"	"75-84 years"	"75-84"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2013"	"2013/04"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2013"	"2013/04"			118	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2013"	"2013/05"	"55-64 years"	"55-64"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2013"	"2013/05"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2013"	"2013/05"	"75-84 years"	"75-84"	53	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2013"	"2013/05"	"85+ years"	"85+"	31	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2013"	"2013/05"			146	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2013"	"2013/06"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2013"	"2013/06"	"65-74 years"	"65-74"	29	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2013"	"2013/06"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2013"	"2013/06"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2013"	"2013/06"			110	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2013"	"2013/07"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2013"	"2013/07"	"65-74 years"	"65-74"	31	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2013"	"2013/07"	"75-84 years"	"75-84"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2013"	"2013/07"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2013"	"2013/07"			111	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2013"	"2013/08"	"45-54 years"	"45-54"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2013"	"2013/08"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2013"	"2013/08"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2013"	"2013/08"	"75-84 years"	"75-84"	44	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2013"	"2013/08"	"85+ years"	"85+"	28	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2013"	"2013/08"			136	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2013"	"2013/09"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2013"	"2013/09"	"65-74 years"	"65-74"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2013"	"2013/09"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2013"	"2013/09"	"85+ years"	"85+"	30	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2013"	"2013/09"			111	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2013"	"2013/10"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2013"	"2013/10"	"65-74 years"	"65-74"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2013"	"2013/10"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2013"	"2013/10"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2013"	"2013/10"			96	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2013"	"2013/11"	"65-74 years"	"65-74"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2013"	"2013/11"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2013"	"2013/11"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2013"	"2013/11"			110	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2013"	"2013/12"	"55-64 years"	"55-64"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2013"	"2013/12"	"65-74 years"	"65-74"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2013"	"2013/12"	"75-84 years"	"75-84"	43	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2013"	"2013/12"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2013"	"2013/12"			127	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2014"	"2014/01"	"45-54 years"	"45-54"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2014"	"2014/01"	"55-64 years"	"55-64"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2014"	"2014/01"	"65-74 years"	"65-74"	47	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2014"	"2014/01"	"75-84 years"	"75-84"	65	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2014"	"2014/01"	"85+ years"	"85+"	42	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2014"	"2014/01"			205	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2014"	"2014/02"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2014"	"2014/02"	"65-74 years"	"65-74"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2014"	"2014/02"	"75-84 years"	"75-84"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2014"	"2014/02"	"85+ years"	"85+"	39	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2014"	"2014/02"			139	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2014"	"2014/03"	"55-64 years"	"55-64"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2014"	"2014/03"	"65-74 years"	"65-74"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2014"	"2014/03"	"75-84 years"	"75-84"	56	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2014"	"2014/03"	"85+ years"	"85+"	41	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2014"	"2014/03"			163	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2014"	"2014/04"	"55-64 years"	"55-64"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2014"	"2014/04"	"65-74 years"	"65-74"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2014"	"2014/04"	"75-84 years"	"75-84"	59	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2014"	"2014/04"	"85+ years"	"85+"	30	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2014"	"2014/04"			148	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2014"	"2014/05"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2014"	"2014/05"	"65-74 years"	"65-74"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2014"	"2014/05"	"75-84 years"	"75-84"	50	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2014"	"2014/05"	"85+ years"	"85+"	31	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2014"	"2014/05"			147	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2014"	"2014/06"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2014"	"2014/06"	"65-74 years"	"65-74"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2014"	"2014/06"	"75-84 years"	"75-84"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2014"	"2014/06"	"85+ years"	"85+"	36	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2014"	"2014/06"			132	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2014"	"2014/07"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2014"	"2014/07"	"65-74 years"	"65-74"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2014"	"2014/07"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2014"	"2014/07"	"85+ years"	"85+"	32	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2014"	"2014/07"			119	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2014"	"2014/08"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2014"	"2014/08"	"65-74 years"	"65-74"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2014"	"2014/08"	"75-84 years"	"75-84"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2014"	"2014/08"	"85+ years"	"85+"	30	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2014"	"2014/08"			119	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2014"	"2014/09"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2014"	"2014/09"	"65-74 years"	"65-74"	23	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2014"	"2014/09"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2014"	"2014/09"	"85+ years"	"85+"	45	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2014"	"2014/09"			126	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2014"	"2014/10"	"55-64 years"	"55-64"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2014"	"2014/10"	"65-74 years"	"65-74"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2014"	"2014/10"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2014"	"2014/10"	"85+ years"	"85+"	33	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2014"	"2014/10"			128	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2014"	"2014/11"	"55-64 years"	"55-64"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2014"	"2014/11"	"65-74 years"	"65-74"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2014"	"2014/11"	"75-84 years"	"75-84"	43	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2014"	"2014/11"	"85+ years"	"85+"	38	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2014"	"2014/11"			143	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2014"	"2014/12"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2014"	"2014/12"	"65-74 years"	"65-74"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2014"	"2014/12"	"75-84 years"	"75-84"	55	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2014"	"2014/12"	"85+ years"	"85+"	48	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2014"	"2014/12"			171	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2015"	"2015/01"	"55-64 years"	"55-64"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2015"	"2015/01"	"65-74 years"	"65-74"	47	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2015"	"2015/01"	"75-84 years"	"75-84"	64	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2015"	"2015/01"	"85+ years"	"85+"	57	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2015"	"2015/01"			198	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2015"	"2015/02"	"55-64 years"	"55-64"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2015"	"2015/02"	"65-74 years"	"65-74"	44	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2015"	"2015/02"	"75-84 years"	"75-84"	67	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2015"	"2015/02"	"85+ years"	"85+"	50	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2015"	"2015/02"			187	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2015"	"2015/03"	"55-64 years"	"55-64"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2015"	"2015/03"	"65-74 years"	"65-74"	56	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2015"	"2015/03"	"75-84 years"	"75-84"	60	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2015"	"2015/03"	"85+ years"	"85+"	42	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2015"	"2015/03"			187	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2015"	"2015/04"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2015"	"2015/04"	"65-74 years"	"65-74"	50	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2015"	"2015/04"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2015"	"2015/04"	"85+ years"	"85+"	25	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2015"	"2015/04"			133	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2015"	"2015/05"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2015"	"2015/05"	"65-74 years"	"65-74"	33	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2015"	"2015/05"	"75-84 years"	"75-84"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2015"	"2015/05"	"85+ years"	"85+"	36	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2015"	"2015/05"			131	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2015"	"2015/06"	"65-74 years"	"65-74"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2015"	"2015/06"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2015"	"2015/06"	"85+ years"	"85+"	37	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2015"	"2015/06"			134	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2015"	"2015/07"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2015"	"2015/07"	"65-74 years"	"65-74"	24	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2015"	"2015/07"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2015"	"2015/07"	"85+ years"	"85+"	36	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2015"	"2015/07"			122	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2015"	"2015/08"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2015"	"2015/08"	"75-84 years"	"75-84"	50	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2015"	"2015/08"	"85+ years"	"85+"	40	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2015"	"2015/08"			143	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2015"	"2015/09"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2015"	"2015/09"	"65-74 years"	"65-74"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2015"	"2015/09"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2015"	"2015/09"	"85+ years"	"85+"	30	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2015"	"2015/09"			113	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2015"	"2015/10"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2015"	"2015/10"	"65-74 years"	"65-74"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2015"	"2015/10"	"75-84 years"	"75-84"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2015"	"2015/10"	"85+ years"	"85+"	37	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2015"	"2015/10"			134	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2015"	"2015/11"	"55-64 years"	"55-64"	12	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2015"	"2015/11"	"65-74 years"	"65-74"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2015"	"2015/11"	"75-84 years"	"75-84"	44	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2015"	"2015/11"	"85+ years"	"85+"	49	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2015"	"2015/11"			140	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2015"	"2015/12"	"55-64 years"	"55-64"	15	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2015"	"2015/12"	"65-74 years"	"65-74"	44	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2015"	"2015/12"	"75-84 years"	"75-84"	42	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2015"	"2015/12"	"85+ years"	"85+"	33	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2015"	"2015/12"			148	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2016"	"2016/01"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2016"	"2016/01"	"65-74 years"	"65-74"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2016"	"2016/01"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2016"	"2016/01"	"85+ years"	"85+"	51	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2016"	"2016/01"			159	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2016"	"2016/02"	"55-64 years"	"55-64"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2016"	"2016/02"	"65-74 years"	"65-74"	56	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2016"	"2016/02"	"75-84 years"	"75-84"	54	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2016"	"2016/02"	"85+ years"	"85+"	48	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2016"	"2016/02"			187	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2016"	"2016/03"	"45-54 years"	"45-54"	17	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2016"	"2016/03"	"55-64 years"	"55-64"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2016"	"2016/03"	"65-74 years"	"65-74"	45	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2016"	"2016/03"	"75-84 years"	"75-84"	48	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2016"	"2016/03"	"85+ years"	"85+"	46	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2016"	"2016/03"			176	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2016"	"2016/04"	"55-64 years"	"55-64"	22	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2016"	"2016/04"	"65-74 years"	"65-74"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2016"	"2016/04"	"75-84 years"	"75-84"	57	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2016"	"2016/04"	"85+ years"	"85+"	43	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2016"	"2016/04"			170	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2016"	"2016/05"	"55-64 years"	"55-64"	20	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2016"	"2016/05"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2016"	"2016/05"	"75-84 years"	"75-84"	65	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2016"	"2016/05"	"85+ years"	"85+"	32	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2016"	"2016/05"			159	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2016"	"2016/06"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2016"	"2016/06"	"65-74 years"	"65-74"	31	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2016"	"2016/06"	"75-84 years"	"75-84"	49	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2016"	"2016/06"	"85+ years"	"85+"	32	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2016"	"2016/06"			130	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2016"	"2016/07"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2016"	"2016/07"	"65-74 years"	"65-74"	27	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2016"	"2016/07"	"75-84 years"	"75-84"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2016"	"2016/07"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2016"	"2016/07"			108	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2016"	"2016/08"	"55-64 years"	"55-64"	20	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2016"	"2016/08"	"65-74 years"	"65-74"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2016"	"2016/08"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2016"	"2016/08"	"85+ years"	"85+"	30	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2016"	"2016/08"			137	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2016"	"2016/09"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2016"	"2016/09"	"65-74 years"	"65-74"	32	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2016"	"2016/09"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2016"	"2016/09"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2016"	"2016/09"			116	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2016"	"2016/10"	"55-64 years"	"55-64"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2016"	"2016/10"	"65-74 years"	"65-74"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2016"	"2016/10"	"75-84 years"	"75-84"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2016"	"2016/10"	"85+ years"	"85+"	32	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2016"	"2016/10"			124	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2016"	"2016/11"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2016"	"2016/11"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2016"	"2016/11"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2016"	"2016/11"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2016"	"2016/11"			120	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2016"	"2016/12"	"55-64 years"	"55-64"	16	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2016"	"2016/12"	"65-74 years"	"65-74"	31	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2016"	"2016/12"	"75-84 years"	"75-84"	46	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2016"	"2016/12"	"85+ years"	"85+"	45	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2016"	"2016/12"			149	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2017"	"2017/01"	"55-64 years"	"55-64"	14	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2017"	"2017/01"	"65-74 years"	"65-74"	58	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2017"	"2017/01"	"75-84 years"	"75-84"	56	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jan., 2017"	"2017/01"	"85+ years"	"85+"	34	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jan., 2017"	"2017/01"			170	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2017"	"2017/02"	"55-64 years"	"55-64"	28	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2017"	"2017/02"	"65-74 years"	"65-74"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2017"	"2017/02"	"75-84 years"	"75-84"	56	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Feb., 2017"	"2017/02"	"85+ years"	"85+"	38	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Feb., 2017"	"2017/02"			170	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2017"	"2017/03"	"55-64 years"	"55-64"	26	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2017"	"2017/03"	"65-74 years"	"65-74"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2017"	"2017/03"	"75-84 years"	"75-84"	49	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Mar., 2017"	"2017/03"	"85+ years"	"85+"	47	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Mar., 2017"	"2017/03"			168	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2017"	"2017/04"	"55-64 years"	"55-64"	19	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2017"	"2017/04"	"65-74 years"	"65-74"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2017"	"2017/04"	"75-84 years"	"75-84"	50	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Apr., 2017"	"2017/04"	"85+ years"	"85+"	46	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Apr., 2017"	"2017/04"			168	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2017"	"2017/05"	"45-54 years"	"45-54"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2017"	"2017/05"	"55-64 years"	"55-64"	11	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2017"	"2017/05"	"65-74 years"	"65-74"	43	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2017"	"2017/05"	"75-84 years"	"75-84"	44	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"May, 2017"	"2017/05"	"85+ years"	"85+"	41	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"May, 2017"	"2017/05"			154	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2017"	"2017/06"	"65-74 years"	"65-74"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2017"	"2017/06"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jun., 2017"	"2017/06"	"85+ years"	"85+"	27	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jun., 2017"	"2017/06"			119	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2017"	"2017/07"	"55-64 years"	"55-64"	18	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2017"	"2017/07"	"65-74 years"	"65-74"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2017"	"2017/07"	"75-84 years"	"75-84"	40	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Jul., 2017"	"2017/07"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Jul., 2017"	"2017/07"			123	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2017"	"2017/08"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2017"	"2017/08"	"65-74 years"	"65-74"	30	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2017"	"2017/08"	"75-84 years"	"75-84"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Aug., 2017"	"2017/08"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Aug., 2017"	"2017/08"			105	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2017"	"2017/09"	"65-74 years"	"65-74"	38	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2017"	"2017/09"	"75-84 years"	"75-84"	36	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Sep., 2017"	"2017/09"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Sep., 2017"	"2017/09"			116	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2017"	"2017/10"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2017"	"2017/10"	"65-74 years"	"65-74"	39	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2017"	"2017/10"	"75-84 years"	"75-84"	35	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Oct., 2017"	"2017/10"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Oct., 2017"	"2017/10"			116	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2017"	"2017/11"	"55-64 years"	"55-64"	13	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2017"	"2017/11"	"65-74 years"	"65-74"	37	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2017"	"2017/11"	"75-84 years"	"75-84"	41	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Nov., 2017"	"2017/11"	"85+ years"	"85+"	39	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Nov., 2017"	"2017/11"			137	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2017"	"2017/12"	"55-64 years"	"55-64"	21	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2017"	"2017/12"	"65-74 years"	"65-74"	34	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2017"	"2017/12"	"75-84 years"	"75-84"	47	Not Applicable	Not Applicable
+	"Clark County, NV"	"32003"	"Dec., 2017"	"2017/12"	"85+ years"	"85+"	37	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"	"Dec., 2017"	"2017/12"			153	Not Applicable	Not Applicable
+"Total"	"Clark County, NV"	"32003"					25699	Not Applicable	Not Applicable
+"Total"	"Douglas County, NV"	"32005"	"Mar., 2009"	"2009/03"			11	Not Applicable	Not Applicable
+"Total"	"Douglas County, NV"	"32005"	"Feb., 2010"	"2010/02"			10	Not Applicable	Not Applicable
+"Total"	"Douglas County, NV"	"32005"	"Sep., 2012"	"2012/09"			10	Not Applicable	Not Applicable
+"Total"	"Douglas County, NV"	"32005"	"Apr., 2013"	"2013/04"			10	Not Applicable	Not Applicable
+"Total"	"Douglas County, NV"	"32005"	"Dec., 2016"	"2016/12"			10	Not Applicable	Not Applicable
+"Total"	"Douglas County, NV"	"32005"	"Feb., 2017"	"2017/02"			10	Not Applicable	Not Applicable
+"Total"	"Douglas County, NV"	"32005"					767	Not Applicable	Not Applicable
+"Total"	"Elko County, NV"	"32007"					555	Not Applicable	Not Applicable
+"Total"	"Esmeralda County, NV"	"32009"					20	Not Applicable	Not Applicable
+"Total"	"Eureka County, NV"	"32011"					25	Not Applicable	Not Applicable
+"Total"	"Humboldt County, NV"	"32013"					252	Not Applicable	Not Applicable
+"Total"	"Lander County, NV"	"32015"					83	Not Applicable	Not Applicable
+"Total"	"Lincoln County, NV"	"32017"					108	Not Applicable	Not Applicable
+"Total"	"Lyon County, NV"	"32019"	"Jan., 2011"	"2011/01"			10	Not Applicable	Not Applicable
+"Total"	"Lyon County, NV"	"32019"	"Feb., 2013"	"2013/02"			11	Not Applicable	Not Applicable
+"Total"	"Lyon County, NV"	"32019"	"Dec., 2014"	"2014/12"			13	Not Applicable	Not Applicable
+"Total"	"Lyon County, NV"	"32019"	"Mar., 2016"	"2016/03"			12	Not Applicable	Not Applicable
+"Total"	"Lyon County, NV"	"32019"	"Apr., 2016"	"2016/04"			16	Not Applicable	Not Applicable
+"Total"	"Lyon County, NV"	"32019"	"Jan., 2017"	"2017/01"			10	Not Applicable	Not Applicable
+"Total"	"Lyon County, NV"	"32019"					1042	Not Applicable	Not Applicable
+"Total"	"Mineral County, NV"	"32021"					190	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Jan., 2000"	"2000/01"			10	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Oct., 2006"	"2006/10"			10	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Mar., 2007"	"2007/03"			11	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Apr., 2008"	"2008/04"			10	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Apr., 2009"	"2009/04"			11	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Feb., 2011"	"2011/02"			11	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Mar., 2011"	"2011/03"			11	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Apr., 2012"	"2012/04"			11	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"May, 2012"	"2012/05"			11	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Jun., 2012"	"2012/06"			10	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Mar., 2013"	"2013/03"			13	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Mar., 2014"	"2014/03"			10	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Jul., 2014"	"2014/07"			10	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Sep., 2014"	"2014/09"			11	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Feb., 2015"	"2015/02"			10	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Jan., 2016"	"2016/01"			11	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Feb., 2016"	"2016/02"			11	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Apr., 2016"	"2016/04"			10	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Feb., 2017"	"2017/02"			12	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Mar., 2017"	"2017/03"			12	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Jun., 2017"	"2017/06"			10	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"	"Dec., 2017"	"2017/12"			15	Not Applicable	Not Applicable
+"Total"	"Nye County, NV"	"32023"					1327	Not Applicable	Not Applicable
+"Total"	"Pershing County, NV"	"32027"					131	Not Applicable	Not Applicable
+"Total"	"Storey County, NV"	"32029"					48	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 1999"	"1999/01"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 1999"	"1999/01"			33	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 1999"	"1999/02"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 1999"	"1999/02"			25	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 1999"	"1999/03"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 1999"	"1999/03"			33	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 1999"	"1999/04"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 1999"	"1999/04"			29	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 1999"	"1999/05"			19	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 1999"	"1999/06"			18	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 1999"	"1999/07"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 1999"	"1999/07"			24	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 1999"	"1999/08"			12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 1999"	"1999/09"			13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 1999"	"1999/10"			21	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 1999"	"1999/11"			28	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 1999"	"1999/12"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 1999"	"1999/12"			39	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2000"	"2000/01"			30	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2000"	"2000/02"			20	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2000"	"2000/03"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2000"	"2000/03"			29	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2000"	"2000/04"			15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2000"	"2000/05"			18	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2000"	"2000/06"			17	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2000"	"2000/07"			15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2000"	"2000/08"			16	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2000"	"2000/09"			24	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2000"	"2000/10"			16	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2000"	"2000/11"			24	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2000"	"2000/12"			21	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2001"	"2001/01"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2001"	"2001/01"			29	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2001"	"2001/02"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2001"	"2001/02"			23	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2001"	"2001/03"	"75-84 years"	"75-84"	17	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2001"	"2001/03"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2001"	"2001/03"			38	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2001"	"2001/04"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2001"	"2001/04"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2001"	"2001/04"			31	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2001"	"2001/05"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2001"	"2001/05"			28	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2001"	"2001/06"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2001"	"2001/06"			27	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2001"	"2001/07"			17	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Aug., 2001"	"2001/08"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2001"	"2001/08"			28	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2001"	"2001/09"			19	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2001"	"2001/10"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2001"	"2001/10"			23	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2001"	"2001/11"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2001"	"2001/11"			25	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2001"	"2001/12"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2001"	"2001/12"			34	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2002"	"2002/01"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2002"	"2002/01"			31	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2002"	"2002/02"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2002"	"2002/02"			29	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2002"	"2002/03"			32	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2002"	"2002/04"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2002"	"2002/04"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2002"	"2002/04"			38	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2002"	"2002/05"			18	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2002"	"2002/06"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2002"	"2002/06"			24	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2002"	"2002/07"			24	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2002"	"2002/08"			18	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2002"	"2002/09"			24	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2002"	"2002/10"			20	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2002"	"2002/11"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2002"	"2002/11"			23	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2002"	"2002/12"			23	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2003"	"2003/01"			27	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2003"	"2003/02"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2003"	"2003/02"			29	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2003"	"2003/03"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2003"	"2003/03"			27	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2003"	"2003/04"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2003"	"2003/04"			34	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2003"	"2003/05"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2003"	"2003/05"			23	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2003"	"2003/06"			23	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2003"	"2003/07"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2003"	"2003/07"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2003"	"2003/07"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2003"	"2003/07"			36	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Aug., 2003"	"2003/08"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2003"	"2003/08"			27	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2003"	"2003/09"			22	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2003"	"2003/10"			18	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2003"	"2003/11"	"75-84 years"	"75-84"	20	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2003"	"2003/11"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2003"	"2003/11"			47	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2003"	"2003/12"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2003"	"2003/12"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2003"	"2003/12"			38	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2004"	"2004/01"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2004"	"2004/01"			34	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2004"	"2004/02"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2004"	"2004/02"			33	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2004"	"2004/03"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2004"	"2004/03"			44	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2004"	"2004/04"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2004"	"2004/04"			25	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2004"	"2004/05"			20	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2004"	"2004/06"			26	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2004"	"2004/07"			15	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Aug., 2004"	"2004/08"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2004"	"2004/08"			27	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2004"	"2004/09"			28	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2004"	"2004/10"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2004"	"2004/10"			28	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2004"	"2004/11"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2004"	"2004/11"			26	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2004"	"2004/12"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2004"	"2004/12"			32	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2005"	"2005/01"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2005"	"2005/01"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2005"	"2005/01"			43	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2005"	"2005/02"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2005"	"2005/02"			37	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2005"	"2005/03"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2005"	"2005/03"			37	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2005"	"2005/04"	"75-84 years"	"75-84"	17	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2005"	"2005/04"			35	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2005"	"2005/05"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2005"	"2005/05"			31	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2005"	"2005/06"			20	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2005"	"2005/07"			28	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2005"	"2005/08"			16	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2005"	"2005/09"			27	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2005"	"2005/10"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2005"	"2005/10"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2005"	"2005/10"			31	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2005"	"2005/11"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2005"	"2005/11"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2005"	"2005/11"			30	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2005"	"2005/12"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2005"	"2005/12"			29	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2006"	"2006/01"			28	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2006"	"2006/02"			25	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2006"	"2006/03"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2006"	"2006/03"			32	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2006"	"2006/04"	"75-84 years"	"75-84"	16	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2006"	"2006/04"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2006"	"2006/04"			41	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2006"	"2006/05"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2006"	"2006/05"			28	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2006"	"2006/06"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2006"	"2006/06"			30	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2006"	"2006/07"			20	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2006"	"2006/08"			19	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2006"	"2006/09"			18	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2006"	"2006/10"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2006"	"2006/10"			29	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2006"	"2006/11"			19	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2006"	"2006/12"			24	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2007"	"2007/01"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2007"	"2007/01"			27	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2007"	"2007/02"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2007"	"2007/02"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2007"	"2007/02"			33	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2007"	"2007/03"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2007"	"2007/03"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2007"	"2007/03"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2007"	"2007/03"			44	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2007"	"2007/04"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2007"	"2007/04"			31	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2007"	"2007/05"			19	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2007"	"2007/06"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2007"	"2007/06"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2007"	"2007/06"			28	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2007"	"2007/07"			26	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Aug., 2007"	"2007/08"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Aug., 2007"	"2007/08"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2007"	"2007/08"			31	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2007"	"2007/09"			28	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2007"	"2007/10"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2007"	"2007/10"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2007"	"2007/10"			33	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2007"	"2007/11"			26	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2007"	"2007/12"			24	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2008"	"2008/01"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2008"	"2008/01"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2008"	"2008/01"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2008"	"2008/01"			39	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2008"	"2008/02"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2008"	"2008/02"			31	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2008"	"2008/03"	"65-74 years"	"65-74"	16	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2008"	"2008/03"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2008"	"2008/03"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2008"	"2008/03"			52	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2008"	"2008/04"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2008"	"2008/04"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2008"	"2008/04"			37	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2008"	"2008/05"	"75-84 years"	"75-84"	16	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2008"	"2008/05"			30	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2008"	"2008/06"			24	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2008"	"2008/07"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2008"	"2008/07"			31	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2008"	"2008/08"			24	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2008"	"2008/09"			17	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2008"	"2008/10"			22	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2008"	"2008/11"			17	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2008"	"2008/12"	"75-84 years"	"75-84"	17	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2008"	"2008/12"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2008"	"2008/12"			40	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2009"	"2009/01"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2009"	"2009/01"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2009"	"2009/01"			35	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2009"	"2009/02"			26	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2009"	"2009/03"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2009"	"2009/03"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2009"	"2009/03"			34	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2009"	"2009/04"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2009"	"2009/04"			25	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2009"	"2009/05"			24	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2009"	"2009/06"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2009"	"2009/06"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2009"	"2009/06"			34	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2009"	"2009/07"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2009"	"2009/07"			26	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2009"	"2009/08"			20	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2009"	"2009/09"			21	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2009"	"2009/10"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2009"	"2009/10"			24	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2009"	"2009/11"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2009"	"2009/11"			33	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2009"	"2009/12"			27	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2010"	"2010/01"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2010"	"2010/01"			30	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2010"	"2010/02"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2010"	"2010/02"			27	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2010"	"2010/03"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2010"	"2010/03"			34	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2010"	"2010/04"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2010"	"2010/04"			22	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2010"	"2010/05"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2010"	"2010/05"			31	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2010"	"2010/06"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2010"	"2010/06"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2010"	"2010/06"			36	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2010"	"2010/07"			27	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2010"	"2010/08"			16	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2010"	"2010/09"			14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2010"	"2010/10"			22	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2010"	"2010/11"			15	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2010"	"2010/12"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2010"	"2010/12"			35	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2011"	"2011/01"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2011"	"2011/01"			28	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2011"	"2011/02"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2011"	"2011/02"			36	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2011"	"2011/03"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2011"	"2011/03"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2011"	"2011/03"			41	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2011"	"2011/04"			29	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2011"	"2011/05"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2011"	"2011/05"			30	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2011"	"2011/06"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2011"	"2011/06"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2011"	"2011/06"			32	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2011"	"2011/07"			25	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Aug., 2011"	"2011/08"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2011"	"2011/08"			23	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2011"	"2011/09"			15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2011"	"2011/10"			18	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2011"	"2011/11"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2011"	"2011/11"			27	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2011"	"2011/12"			20	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2012"	"2012/01"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2012"	"2012/01"			36	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2012"	"2012/02"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2012"	"2012/02"			30	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2012"	"2012/03"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2012"	"2012/03"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2012"	"2012/03"			40	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2012"	"2012/04"			26	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2012"	"2012/05"			24	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2012"	"2012/06"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2012"	"2012/06"			26	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2012"	"2012/07"			24	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Aug., 2012"	"2012/08"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2012"	"2012/08"			31	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2012"	"2012/09"			13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2012"	"2012/10"			21	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2012"	"2012/11"			26	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2012"	"2012/12"			26	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2013"	"2013/01"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2013"	"2013/01"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2013"	"2013/01"			41	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2013"	"2013/02"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2013"	"2013/02"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2013"	"2013/02"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2013"	"2013/02"			40	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2013"	"2013/03"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2013"	"2013/03"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2013"	"2013/03"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2013"	"2013/03"			37	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2013"	"2013/04"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2013"	"2013/04"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2013"	"2013/04"			32	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2013"	"2013/05"			25	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2013"	"2013/06"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2013"	"2013/06"			28	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2013"	"2013/07"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2013"	"2013/07"			29	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Aug., 2013"	"2013/08"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2013"	"2013/08"			29	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Sep., 2013"	"2013/09"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2013"	"2013/09"			26	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2013"	"2013/10"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2013"	"2013/10"			33	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2013"	"2013/11"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2013"	"2013/11"			30	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2013"	"2013/12"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2013"	"2013/12"	"75-84 years"	"75-84"	17	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2013"	"2013/12"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2013"	"2013/12"			50	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2014"	"2014/01"	"65-74 years"	"65-74"	15	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2014"	"2014/01"	"75-84 years"	"75-84"	18	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2014"	"2014/01"			55	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2014"	"2014/02"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2014"	"2014/02"			40	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2014"	"2014/03"	"65-74 years"	"65-74"	12	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2014"	"2014/03"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2014"	"2014/03"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2014"	"2014/03"			42	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2014"	"2014/04"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2014"	"2014/04"			22	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2014"	"2014/05"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2014"	"2014/05"			27	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2014"	"2014/06"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2014"	"2014/06"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2014"	"2014/06"			31	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2014"	"2014/07"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2014"	"2014/07"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2014"	"2014/07"			32	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2014"	"2014/08"			24	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2014"	"2014/09"			20	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2014"	"2014/10"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2014"	"2014/10"			29	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2014"	"2014/11"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2014"	"2014/11"			29	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2014"	"2014/12"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2014"	"2014/12"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2014"	"2014/12"			31	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2015"	"2015/01"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2015"	"2015/01"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2015"	"2015/01"			46	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2015"	"2015/02"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2015"	"2015/02"			33	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2015"	"2015/03"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2015"	"2015/03"			31	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2015"	"2015/04"			33	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2015"	"2015/05"	"65-74 years"	"65-74"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2015"	"2015/05"			31	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2015"	"2015/06"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2015"	"2015/06"			26	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2015"	"2015/07"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2015"	"2015/07"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2015"	"2015/07"			35	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Aug., 2015"	"2015/08"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2015"	"2015/08"			26	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Sep., 2015"	"2015/09"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Sep., 2015"	"2015/09"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2015"	"2015/09"			26	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2015"	"2015/10"			26	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2015"	"2015/11"			27	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2015"	"2015/12"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2015"	"2015/12"			33	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2016"	"2016/01"	"65-74 years"	"65-74"	13	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2016"	"2016/01"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2016"	"2016/01"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2016"	"2016/01"			44	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2016"	"2016/02"	"65-74 years"	"65-74"	16	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2016"	"2016/02"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2016"	"2016/02"			42	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2016"	"2016/03"	"65-74 years"	"65-74"	15	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2016"	"2016/03"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2016"	"2016/03"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2016"	"2016/03"			52	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2016"	"2016/04"	"65-74 years"	"65-74"	12	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2016"	"2016/04"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2016"	"2016/04"			41	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2016"	"2016/05"			23	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2016"	"2016/06"			18	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2016"	"2016/07"	"65-74 years"	"65-74"	15	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2016"	"2016/07"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2016"	"2016/07"			40	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Aug., 2016"	"2016/08"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2016"	"2016/08"			33	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Sep., 2016"	"2016/09"	"65-74 years"	"65-74"	15	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Sep., 2016"	"2016/09"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Sep., 2016"	"2016/09"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2016"	"2016/09"			48	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2016"	"2016/10"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2016"	"2016/10"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2016"	"2016/10"			32	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2016"	"2016/11"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2016"	"2016/11"			33	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2016"	"2016/12"	"75-84 years"	"75-84"	18	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2016"	"2016/12"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2016"	"2016/12"			48	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2017"	"2017/01"	"65-74 years"	"65-74"	14	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2017"	"2017/01"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jan., 2017"	"2017/01"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jan., 2017"	"2017/01"			50	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Feb., 2017"	"2017/02"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Feb., 2017"	"2017/02"			35	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2017"	"2017/03"	"65-74 years"	"65-74"	13	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Mar., 2017"	"2017/03"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Mar., 2017"	"2017/03"			46	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2017"	"2017/04"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Apr., 2017"	"2017/04"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Apr., 2017"	"2017/04"			40	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2017"	"2017/05"	"65-74 years"	"65-74"	14	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"May, 2017"	"2017/05"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"May, 2017"	"2017/05"			39	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2017"	"2017/06"	"65-74 years"	"65-74"	12	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jun., 2017"	"2017/06"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jun., 2017"	"2017/06"			39	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2017"	"2017/07"	"65-74 years"	"65-74"	13	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Jul., 2017"	"2017/07"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Jul., 2017"	"2017/07"			39	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Aug., 2017"	"2017/08"			20	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Sep., 2017"	"2017/09"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Sep., 2017"	"2017/09"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Sep., 2017"	"2017/09"			37	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Oct., 2017"	"2017/10"	"75-84 years"	"75-84"	16	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Oct., 2017"	"2017/10"			35	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2017"	"2017/11"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2017"	"2017/11"	"75-84 years"	"75-84"	16	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Nov., 2017"	"2017/11"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Nov., 2017"	"2017/11"			44	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2017"	"2017/12"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2017"	"2017/12"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+	"Washoe County, NV"	"32031"	"Dec., 2017"	"2017/12"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"	"Dec., 2017"	"2017/12"			40	Not Applicable	Not Applicable
+"Total"	"Washoe County, NV"	"32031"					6603	Not Applicable	Not Applicable
+"Total"	"White Pine County, NV"	"32033"					181	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Jan., 1999"	"1999/01"			10	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Nov., 1999"	"1999/11"			10	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Apr., 2000"	"2000/04"			10	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Nov., 2001"	"2001/11"			20	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Dec., 2002"	"2002/12"			10	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Nov., 2003"	"2003/11"			11	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Dec., 2003"	"2003/12"			19	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Dec., 2006"	"2006/12"			10	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Feb., 2007"	"2007/02"			11	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"May, 2007"	"2007/05"			11	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Dec., 2007"	"2007/12"			12	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Feb., 2008"	"2008/02"			12	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Mar., 2008"	"2008/03"			11	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Jun., 2009"	"2009/06"			14	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"May, 2010"	"2010/05"			12	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Oct., 2013"	"2013/10"			12	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Dec., 2014"	"2014/12"			10	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Jan., 2015"	"2015/01"			12	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Dec., 2015"	"2015/12"			13	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Feb., 2016"	"2016/02"			14	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Aug., 2016"	"2016/08"			10	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"Feb., 2017"	"2017/02"			10	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"	"May, 2017"	"2017/05"			12	Not Applicable	Not Applicable
+"Total"	"Carson City, NV"	"32510"					1394	Not Applicable	Not Applicable
+"Total"							39037	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"ICD-10 Codes: J00-J98 (Diseases of the respiratory system)"
+"States: Nevada (32)"
+"Group By: County; Month; Ten-Year Age Groups"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Nov 13, 2019 12:39:37 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Nov 13, 2019 12:39:37 AM"
+"---"
+Messages:
+"1. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Assurance of Confidentiality."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"6. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."

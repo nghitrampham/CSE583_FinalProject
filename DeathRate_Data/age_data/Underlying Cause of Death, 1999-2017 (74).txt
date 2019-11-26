@@ -1,0 +1,366 @@
+"Notes"	"County"	"County Code"	"Month"	"Month Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	Deaths	Population	Crude Rate
+	"Albemarle County, VA"	"51003"	"Mar., 2013"	"2013/03"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"May, 2009"	"2009/05"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"May, 2009"	"2009/05"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Jan., 2012"	"2012/01"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Nov., 2012"	"2012/11"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Dec., 2012"	"2012/12"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Mar., 2014"	"2014/03"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Jun., 2014"	"2014/06"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Dec., 2014"	"2014/12"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Jan., 2015"	"2015/01"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Jan., 2015"	"2015/01"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Mar., 2015"	"2015/03"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"May, 2015"	"2015/05"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Nov., 2016"	"2016/11"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Mar., 2017"	"2017/03"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Chesterfield County, VA"	"51041"	"Oct., 2017"	"2017/10"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2009"	"2009/01"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2009"	"2009/01"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2009"	"2009/02"	"75-84 years"	"75-84"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2009"	"2009/02"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2009"	"2009/03"	"75-84 years"	"75-84"	23	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2009"	"2009/04"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2009"	"2009/05"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2009"	"2009/06"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2009"	"2009/06"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Sep., 2009"	"2009/09"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2009"	"2009/10"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2009"	"2009/11"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2009"	"2009/12"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2010"	"2010/01"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2010"	"2010/01"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2010"	"2010/02"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2010"	"2010/02"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2010"	"2010/03"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2010"	"2010/03"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2010"	"2010/04"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2010"	"2010/04"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2010"	"2010/05"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2010"	"2010/05"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2010"	"2010/06"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jul., 2010"	"2010/07"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Aug., 2010"	"2010/08"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Aug., 2010"	"2010/08"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Sep., 2010"	"2010/09"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2010"	"2010/10"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2010"	"2010/10"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2010"	"2010/11"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2010"	"2010/11"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2010"	"2010/12"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2010"	"2010/12"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2011"	"2011/01"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2011"	"2011/02"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2011"	"2011/02"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2011"	"2011/03"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2011"	"2011/03"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2011"	"2011/04"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2011"	"2011/04"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2011"	"2011/05"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2011"	"2011/06"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jul., 2011"	"2011/07"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jul., 2011"	"2011/07"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Aug., 2011"	"2011/08"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Sep., 2011"	"2011/09"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2011"	"2011/10"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2011"	"2011/10"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2011"	"2011/11"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2011"	"2011/11"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2011"	"2011/12"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2012"	"2012/01"	"75-84 years"	"75-84"	17	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2012"	"2012/01"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2012"	"2012/02"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2012"	"2012/02"	"85+ years"	"85+"	26	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2012"	"2012/03"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2012"	"2012/04"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2012"	"2012/04"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2012"	"2012/05"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2012"	"2012/06"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2012"	"2012/06"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jul., 2012"	"2012/07"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Sep., 2012"	"2012/09"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2012"	"2012/10"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2012"	"2012/11"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2012"	"2012/12"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2013"	"2013/01"	"75-84 years"	"75-84"	18	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2013"	"2013/02"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2013"	"2013/02"	"75-84 years"	"75-84"	22	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2013"	"2013/02"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2013"	"2013/03"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2013"	"2013/03"	"75-84 years"	"75-84"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2013"	"2013/04"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2013"	"2013/05"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2013"	"2013/05"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2013"	"2013/06"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jul., 2013"	"2013/07"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Aug., 2013"	"2013/08"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Aug., 2013"	"2013/08"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Sep., 2013"	"2013/09"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2013"	"2013/10"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2013"	"2013/10"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2013"	"2013/11"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2013"	"2013/12"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2013"	"2013/12"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2014"	"2014/01"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2014"	"2014/01"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2014"	"2014/02"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2014"	"2014/03"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2014"	"2014/04"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2014"	"2014/04"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2014"	"2014/05"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2014"	"2014/05"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2014"	"2014/06"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2014"	"2014/06"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jul., 2014"	"2014/07"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jul., 2014"	"2014/07"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Aug., 2014"	"2014/08"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Sep., 2014"	"2014/09"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2014"	"2014/10"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2014"	"2014/11"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2014"	"2014/11"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2014"	"2014/12"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2014"	"2014/12"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2014"	"2014/12"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2015"	"2015/01"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2015"	"2015/01"	"85+ years"	"85+"	30	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2015"	"2015/02"	"65-74 years"	"65-74"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2015"	"2015/02"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2015"	"2015/03"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2015"	"2015/03"	"85+ years"	"85+"	21	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2015"	"2015/04"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2015"	"2015/04"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2015"	"2015/05"	"65-74 years"	"65-74"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2015"	"2015/05"	"75-84 years"	"75-84"	19	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2015"	"2015/05"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jul., 2015"	"2015/07"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Aug., 2015"	"2015/08"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Aug., 2015"	"2015/08"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Sep., 2015"	"2015/09"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2015"	"2015/10"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2015"	"2015/11"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2016"	"2016/01"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2016"	"2016/02"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2016"	"2016/03"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2016"	"2016/03"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2016"	"2016/04"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2016"	"2016/05"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2016"	"2016/05"	"85+ years"	"85+"	20	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2016"	"2016/06"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jul., 2016"	"2016/07"	"85+ years"	"85+"	22	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Aug., 2016"	"2016/08"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Sep., 2016"	"2016/09"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2016"	"2016/10"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2016"	"2016/11"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2016"	"2016/11"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2016"	"2016/12"	"65-74 years"	"65-74"	17	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2016"	"2016/12"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2016"	"2016/12"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2017"	"2017/01"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jan., 2017"	"2017/01"	"85+ years"	"85+"	23	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2017"	"2017/02"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Feb., 2017"	"2017/02"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2017"	"2017/03"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Mar., 2017"	"2017/03"	"85+ years"	"85+"	19	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2017"	"2017/04"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Apr., 2017"	"2017/04"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2017"	"2017/05"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"May, 2017"	"2017/05"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jun., 2017"	"2017/06"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Jul., 2017"	"2017/07"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Aug., 2017"	"2017/08"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Sep., 2017"	"2017/09"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Sep., 2017"	"2017/09"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2017"	"2017/10"	"75-84 years"	"75-84"	15	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Oct., 2017"	"2017/10"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2017"	"2017/11"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Nov., 2017"	"2017/11"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2017"	"2017/12"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Fairfax County, VA"	"51059"	"Dec., 2017"	"2017/12"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jan., 2009"	"2009/01"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Feb., 2009"	"2009/02"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Apr., 2009"	"2009/04"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Apr., 2009"	"2009/04"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Oct., 2009"	"2009/10"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Oct., 2009"	"2009/10"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Dec., 2009"	"2009/12"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jan., 2010"	"2010/01"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Feb., 2010"	"2010/02"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Mar., 2010"	"2010/03"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"May, 2010"	"2010/05"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Aug., 2010"	"2010/08"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Sep., 2010"	"2010/09"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Nov., 2010"	"2010/11"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jan., 2011"	"2011/01"	"85+ years"	"85+"	18	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Feb., 2011"	"2011/02"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Mar., 2011"	"2011/03"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Mar., 2011"	"2011/03"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Apr., 2011"	"2011/04"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jun., 2011"	"2011/06"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jul., 2011"	"2011/07"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Aug., 2011"	"2011/08"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Oct., 2011"	"2011/10"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Nov., 2011"	"2011/11"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jan., 2012"	"2012/01"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Feb., 2012"	"2012/02"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jun., 2012"	"2012/06"	"65-74 years"	"65-74"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jun., 2012"	"2012/06"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jun., 2012"	"2012/06"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Aug., 2012"	"2012/08"	"85+ years"	"85+"	16	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Oct., 2012"	"2012/10"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Oct., 2012"	"2012/10"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Dec., 2012"	"2012/12"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jan., 2013"	"2013/01"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Feb., 2013"	"2013/02"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"May, 2013"	"2013/05"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Oct., 2013"	"2013/10"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jan., 2014"	"2014/01"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Feb., 2014"	"2014/02"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Mar., 2014"	"2014/03"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Apr., 2014"	"2014/04"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"May, 2014"	"2014/05"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jul., 2014"	"2014/07"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Nov., 2014"	"2014/11"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jan., 2015"	"2015/01"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jan., 2015"	"2015/01"	"85+ years"	"85+"	24	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Feb., 2015"	"2015/02"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Feb., 2015"	"2015/02"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Aug., 2015"	"2015/08"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Nov., 2015"	"2015/11"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Dec., 2015"	"2015/12"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Mar., 2016"	"2016/03"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"May, 2016"	"2016/05"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jul., 2016"	"2016/07"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jan., 2017"	"2017/01"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Mar., 2017"	"2017/03"	"85+ years"	"85+"	17	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Apr., 2017"	"2017/04"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Apr., 2017"	"2017/04"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jun., 2017"	"2017/06"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Jul., 2017"	"2017/07"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Nov., 2017"	"2017/11"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Henrico County, VA"	"51087"	"Dec., 2017"	"2017/12"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Loudoun County, VA"	"51107"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Prince William County, VA"	"51153"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Prince William County, VA"	"51153"	"Feb., 2013"	"2013/02"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Prince William County, VA"	"51153"	"Mar., 2013"	"2013/03"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Prince William County, VA"	"51153"	"Mar., 2014"	"2014/03"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Roanoke County, VA"	"51161"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Wise County, VA"	"51195"	"Dec., 2014"	"2014/12"	"65-74 years"	"65-74"	12	Not Applicable	Not Applicable
+	"Chesapeake city, VA"	"51550"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Chesapeake city, VA"	"51550"	"Nov., 2013"	"2013/11"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Chesapeake city, VA"	"51550"	"Mar., 2015"	"2015/03"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"Feb., 2009"	"2009/02"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"Mar., 2009"	"2009/03"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"Jan., 2010"	"2010/01"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"Jan., 2015"	"2015/01"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Norfolk city, VA"	"51710"	"Nov., 2015"	"2015/11"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Richmond city, VA"	"51760"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2009"	"2009/01"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2009"	"2009/01"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Mar., 2009"	"2009/03"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Apr., 2009"	"2009/04"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Apr., 2009"	"2009/04"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"May, 2009"	"2009/05"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"May, 2009"	"2009/05"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jun., 2009"	"2009/06"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2010"	"2010/01"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Feb., 2010"	"2010/02"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Mar., 2010"	"2010/03"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Apr., 2010"	"2010/04"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Apr., 2010"	"2010/04"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"May, 2010"	"2010/05"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Aug., 2010"	"2010/08"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Oct., 2010"	"2010/10"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Nov., 2010"	"2010/11"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Dec., 2010"	"2010/12"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Feb., 2011"	"2011/02"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Apr., 2011"	"2011/04"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Apr., 2011"	"2011/04"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Aug., 2011"	"2011/08"	"85+ years"	"85+"	14	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2012"	"2012/01"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Mar., 2012"	"2012/03"	"75-84 years"	"75-84"	13	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jun., 2012"	"2012/06"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Aug., 2012"	"2012/08"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Oct., 2012"	"2012/10"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2013"	"2013/01"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2013"	"2013/01"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Feb., 2013"	"2013/02"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"May, 2013"	"2013/05"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Sep., 2013"	"2013/09"	"85+ years"	"85+"	13	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Oct., 2013"	"2013/10"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Nov., 2013"	"2013/11"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Dec., 2013"	"2013/12"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2014"	"2014/01"	"75-84 years"	"75-84"	16	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Apr., 2014"	"2014/04"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Apr., 2014"	"2014/04"	"85+ years"	"85+"	15	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Dec., 2014"	"2014/12"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2015"	"2015/01"	"75-84 years"	"75-84"	14	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2015"	"2015/01"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Feb., 2015"	"2015/02"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"May, 2015"	"2015/05"	"75-84 years"	"75-84"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"May, 2015"	"2015/05"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2016"	"2016/01"	"65-74 years"	"65-74"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Apr., 2016"	"2016/04"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Apr., 2016"	"2016/04"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Nov., 2016"	"2016/11"	"85+ years"	"85+"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2017"	"2017/01"	"55-64 years"	"55-64"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Jan., 2017"	"2017/01"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Feb., 2017"	"2017/02"	"85+ years"	"85+"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Sep., 2017"	"2017/09"	"75-84 years"	"75-84"	10	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Dec., 2017"	"2017/12"	"75-84 years"	"75-84"	12	Not Applicable	Not Applicable
+	"Virginia Beach city, VA"	"51810"	"Dec., 2017"	"2017/12"	"85+ years"	"85+"	11	Not Applicable	Not Applicable
+"---"
+"Dataset: Underlying Cause of Death, 1999-2017"
+"Query Parameters:"
+"ICD-10 Codes: J00-J98 (Diseases of the respiratory system)"
+"States: Virginia (51)"
+"Year/Month: 2009; 2010; 2011; 2012; 2013; 2014; 2015; 2016; 2017"
+"Group By: County; Month; Ten-Year Age Groups"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Nov 13, 2019 12:09:29 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2017 on CDC WONDER Online Database, released December, 2018. Data are from the Multiple Cause of Death Files, 1999-2017, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Nov 13, 2019 12:09:29 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"2. Data discontinuity due to county line boundary changes in requested years. See Caveats below for more information."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when Autopsy, Place of Death, Weekday or Month are grouped by or limited,"
+"due to lack of a valid population. More information: http://wonder.cdc.gov/wonder/help/ucd.html#NotApplicableRates."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Data for Bedford city, Va. (FIPS code 51515) are only available for 2013 and earlier; for computational purposes, counts and"
+"population estimates for 2014 and later are set to zero. Thus, counts and rates shown in multi-year requests for this entity do"
+"not include any data for years after 2014, only data for 2013 and earlier. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Bedford."
+"4. There is a discontinuity in the mortality and population data for Bedford County (FIPS code 51019) between years 2013 and"
+"2014. The discontinuity occurs because Bedford City, Virginia (FIPS code 51515), formerly an independent city, merged with"
+"Bedford County (FIPS code 51019) on July 1, 2013. Beginning in 2014, deaths and population counts for Bedford City, Virginia"
+"(FIPS code 51515) are included in Bedford County (FIPS code 51019)."
+"5. Death rates for Clifton Forge city, Virginia (FIPS code 51560) are available only for 1999-2000. For 2001 and beyond, death"
+"counts and population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code"
+"51005). Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 and 2000;"
+"for 2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Clifton Forge."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
