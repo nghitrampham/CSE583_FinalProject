@@ -28,6 +28,16 @@ import helpers
 warnings.filterwarnings("ignore")
 
 def load_data(filename, seq_len):
+    """
+    AQI = Air Quality Index
+    This function is used to load training data set for deep learning AQI model. 
+    
+    @param filename: .csv file containing features for specific county
+    @param seq_len: len of the features, will be the input to neural net model.
+    
+    @return [x_train, y_train, x_test, y_test]: [training testing data]
+    @return scaler: applying min-max scaler model to normalize data
+    """
     
     f = pd.read_csv(filename)
     if f.shape[0] <10:
@@ -65,6 +75,12 @@ def load_data(filename, seq_len):
     return [x_train, y_train, x_test, y_test], scaler
 
 def build_model(layers):
+    """
+    This function is used to build deep neural network to predict time series values
+    
+    @param layers: containing number of hidden unit at different layers
+    @return model: return defined model.
+    """
     model = Sequential()
     
     model.add(LSTM(4, input_shape=(1, 38), return_sequences = True))
