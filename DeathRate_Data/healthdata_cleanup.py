@@ -33,14 +33,15 @@ COUNTIES_DATA = hm.split_column(COUNTIES_DATA, 'Month Code', 'Year', 'Month', '/
 #Changing the column name to match in the health data frame
 STATE_ABREVS = hm.changing_col_name(STATE_ABREVS, 'State Abrev', 'State Abr')
 
+#removing the extra space from before the string in the state abrevs column
+COUNTIES_DATA['State Abr'] = COUNTIES_DATA['State Abr'].str.lstrip()
+print('after stripping')
+
 #Making both the state abbreviation columns utf-8 encoding
 COUNTIES_DATA['State Abr'] = COUNTIES_DATA['State Abr'].str.encode('utf-8')
 STATE_ABREVS['State Abr'] = STATE_ABREVS['State Abr'].str.encode('utf-8')
 print(COUNTIES_DATA.head())
 print(type(COUNTIES_DATA['State Abr'][1]))
-
-#removing the extra space from before the string in the state abrevs column
-COUNTIES_DATA['State Abr'] = COUNTIES_DATA['State Abr'].str.lstrip()
 
 #Merging the county health data and the state abbreviations
 COUNTY_DATA_MERGE = pd.merge(COUNTIES_DATA, STATE_ABREVS, on=['State Abr'])
