@@ -8,7 +8,7 @@ python:
 #what branches should be evaluated
 branches:
 only:
-- master
+- debug_cleanup
 
 #list of commands to run to setup the environment
 install:
