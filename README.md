@@ -28,11 +28,11 @@ CSE583_FinalProject/
         |-Air_Pollution/
         	|- ...
      |- Scripts/
-        |-Model_AQI/
+        |- Model_AQI/
         	|- ...
-        |-Correlation/
+        |- Correlation/
         	|- ...
-        |-Respiratory_Death/
+        |- Respiratory_Death/
         	|- ...
      |- Tests/
         |- ...
@@ -50,7 +50,7 @@ CSE583_FinalProject/
      |- FunctionalSpec
      |- ComponentSpec
      |- TechnologyReview
-     |-Final presentation
+     |- Final presentation
   |- setup.py
   |- LICENSE
   |- requirements.txt
