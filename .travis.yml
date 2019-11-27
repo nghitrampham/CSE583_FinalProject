@@ -10,9 +10,6 @@ branches:
 only:
 - master
 
-before_install:
-- export PYTHONPATH=$PYTHONPATH:$(pwd)
-
 #list of commands to run to setup the environment
 install:
 - pip install coverage
@@ -27,8 +24,7 @@ before_script:
 
 #the actual commands to run
 script:
-- pytest
-- coverage run -m unittest discover	
+- python3 ./DeathRate_Data/healthdata_cleanup.py
 
 #generate a coverage report to send back to user
 after_success:
