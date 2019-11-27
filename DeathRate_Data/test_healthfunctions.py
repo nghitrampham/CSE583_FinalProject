@@ -4,8 +4,8 @@ import healthdata_module
 import healthdata_cleanup
 
 #Test data
-DF1 = pd.read_csv('test_data_1.csv')
-DF2 = pd.read_csv('test_data_2.csv')
+DF1 = pd.read_csv('./DeathRate_Data/test_data_1.csv')
+DF2 = pd.read_csv('./DeathRate_Data/test_data_2.csv')
 
 def test_func_changing_names():
     '''Testing the first function, renaming columns.'''
