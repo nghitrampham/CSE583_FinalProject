@@ -20,7 +20,6 @@ for file in os.listdir('./DeathRate_Data/county_data'):
     new_year = pd.read_csv('./DeathRate_Data/county_data/' + file, sep='\t', na_filter=False)
     COUNTIES_DATA = pd.concat([COUNTIES_DATA, new_year], axis=0, sort=True)
 
-
 #Getting rid of extra columns in death rates df
 COL_NAMES = ['Notes', 'Population', 'Crude Rate', '% of Total Deaths']
 COUNTIES_DATA = COUNTIES_DATA.drop(columns=COL_NAMES)
@@ -32,12 +31,12 @@ COUNTIES_DATA = hm.split_column(COUNTIES_DATA, 'Month Code', 'Year', 'Month', '/
 #Changing the column name to match in the health data frame
 STATE_ABREVS = hm.changing_col_name(STATE_ABREVS, 'State Abrev', 'State Abr')
 
+#removing the extra space from before the string in the state abrevs column
+COUNTIES_DATA['State Abr'] = COUNTIES_DATA['State Abr'].str.lstrip()
+
 #Making both the state abbreviation columns utf-8 encoding
 COUNTIES_DATA['State Abr'] = COUNTIES_DATA['State Abr'].str.encode('utf-8')
 STATE_ABREVS['State Abr'] = STATE_ABREVS['State Abr'].str.encode('utf-8')
-
-#removing the extra space from before the string in the state abrevs column
-COUNTIES_DATA['State Abr'] = COUNTIES_DATA['State Abr'].str.lstrip()
 
 #Merging the county health data and the state abbreviations
 COUNTY_DATA_MERGE = pd.merge(COUNTIES_DATA, STATE_ABREVS, on=['State Abr'])
