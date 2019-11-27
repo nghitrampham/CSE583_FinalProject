@@ -19,11 +19,12 @@ COUNTIES_DATA = pd.DataFrame()
 for file in os.listdir('./DeathRate_Data/county_data'):
     new_year = pd.read_csv('./DeathRate_Data/county_data/' + file, sep='\t', na_filter=False)
     COUNTIES_DATA = pd.concat([COUNTIES_DATA, new_year], axis=0, sort=True)
-
+print(COUNTIES_DATA.head())
 
 #Getting rid of extra columns in death rates df
 COL_NAMES = ['Notes', 'Population', 'Crude Rate', '% of Total Deaths']
 COUNTIES_DATA = COUNTIES_DATA.drop(columns=COL_NAMES)
+print(COUNTIES_DATA.head())
 
 #Splitting up column values into two columns in death rates df
 COUNTIES_DATA = hm.split_column(COUNTIES_DATA, 'County', 'County', 'State Abr', ',')
@@ -35,6 +36,8 @@ STATE_ABREVS = hm.changing_col_name(STATE_ABREVS, 'State Abrev', 'State Abr')
 #Making both the state abbreviation columns utf-8 encoding
 COUNTIES_DATA['State Abr'] = COUNTIES_DATA['State Abr'].str.encode('utf-8')
 STATE_ABREVS['State Abr'] = STATE_ABREVS['State Abr'].str.encode('utf-8')
+print(COUNTIES_DATA.head())
+print(type(COUNTIES_DATA['State Abr'][1]))
 
 #removing the extra space from before the string in the state abrevs column
 COUNTIES_DATA['State Abr'] = COUNTIES_DATA['State Abr'].str.lstrip()
