@@ -4,8 +4,9 @@
 
 
 ![Alt text](logos/ReadMe.jpg?raw=true "Title")
-## Air Pollution vs Respiratory Death Rates.
-Team: Brandon Pratt, Siting Wang, Marta Wolfshorndl, and Tram Nghi Pham | Course project for CSE 583
+## Air Pollution vs Respiratory Death Rates
+Team: Brandon Pratt, Siting Wang, Marta Wolfshorndl, and Tram Nghi Pham | Course project for CSE 583 | Fall 2019
+
 ### Background: 
 
 
@@ -56,9 +57,9 @@ CSE583_FinalProject/
 ```
 
 
-<!-- ### Installation
+### Installation
 
-To install FirstStop perform following steps:
+<!-- To install FirstStop perform following steps:
 
 * clone the repo: git clone https://github.com/sliwhu/UWHousingTeam
 * run the setup.py file: python setup.py install
