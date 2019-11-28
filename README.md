@@ -4,7 +4,7 @@
 
 
 ![Alt text](logos/ReadMe.jpg?raw=true "Title")
-## Correlation and Predictive model between Air Pollution and Respiratory Death Rates.
+## Air Pollution vs Respiratory Death Rates.
 Team: Brandon Pratt, Siting Wang, Marta Wolfshorndl, and Tram Nghi Pham | Course project for CSE 583
 ### Background: 
 
