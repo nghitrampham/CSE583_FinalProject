@@ -59,12 +59,12 @@ CSE583_FinalProject/
 
 ### Installation
 
-<!-- To install FirstStop perform following steps:
+To install AirPollution_Death perform following steps:
 
-* clone the repo: git clone https://github.com/sliwhu/UWHousingTeam
+* clone the repo: git clone https://github.com/nghitrampham/CSE583_FinalProject.git
 * run the setup.py file: python setup.py install
 * run requirements.txt to ensure all dependencies exist : pip install -r requirements.txt
-* go to Scripts folder: cd UWHousing/Scripts
+<!-- * go to Scripts folder: cd UWHousing/Scripts
 * properly set data path os.environ ["SALES_DATA_PATH"](\UWHousingTeam\data) and 
   os.environ["SALES_DATA_FILE"] ('Merged_Data.csv') follow instructions in the house_price_model_2.py file
 * run bokeh server: bokeh serve --port 5001 part1_predict_price.py
