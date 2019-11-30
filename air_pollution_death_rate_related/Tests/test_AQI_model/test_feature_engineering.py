@@ -13,9 +13,6 @@ import pytest
 
 from numpy import newaxis
 from Scripts.Air_Pollution import helpers
-# from feature_generating import *
-# from helpers import feature_engineering_for_AQI, compute_lag_time_series_features
-# from helpers import read_raw_data, data_cleaning, concat_name_county
 from pandas import read_csv
 from pandas import DataFrame
 from pandas import concat
