@@ -55,13 +55,21 @@ def main():
     predicted_AQI = []
     predicted_date = "2019-03-12"
       
-    for county in list(data2019["state_county"].unique()):
+    # for county in list(data2019["state_county"].unique()):
+    or county in ["binhthuan"]:
    
         data_feature_temp = data_feature_engineering_for_test(data2019, county)
         
         ## load model to predict AQI
         print("---> Loading model for county {} ...".format(county))
-        scaler_path = "../../Trained_model/MinMax_scaler_model/" + county + "_scaler.pickle"
+
+        try:
+            scaler_path = "../../Trained_model/MinMax_scaler_model/" + county + "_scaler.pickle"
+        except Exception as e:
+            e.args += ('Path and list_year must not be empty', "check read_raw_data function" )
+            continue
+            # raise e
+
         model_path = "../../Trained_model/county_AQI_model/" + county + "_model.h5"
         
     #     model = load_model(model_path)
