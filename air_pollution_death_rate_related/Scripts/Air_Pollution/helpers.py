@@ -60,6 +60,12 @@ def read_raw_data(path, list_year):
 
 
 def concat_name_county(name):
+    """
+    This function is used to concat a string of words by putting underscore between words
+    example: "new york steuben" --> "new_york_steuben"
+    @param name: string of raw name
+    @return concat_name: concated words of string by underscore
+    """
     try:
         assert name != ""
     except AssertionError as e:
@@ -164,7 +170,34 @@ def feature_engineering_for_AQI(data, lag_time = 30, county_name = "", save_path
     return {"successive code": 1, "save_path": save_path, "feature_names": df_data.columns, "data": df_data}
 
 
+def data_feature_engineering_for_test(data2019, county, predicted_date):
+    
+    ## prepare data for specific county and specific date
+    try:
+        data_state = data2019[data2019["state_county"] == county]
+    except:
+        raise AttributeError("DATAFRAME IS EMPTY!!! check data_feature_engineering_for_test function")
+    
+    data_state["predicted_date"] = pd.to_datetime(predicted_date)
+    data_state["date_diff"] = (data_state
+                               .apply(lambda x: (x["predicted_date"] - pd.to_datetime(x["date"])).days, 
+                                      axis = 1))
+    data_feature = data_state[data_state["date_diff"] >0]
+    data_feature = data_feature.sort_values(by=["date"]).iloc[:30, :]
+
+    ## feature engineering
+    data_feature_temp= (helpers
+                        .feature_engineering_for_AQI(
+                            data_feature, 30, 
+                            county, 
+                            "../../Data/Air_Pollution/county_features_data/county_features_test/"))
+    return data_feature_temp
+
+
 def clean_county_code_data(county_code):
+    """
+    This function is used to clean county_code dataframe
+    """
         
     county_code['County'].replace(regex=True,inplace=True,to_replace=r' County',value=r'')
     county_code["County"] = county_code["County"].apply(lambda x: str(x).lower().strip())
@@ -197,6 +230,7 @@ def plot_results(predicted_data, true_data):
     
 def load_test_data(dataframe, scaler):
     """
+    This function is used to set up 
     """
     
     if dataframe.shape[0] == 1:

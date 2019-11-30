@@ -27,25 +27,6 @@ import pickle
 
 warnings.filterwarnings("ignore")
 
-def data_feature_engineering_for_test(data2019, county):
-    
-    ## prepare data for specific county and specific date
-    data_state = data2019[data2019["state_county"] == county]
-    data_state["predicted_date"] = pd.to_datetime(predicted_date)
-    data_state["date_diff"] = (data_state
-                               .apply(lambda x: (x["predicted_date"] - pd.to_datetime(x["date"])).days, 
-                                      axis = 1))
-    data_feature = data_state[data_state["date_diff"] >0]
-    data_feature = data_feature.sort_values(by=["date"]).iloc[:30, :]
-
-    ## feature engineering
-    data_feature_temp= (helpers
-                        .feature_engineering_for_AQI(
-                            data_feature, 30, 
-                            county, 
-                            "../../Data/Air_Pollution/county_features_data/county_features_test/"))
-    return data_feature_temp
-
 def main():
     
     data2019_raw = pd.read_csv("../../Data/Air_Pollution/data_air_raw/daily_aqi_by_county_2019.csv")
@@ -56,9 +37,9 @@ def main():
     predicted_date = "2019-03-12"
       
     # for county in list(data2019["state_county"].unique()):
-    or county in ["binhthuan"]:
+    for county in ["binhthuan"]:
    
-        data_feature_temp = data_feature_engineering_for_test(data2019, county)
+        data_feature_temp = helpers.data_feature_engineering_for_test(data2019, county, predicted_date)
         
         ## load model to predict AQI
         print("---> Loading model for county {} ...".format(county))

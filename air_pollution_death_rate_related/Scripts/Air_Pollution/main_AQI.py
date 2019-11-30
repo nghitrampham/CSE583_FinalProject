@@ -21,7 +21,7 @@ from pandas import concat
 
 warnings.filterwarnings("ignore")
 
-def load_data(filename, seq_len):
+def load_data(filename):
     """
     AQI = Air Quality Index
     This function is used to load training data set for deep learning AQI model.
@@ -98,7 +98,7 @@ if __name__ =='__main__':
     for county in county_list:
     
         global_time = time.time()
-        [X_train, y_train, X_test, y_test], scaler = load_data(root + county + "_feature.csv", seq_len)
+        [X_train, y_train, X_test, y_test], scaler = load_data(root + county + "_feature.csv")
      
         pickle.dump(scaler, open("../../Trained_Model/MinMax_scaler_model/" + county + "_scaler.pickle", "wb"))
        
@@ -123,4 +123,3 @@ if __name__ =='__main__':
         
         del model, X_train, y_train, X_test, y_test, model_name, predictions  # deletes the existing model
 
-        
