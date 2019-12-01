@@ -17,20 +17,28 @@ from Scripts.Air_Pollution import main_AQI
 from pandas import read_csv
 from pandas import DataFrame
 from pandas import concat
+from keras.models import load_model
 
 warnings.filterwarnings('ignore')
 
-PATH = r'../../Data/Air_Pollution/data_air_raw/daily_aqi_by_county_'
 root = r'../../Data/Air_Pollution/county_features_data/county_features_train/florida_bay_feature.csv'
-list_year = [2018]
 
-def test_load_data()
+def test_load_data():
 
-	[X_train, y_train, X_test, y_test], scaler = main_AQI.load_data(filename)
+	[X_train, y_train, X_test, y_test], scaler = main_AQI.load_data(root)
 
-	assert X_train.shape == (,)
-	assert y_train.shape == (,)
-	assert X_test.shape == (,)
-	assert y_test.shape == (,)
+	assert X_train.shape == (821, 1, 38)
+	assert y_train.shape == (821,)
+	assert X_test.shape == (205, 1, 38)
+	assert y_test.shape == (205,)
 
-	
+
+def test_predict_point_by_point():
+
+	model_path = "../../Trained_model/county_AQI_model/florida_bay_model.h5"
+	model = load_model(model_path)
+	[X_train, y_train, X_test, y_test], scaler = main_AQI.load_data(root)
+	predictions = helpers.predict_point_by_point(model, X_test)
+	assert predictions.shape == (205,)
+
+

@@ -7,7 +7,7 @@ import math
 import matplotlib.pyplot as plt
 import argparse
 import pickle
-import helpers
+from . import helpers
 
 from keras.models import load_model
 from numpy import newaxis

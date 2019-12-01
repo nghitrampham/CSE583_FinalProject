@@ -1,3 +1,7 @@
+"""
+This module contains all functions that help to clean raw data, genreating feature engineering,
+general helpers functions, plotting functions, etc. 
+"""
 import pandas as pd
 from pandas import read_csv
 from pandas import DataFrame
@@ -84,6 +88,13 @@ def concat_name_county(name):
 
 
 def compute_lag_time_series_features(df_feature, lag_time = 30):
+    """
+    This function is used to compute lag features i.e we look at Air Quality Index in previous days
+    (look back 30 days), and take the historical AQIs as our features to input to model
+    @param df_features: dataframe contains basic features such as date, AIQ of one day, state, county name, etc.
+    @param lag_time: how many days we want to look back 
+    @return lag_features: dataframe contains all lag features, which are historical AQI.
+    """
     
     assert df_feature.shape[0] >= 1
     
@@ -107,8 +118,10 @@ def compute_lag_time_series_features(df_feature, lag_time = 30):
     return lag_features
 
 def data_cleaning(data_raw):
-    
-    """ Taking raw air pollution data each year and clean it before feature engineering
+    """ 
+    This function is used to take raw air pollution data each year and clean it before feature engineering
+    @param data_raw: raw data read in from .csv file
+    @return data_raw: return cleaned dataframe
     """
     try:
         assert data_raw.shape != (0,0)
@@ -134,11 +147,16 @@ def data_cleaning(data_raw):
 
 def feature_engineering_for_AQI(data, lag_time = 30, county_name = "", save_path = ""):
     """
-    test: make sure save_path is not empty, data row > 10, data have enough columns, 
+    This function is used to generate features for train dataset
+    @param data: raw data from 2016 to 2018
+    @param lag_time: how many days we want to look back to see the AQI pattern in history.
+    @param county_name: the county that is of our interest
+    @param save_path: where to save our features 
+    @return dict: contains all info of outputed data such as columns name, save path, etc.
     """
     
     try:
-        df_state = data[data["state_county"] == county_name]
+        dsf_state = data[data["state_county"] == county_name]
     except:
         raise AttributeError("DATAFRAME IS EMPTY !!!!!")
 
@@ -171,6 +189,13 @@ def feature_engineering_for_AQI(data, lag_time = 30, county_name = "", save_path
 
 
 def data_feature_engineering_for_test(data2019, county, predicted_date):
+    """
+    This function is used to generate feature engineering for test data.
+    @param data2019: dataframe loaded from .csv file of 2019, since we use data from 2019 as our test data
+    @param county: the county that we are interested in
+    @param predicted_data: day that we are concerned
+    @return  data_feature_temp: return features that are ready to input to model.
+    """
     
     ## prepare data for specific county and specific date
     try:
@@ -194,25 +219,14 @@ def data_feature_engineering_for_test(data2019, county, predicted_date):
     return data_feature_temp
 
 
-def clean_county_code_data(county_code):
-    """
-    This function is used to clean county_code dataframe
-    """
-        
-    county_code['County'].replace(regex=True,inplace=True,to_replace=r' County',value=r'')
-    county_code["County"] = county_code["County"].apply(lambda x: str(x).lower().strip())
-    county_code["County"] = county_code["County"].apply(lambda x: helpers.concat_name_county(x))
-    county_code["State"] = county_code["State"].apply(lambda x: str(x).lower().strip())
-    county_code["State"] = county_code["State"].apply(lambda x: helpers.concat_name_county(x))
-    county_code["state_county"] = county_code["State"] + "_" + county_code["County"] 
-    county_code["state_county"] = county_code["state_county"].apply(lambda x: x.lower())
-
-    return county_code
-
-
 ######### GENERAL HELPER FUNCTIONS ########################
 
 def predict_point_by_point(model, data):
+    """
+    This function is used to predict AQI in the next day 
+    @param model: trained model
+    @param data: features that model uses to predict AQI next day
+    """
     print('Predicting Single Point ...')
     predicted = model.predict(data)
     predicted = np.reshape(predicted, (predicted.size,))
@@ -220,6 +234,12 @@ def predict_point_by_point(model, data):
 
 
 def plot_results(predicted_data, true_data):
+    """
+    This function is used to plot predicted time series values vs true values to see the trend
+    @param predicted_data: AQI predicted values from model 
+    @param true_data: true AQI obtained from raw dataset
+    @return: plot predicted_data vs true_data
+    """
     fig = plt.figure(facecolor='white')
     ax = fig.add_subplot(111)
     ax.plot(true_data, label='True Data')
@@ -230,7 +250,10 @@ def plot_results(predicted_data, true_data):
     
 def load_test_data(dataframe, scaler):
     """
-    This function is used to set up 
+    This function is used to scale the features for test data before inputing into deep neural net
+    @oaram dataframe: dataframe contains features of test data for a county
+    @param scaler: sklearn.preprocessing.MinMaxScaler
+    @return [x_test, y_test]: x_test contains all scaled features and y_test contains scaled labels
     """
     
     if dataframe.shape[0] == 1:
