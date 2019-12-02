@@ -1,11 +1,11 @@
 '''Tests the functions in healthdata_module.py, which are used to clean the health data'''
 import pandas as pd
-import healthdata_module
-import healthdata_cleanup
+from ..Scripts import healthdata_module
+from ..Scripts import healthdata_cleanup
 
 #Test data
-DF1 = pd.read_csv('./DeathRate_Data/test_data_1.csv')
-DF2 = pd.read_csv('./DeathRate_Data/test_data_2.csv')
+DF1 = pd.read_csv('../Data/test_data_1.csv')
+DF2 = pd.read_csv('../Data/test_data_2.csv')
 
 def test_func_changing_names():
     '''Testing the first function, renaming columns.'''
