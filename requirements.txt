@@ -53,7 +53,7 @@ future==0.17.1
 gast==0.3.2
 gevent==1.4.0
 glob2==0.6
-gmpy2==2.0.8
+#gmpy2==2.0.8
 google-pasta==0.1.7
 greenlet==0.4.15
 grpcio==1.16.1
@@ -121,7 +121,7 @@ pandas==0.24.2
 pandocfilters==1.4.2
 parso==0.3.4
 partd==0.3.10
-path.py==11.5.0
+#path.py==11.5.0
 pathlib2==2.3.3
 patsy==0.5.1
 pep8==1.7.1
@@ -142,11 +142,11 @@ pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
 pycrypto==2.6.1
-pycurl==7.43.0.2
+#pycurl==7.43.0.2
 pyflakes==2.1.1
 Pygments==2.3.1
 pylint==2.3.1
-pyodbc==4.0.26
+#pyodbc==4.0.26
 pyOpenSSL==19.0.0
 pyparsing==2.3.1
 pyrsistent==0.14.11
