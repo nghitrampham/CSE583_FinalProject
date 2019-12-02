@@ -3,11 +3,12 @@ import os
 import pandas as pd
 import numpy as np
 from . import healthdata_module as hm
+from ..Data import *
 
 ##Importing datasets as dataframes
 
 #dataframe of state names and abbreviations
-#STATE_ABREVS = pd.read_csv('../Data/state_abrevs/state_abrevs.csv', sep=',')
+STATE_ABREVS = pd.read_csv('../Data/state_abrevs/state_abrevs.csv', sep=',')
 
 #Dataframe of state populations from 2000-2010
 STATE_POPS_2000 = pd.read_csv('../Data/population_data/co-est00int-tot.csv', encoding='latin-1')
