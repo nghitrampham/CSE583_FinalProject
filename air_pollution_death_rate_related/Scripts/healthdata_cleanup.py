@@ -2,22 +2,22 @@
 import os
 import pandas as pd
 import numpy as np
-import healthdata_module as hm
+from . import healthdata_module as hm
 
 ##Importing datasets as dataframes
 
 #dataframe of state names and abbreviations
-STATE_ABREVS = pd.read_csv('./DeathRate_Data/state_abrevs/state_abrevs.csv', sep=',')
+STATE_ABREVS = pd.read_csv('../Data/state_abrevs/state_abrevs.csv', sep=',')
 
 #Dataframe of state populations from 2000-2010
-STATE_POPS_2000 = pd.read_csv('./DeathRate_Data/population_data/co-est00int-tot.csv', encoding='latin-1')
+STATE_POPS_2000 = pd.read_csv('../Data/population_data/co-est00int-tot.csv', encoding='latin-1')
 #Dataframe of state populations from 2010-2018
-STATE_POPS_2010 = pd.read_csv('./DeathRate_Data/population_data/co-est2018-alldata.csv', encoding='latin-1')
+STATE_POPS_2010 = pd.read_csv('../Data/population_data/co-est2018-alldata.csv', encoding='latin-1')
 
 #Importing the .csv files for death rates from each year and merging them into one df
 COUNTIES_DATA = pd.DataFrame()
-for file in os.listdir('./DeathRate_Data/county_data'):
-    new_year = pd.read_csv('./DeathRate_Data/county_data/' + file, sep='\t', na_filter=False)
+for file in os.listdir('../Data/county_data'):
+    new_year = pd.read_csv('../Data/county_data/' + file, sep='\t', na_filter=False)
     COUNTIES_DATA = pd.concat([COUNTIES_DATA, new_year], axis=0, sort=True)
 
 #Getting rid of extra columns in death rates df
