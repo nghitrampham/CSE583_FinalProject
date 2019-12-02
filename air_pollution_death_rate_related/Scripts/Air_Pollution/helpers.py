@@ -156,7 +156,7 @@ def feature_engineering_for_AQI(data, lag_time = 30, county_name = "", save_path
     """
     
     try:
-        dsf_state = data[data["state_county"] == county_name]
+        df_state = data[data["state_county"] == county_name]
     except:
         raise AttributeError("DATAFRAME IS EMPTY !!!!!")
 
@@ -211,8 +211,7 @@ def data_feature_engineering_for_test(data2019, county, predicted_date):
     data_feature = data_feature.sort_values(by=["date"]).iloc[:30, :]
 
     ## feature engineering
-    data_feature_temp= (helpers
-                        .feature_engineering_for_AQI(
+    data_feature_temp= (feature_engineering_for_AQI(
                             data_feature, 30, 
                             county, 
                             "../../Data/Air_Pollution/county_features_data/county_features_test/"))
