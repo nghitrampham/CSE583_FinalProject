@@ -11,13 +11,13 @@ the correlation method is by pearson
 '''
 
 
-pd_death_rate = pd.read_csv("../Data/deathrate_countydata.csv")
+pd_death_rate = pd.read_csv("air_pollution_death_rate_related/Data/deathrate_countydata.csv")
 
 air_dict = dict()
 list_year=pd_death_rate["Year"].unique()#unique get the list of the year
 #get all the datas in the dict
 for year in list_year:
-    air_dict[year] = pd.read_csv("../Data/Air_Pollution/data_air_raw/daily_aqi_by_county_"+str(year)+".csv")
+    air_dict[year] = pd.read_csv("air_pollution_death_rate_related/Data/Air_Pollution/data_air_raw/daily_aqi_by_county_"+str(year)+".csv")
 
 
 def get_data_from_specifc_state(df, state_code):

@@ -1,12 +1,10 @@
 import sys
 import pandas as pd
 import numpy as np
+from ..Scripts import correlation_county
 
-sys.path.insert(1, '../Scripts')
-import correlation_county
-
-DF_TEST_DEATH = pd.read_csv("../Data/deathrate_countydata.csv")
-DF_TEST_AIR = pd.read_csv("../Data/Air_Pollution/data_air_raw/daily_aqi_by_county_2010.csv")
+DF_TEST_DEATH = pd.read_csv("air_pollution_death_rate_related/Data/deathrate_countydata.csv")
+DF_TEST_AIR = pd.read_csv("air_pollution_death_rate_related/Data/Air_Pollution/data_air_raw/daily_aqi_by_county_2010.csv")
 
 
 def test_get_data_from_specifc_state():

@@ -12,7 +12,7 @@ import pytest
 
 
 from numpy import newaxis
-from Scripts.Air_Pollution import helpers
+from ..Scripts.Air_Pollution import helpers
 from pandas import read_csv
 from pandas import DataFrame
 from pandas import concat
@@ -107,51 +107,51 @@ def test_feature_engineering_for_AQI():
 
 def test_concat_name_county():
 
-	case1 = "louisiana east baton    rouge"
-	result1 = "louisiana_east_baton_rouge"
-	concated_name1 = helpers.concat_name_county(case1)
+    case1 = "louisiana east baton    rouge"
+    result1 = "louisiana_east_baton_rouge"
+    concated_name1 = helpers.concat_name_county(case1)
 
-	case2 = "alabama baldwin"
-	result2 = "alabama_baldwin"
-	concated_name2 = helpers.concat_name_county(case2)
+    case2 = "alabama baldwin"
+    result2 = "alabama_baldwin"
+    concated_name2 = helpers.concat_name_county(case2)
 
 
-	assert concated_name1 == result1
-	assert concated_name2 == result2
+    assert concated_name1 == result1
+    assert concated_name2 == result2
 
 
 
 def test_compute_lag_time_series_features():
 
-	df_state = DATA[DATA["state_county"] == "alabama_baldwin"]
-	df_state["date"] = df_state["Date"].apply(lambda x: pd.to_datetime(x))
-	df_state["current_date"] = df_state["date"].dt.day
-	df_state["current_month"] = df_state["date"].apply(lambda x: x.month)
-	df_state['day_of_week'] = df_state['date'].dt.weekday_name
+    df_state = DATA[DATA["state_county"] == "alabama_baldwin"]
+    df_state["date"] = df_state["Date"].apply(lambda x: pd.to_datetime(x))
+    df_state["current_date"] = df_state["date"].dt.day
+    df_state["current_month"] = df_state["date"].apply(lambda x: x.month)
+    df_state['day_of_week'] = df_state['date'].dt.weekday_name
 
-	day_df = pd.get_dummies(df_state["day_of_week"], prefix="day")
-	df_temp = pd.concat([df_state, day_df], axis = 1)
+    day_df = pd.get_dummies(df_state["day_of_week"], prefix="day")
+    df_temp = pd.concat([df_state, day_df], axis = 1)
 
-	df_feature = df_temp[list(day_df.columns) + ["AQI", "current_date", "current_month", "date"]]
-	df_feature = df_feature.sort_values(by=["date"])
+    df_feature = df_temp[list(day_df.columns) + ["AQI", "current_date", "current_month", "date"]]
+    df_feature = df_feature.sort_values(by=["date"])
 
-	df_lag_features = helpers.compute_lag_time_series_features(df_feature)
+    df_lag_features = helpers.compute_lag_time_series_features(df_feature)
 
-	cols = ['AQI', 'lag_1', 'lag_2', 'lag_3',
-			'lag_4', 'lag_5', 'lag_6', 'lag_7',
-	   		'lag_8', 'lag_9', 'lag_10', 'lag_11', 
-	   		'lag_12', 'lag_13', 'lag_14',
-	   		'lag_15', 'lag_16', 'lag_17', 
-	   		'lag_18', 'lag_19', 'lag_20', 'lag_21', 
-	   		'lag_22', 'lag_23', 'lag_24', 'lag_25', 
-	   		'lag_26', 'lag_27', 'lag_28',
-	   		'lag_29']
+    cols = ['AQI', 'lag_1', 'lag_2', 'lag_3',
+            'lag_4', 'lag_5', 'lag_6', 'lag_7',
+            'lag_8', 'lag_9', 'lag_10', 'lag_11', 
+            'lag_12', 'lag_13', 'lag_14',
+            'lag_15', 'lag_16', 'lag_17', 
+            'lag_18', 'lag_19', 'lag_20', 'lag_21', 
+            'lag_22', 'lag_23', 'lag_24', 'lag_25', 
+            'lag_26', 'lag_27', 'lag_28',
+            'lag_29']
 
-	assert list(df_lag_features.columns) == cols
-	assert df_lag_features.shape[0] >= 1
-	assert df_lag_features.isnull().sum().sum() == 0
-	assert df_lag_features.max().max() < 400
-	assert df_lag_features.min().min() > 0
+    assert list(df_lag_features.columns) == cols
+    assert df_lag_features.shape[0] >= 1
+    assert df_lag_features.isnull().sum().sum() == 0
+    assert df_lag_features.max().max() < 400
+    assert df_lag_features.min().min() > 0
 
 
 
