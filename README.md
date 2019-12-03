@@ -24,7 +24,8 @@ We will have pollution data from the EPA from 2000 - 2017.<br />https://aqs.epa.
 We will have death rates due to respiratory illness from the CDC from 2000-2017 as well.  The data is organized as .csv files which have columns of county in the United States, the number of deaths per year, and total population.<br />https://www.nber.org/data/vital-statistics-mortality-data-multiple-cause-of-death.html
 
 
-
+### Interactive map 
+For details on how to use Interative map. See Examples. 
 
 ### Organization of the project
 
