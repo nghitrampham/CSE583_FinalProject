@@ -1,12 +1,8 @@
 import pandas as pd
 import os
+import numpy as np
 from itertools import chain
 
-pd_death_rate = pd.read_csv("death_rate.cvs")
-pd_data_airquality = pd.read_csv("daily_aqi_by_county_2010.csv")
-
-air_dict = dict()
-DIR = "air_data"
 '''
 This python document is used to find the correlation
 between air-polutions and the death rate
@@ -14,7 +10,23 @@ index is the mean value per month
 the correlation method is by pearson
 '''
 
+
+pd_death_rate = pd.read_csv("../Data/deathrate_countydata.csv")
+
+air_dict = dict()
+list_year=pd_death_rate["Year"].unique()#unique get the list of the year
+#get all the datas in the dict
+for year in list_year:
+    air_dict[year] = pd.read_csv("../Data/Air_Pollution/data_air_raw/daily_aqi_by_county_"+str(year)+".csv")
+
+
 def get_data_from_specifc_state(df, state_code):
+    '''
+    input from the death dataframe
+    :param df: dataframe
+    :param state_code:  the state code
+    :return: dataframe
+    '''
     try:
         assert (state_code >= 0) & (state_code <= 100)
     except AssertionError as e:
@@ -57,6 +69,7 @@ def get_the_county_code_air_list(df, state):
 
 def get_the_county_code_death_list(df, state):
     # get the air data list from the county code
+    #dataframe :  death
     return get_the_county_code_list(get_data_from_specifc_state(df, state))
 
 
@@ -89,7 +102,7 @@ def convert_county_code(digit5_2_two):
         e.args += ('Wrong input', "check convert_county_code function")
         raise
     state=int(digit5_2_two/1000)
-    county = digit5_2_two%1000
+    county = digit5_2_two % 1000
     return state,county
 
 
@@ -105,7 +118,7 @@ def convert_county_code_2_2_5(state,county):
     except AssertionError as e:
         e.args += ('Wrong input', "check convert_county_code function")
         raise
-    digit2_2_5=state*1000+county
+    digit2_2_5 = state * 1000 + county
     return digit2_2_5
 
 
@@ -116,15 +129,25 @@ def get_the_month_air_data(df, countyCode, statecode, month, year):
     '''
     return:
     df2: orgnized data looked by the county code and the state code
-    mean: the corresponding meanresult of the the year
+    mean: the corresponding mean result of the the month of a certain year
     '''
     try:
-        assert countyCode is int
-        assert statecode <= 1000
-        assert month <= 12
-        assert year is int
+        assert (type(countyCode) == int) | (type(countyCode) == np.int64)
     except AssertionError as e:
-        e.args += ('Wrong input condition', "check get_the_month_air_data function")
+        e.args += ('Wrong input countyCode', "check get_the_month_air_data function")
+        raise
+
+    try:
+        assert statecode <= 1000
+    except AssertionError as e:
+        e.args += ('Wrong input statecode condition', "check get_the_month_air_data function")
+        raise
+
+    try:
+        assert month <= 12
+        assert type(year) is int
+    except AssertionError as e:
+        e.args += ('Wrong input month and year condition', "check get_the_month_air_data function")
         raise
 
     try:
@@ -146,6 +169,48 @@ def get_the_month_air_data(df, countyCode, statecode, month, year):
     return df2, mean
 
 
+def get_the_month_death_data(df, countyCode, statecode, month, year):
+    '''
+    :param df: dataframe of the death rate
+    :return: the monthly death rate of a certain county
+            type is int
+    # 假设只有一个值
+    # 用.values[0]去reach
+    '''
+    try:
+        assert (type(countyCode) == int) | (type(countyCode) == np.int64)
+    except AssertionError as e:
+        e.args += ('Wrong input countyCode', "check get_the_month_death_data function")
+        raise
+
+    try:
+        assert statecode <= 1000
+    except AssertionError as e:
+        e.args += ('Wrong input statecode condition', "check get_the_month_death_data function")
+        raise
+
+    try:
+        assert month <= 12
+        assert type(year) is int
+    except AssertionError as e:
+        e.args += ('Wrong input month and year condition', "check get_the_month_death_data function")
+        raise
+
+    try:
+        assert 'County Code' in list(df.columns)
+        assert 'Year' in list(df.columns)
+        assert '% of Total Deaths' in list(df.columns)
+    except AssertionError as e:
+        e.args += ('Wrong dataframe', "check get_the_month_death_data function")
+        raise
+
+    code = statecode * 1000 + countyCode
+    df2 = df.loc[df["County Code"] == code]
+    df3 = df2.loc[(df2['Year'] == year) & (df2['Month'] == month)]
+    rate = df3['% of Total Deaths']
+    return rate
+
+
 def convert_int_5tostring(int_result):
     '''convert the 5 bit int digits to string type'''
     try:
@@ -160,31 +225,34 @@ def convert_int_5tostring(int_result):
     return res
 
 
-def find_cor_given_state(state):
+def find_cor_given_state(df1_air,df2_death,year,state):
     '''
+    df1_air df of a certain year
+    df2_death df of a ertain year
     state is a number
     计算依据：mean()
     '''
     try:
         assert type(state) is int
     except AssertionError as e:
-        e.args += ('Wrong in put type (int expected)', "check find_cor_given_state function")
+        e.args += ('Wrong input type (int expected)', "check find_cor_given_state function")
         raise
     air_cor_list=[]
     year_list=[]
     list_county=[]
     list_state=[]
+    list_year = [year]
 
     for year in list_year:
         list_death_test=[]
         list_air_test=[]
-        coun = get_county_code_common(air_dict[year],pd_death_rate,state)
+        coun = get_county_code_common(df1_air,df2_death,state)
         for kc in coun:#county loop
             for i in range(12):
-                month=i+1;
-                death_data=get_the_month_death_data(pd_death_rate, kc, state,month, year)
 
-                _,air_data=get_the_month_air_data(air_dict[year], kc, state,month, year)
+                month=i+1;
+                death_data=get_the_month_death_data(df2_death, kc, state,month, year)
+                _,air_data=get_the_month_air_data(df1_air, kc, state,month, year)
                 if not death_data.empty:
                     if not np.isnan(air_data):
                         list_death_test.append(death_data.values[0])
@@ -201,43 +269,3 @@ def find_cor_given_state(state):
 
     return air_cor_list, year_list, list_county, list_state
 
-
-def throu_the_country():
-    # get the result through out the country
-    air_cor_list = []
-    year_list = []
-    county_list = []
-    state_list = []
-
-    for state in set_state_death:
-        a, b, c, d = find_cor_given_state(state)
-        air_cor_list.append(a)
-        year_list.append(b)
-        county_list.append(c)
-        state_list.append(d)
-
-    return air_cor_list, year_list, county_list, state_list
-
-
-for year in list_year:
-    # get all the datas in the dict
-    assert "daily_aqi_by_county_"+str(year)+".csv" in os.listdir(DIR)
-    air_dict[year] = pd.read_csv(DIR+"/daily_aqi_by_county_"+str(year)+".csv")
-
-
-a1,b1,c1,d1 = throu_the_country()
-
-
-a_chain = list(chain(*a1))
-b_chain = list(chain(*b1))
-c_chain = list(chain(*c1))
-d_chain = list(chain(*d1))
-
-count_code_list = []
-
-for i in range(len(a_chain)):
-    code = convert_county_code_2_2_5(d_chain[i], c_chain[i])
-    count_code_list.append(conver_int_5tostring(code))
-
-res=pd.DataFrame(list(zip(count_code_list,b_chain,a_chain)),
-                 columns=['county_code', 'year', 'correlation'])
