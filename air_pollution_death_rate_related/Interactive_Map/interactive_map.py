@@ -18,7 +18,7 @@ with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-c
     COUNTIES = json.load(response)
 
 # create pandas dataframe of Predicted AQI data
-DF = pd.read_csv("AQI_sample.csv", dtype={"fips": str})
+DF = pd.read_csv("predicted_AQI2019-03-12.csv", dtype={"fips": str})
 
 # append a zero infront of dataframe
 STRID = [] # convert county ids to strings and append a zero in front of those that are length four
@@ -230,10 +230,10 @@ County: ''' + COUNTY_NAME +'''
 
 \n Predicted AQI: ''' + AQI_VAL +'''
 
-\n Predicted Date: 11/21/2019 '''
+\n Predicted Date: 03/19/2019 '''
 
 APP_TEXT = '''
-Instructions: locate a U.S. county by panning and zooming on the U.S. map that displays the average correlation between repiratory deaths and air pollution in the upper left. Note that counties that did not have data avaliable are not included in the map.
+Instructions: locate a U.S. county by panning and zooming on the U.S. map that displays the average correlation between respiratory deaths and air pollution in the upper left. Note that counties that did not have data available are not included in the map.
 Once a county is located, click on that county to display 1) the correlation between respiratory deaths and air pollution since 2000 (upper right), 2) the predicted air quality index given the prior respiratory deaths and air pollution (text under interactive map),
 3) the air quality index (measure of air pollution) since 2000 (lower left), and 4) the percent of respiratory deaths since 2000 (lower right) for that county.
 
@@ -330,13 +330,13 @@ def update_graph(clickData):
 
     txt = '''
     #### Predicted Air Quality Index (AQI)
-    ###### A Keras Sequential model predicted the air quaity index for one day into the future given the prior air pollution and respiratory deaths.
+    ###### A Keras Sequential model predicted the air quality index for one day into the future given the prior air pollution and respiratory deaths.
     ###### AQI Ranges: (0-50: Good, 51-100: Moderate, 101-150: Unhealthy for sensitive groups, 151-200: Unhealthy, 201-300: Very unhealthy, 301-500: Hazardous)
     County: ''' + county_name +'''
 
     \n Predicted AQI: ''' + aqi_val +'''
 
-    \n Predicted Date: 11/21/2019 '''
+    \n Predicted Date: 03/19/2019 '''
 
     return txt
 
