@@ -75,10 +75,12 @@ DEATH_and_POLLUTION/
 
 To install DEATH_and_POLLUTION perform following steps:
 
-* clone the repo: git clone https://github.com/nghitrampham/CSE583_FinalProject.git
+* clone the repo: git clone https://github.com/nghitrampham/DEATH_and_POLLUTION
 * run the setup.py file: python setup.py install
 * run requirements.txt to ensure all dependencies exist : pip install -r requirements.txt
 * run interactive map: see Examples for user guide
+
+** Only for users who are intersted in predicting Air Quality Index model:
 * run train AQI model: open another terminal and go to Scripts/Airpollution/ folder
 * run $python main_AQI.py to train model 
 * run $python predict_AQI.py to predict (a server may need to run it)
