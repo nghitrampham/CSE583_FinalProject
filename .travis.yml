@@ -23,11 +23,12 @@ install:
 
 #a list of commands to run before the main script
 before_script:
-- 'flake8 air_pollution_death_rate_related'
+#- 'flake8 air_pollution_death_rate_related'
 
 #the actual commands to run
 script:
 - pytest
+- pytest --cov
 
 #generate a coverage report to send back to user
 after_success:
