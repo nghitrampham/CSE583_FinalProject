@@ -1,4 +1,4 @@
-# CSE 583 Final Project 
+# DEATH_and_POLLUTION Project
 
 [![Build Status](https://travis-ci.org/nghitrampham/DEATH_and_POLLUTION.svg?branch=master)](https://travis-ci.org/nghitrampham/DEATH_and_POLLUTION)
 [![Coverage Status](https://coveralls.io/repos/github/nghitrampham/DEATH_and_POLLUTION/badge.svg?branch=master)](https://coveralls.io/github/nghitrampham/DEATH_and_POLLUTION?branch=master)
@@ -32,7 +32,7 @@ For details on how to use Interative map. See Examples.
 The project has the following structure:
 
 ```
-CSE583_FinalProject/
+DEATH_and_POLLUTION/
   |- README.md
   |- Death_Air_Pollution/
      |- Data/
@@ -73,7 +73,7 @@ CSE583_FinalProject/
 
 ### Installation
 
-To install AirPollution_Death perform following steps:
+To install DEATH_and_POLLUTION perform following steps:
 
 * clone the repo: git clone https://github.com/nghitrampham/CSE583_FinalProject.git
 * run the setup.py file: python setup.py install
@@ -83,16 +83,7 @@ To install AirPollution_Death perform following steps:
 * run $python main_AQI.py to train model 
 * run $python predict_AQI.py to predict (a server may need to run it)
 
-<!-- * go to Scripts folder: cd UWHousing/Scripts
-* properly set data path os.environ ["SALES_DATA_PATH"](\UWHousingTeam\data) and 
-  os.environ["SALES_DATA_FILE"] ('Merged_Data.csv') follow instructions in the house_price_model_2.py file
-* run bokeh server: bokeh serve --port 5001 part1_predict_price.py
-* Open another terminal and go to Scripts folder: cd UWHousing/Scripts
-* run bokeh server: bokeh serve --port 5002 part2_bid_price.py
-* Open another terminal and go to Scripts folder: cd UWHousing/Scripts
-* run bokeh server: bokeh serve --port 5003 part3_monthly_cost.py
-* go to landing page http://housing-prediction.azurewebsites.net/UWHousingTeam/html_landing_page/
-* follow the User_Guide in examples folder  -->
+
 
 
 
