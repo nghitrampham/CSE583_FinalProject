@@ -1,9 +1,7 @@
 import sys
 import pandas as pd
 import numpy as np
-
-sys.path.insert(1, '../Scripts')
-import correlation_county
+from ..Scripts import correlation_county
 
 DF_TEST_DEATH = pd.read_csv("../Data/deathrate_countydata.csv")
 DF_TEST_AIR = pd.read_csv("../Data/Air_Pollution/data_air_raw/daily_aqi_by_county_2010.csv")
