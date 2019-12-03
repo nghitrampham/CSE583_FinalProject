@@ -1,6 +1,6 @@
 # CSE 583 Final Project 
 
-[![Build Status](https://travis-ci.org/nghitrampham/CSE583_DEATH_and_POLLUTION.svg?branch=master)](https://travis-ci.org/nghitrampham/CSE583_DEATH_and_POLLUTION)
+[![Build Status](https://travis-ci.org/nghitrampham/DEATH_and_POLLUTION.svg?branch=master)](https://travis-ci.org/nghitrampham/DEATH_and_POLLUTION)
 
 
 ![Alt text](logos/ReadMe.jpg?raw=true "Title")
