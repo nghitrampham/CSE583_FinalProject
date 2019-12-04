@@ -27,7 +27,7 @@ before_script:
 
 #the actual commands to run
 script:
-- pytest --cov=air_pollution_death_rate_related/Scripts/
+- pytest
 
 #generate a coverage report to send back to user
 after_success:
