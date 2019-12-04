@@ -87,7 +87,7 @@ def build_model(layers):
 
 if __name__ =='__main__':
 
-    root = "../../Data/Air_Pollution/county_features_data/county_features_train/"
+    root = "air_pollution_death_rate_related/Data/Air_Pollution/county_features_data/county_features_train/"
     
     county_df = pd.read_csv("../../Data/Air_Pollution/data_misc/all_county_names.csv")
     county_list = list(county_df["state_county"].unique())
@@ -100,7 +100,7 @@ if __name__ =='__main__':
         global_time = time.time()
         [X_train, y_train, X_test, y_test], scaler = load_data(root + county + "_feature.csv")
      
-        pickle.dump(scaler, open("../../Trained_Model/MinMax_scaler_model/" + county + "_scaler.pickle", "wb"))
+        pickle.dump(scaler, open("air_pollution_death_rate_related/Trained_Model/MinMax_scaler_model/" + county + "_scaler.pickle", "wb"))
        
         if X_train == []:
             continue
@@ -117,7 +117,7 @@ if __name__ =='__main__':
         
         model_name = str(county) + "_model.h5"
         
-        model.save('../../Trained_Model/county_AQI_model/' + model_name)  # creates a HDF5 file 'my_model.h5'
+        model.save('air_pollution_death_rate_related/Trained_Model/county_AQI_model/' + model_name)  # creates a HDF5 file 'my_model.h5'
         predictions = helpers.predict_point_by_point(model, X_test)
         helpers.plot_results(predictions, y_test)
         
