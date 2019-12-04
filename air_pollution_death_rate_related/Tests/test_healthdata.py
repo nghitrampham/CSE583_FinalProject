@@ -59,7 +59,7 @@ def test_every_col_final():
 
 #Testing that specific columns have a specific type
 def test_correct_type_code():
-    '''Testing taht specific columns have a specific type'''
+    '''Testing that specific columns have a specific type'''
     type0 = str
     for row in healthdata_cleanup.ALL_YEARS.index:
         assert type(healthdata_cleanup.ALL_YEARS['County Code'][row]) == type0
