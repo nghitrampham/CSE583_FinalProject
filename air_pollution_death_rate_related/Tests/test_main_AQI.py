@@ -21,7 +21,7 @@ from keras.models import load_model
 
 warnings.filterwarnings('ignore')
 
-root = r'../../Data/Air_Pollution/county_features_data/county_features_train/florida_bay_feature.csv'
+root = r'air_pollution_death_rate_related/Data/Air_Pollution/county_features_data/county_features_train/florida_bay_feature.csv'
 
 def test_load_data():
 
