@@ -89,7 +89,7 @@ if __name__ =='__main__':
 
     root = "air_pollution_death_rate_related/Data/Air_Pollution/county_features_data/county_features_train/"
     
-    county_df = pd.read_csv("../../Data/Air_Pollution/data_misc/all_county_names.csv")
+    county_df = pd.read_csv("air_pollution_death_rate_related/Data/Air_Pollution/data_misc/all_county_names.csv")
     county_list = list(county_df["state_county"].unique())
     
     epochs = 100

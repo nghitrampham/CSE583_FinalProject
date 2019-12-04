@@ -29,7 +29,7 @@ warnings.filterwarnings("ignore")
 
 def main():
     
-    data2019_raw = pd.read_csv("../../Data/Air_Pollution/data_air_raw/daily_aqi_by_county_2019.csv")
+    data2019_raw = pd.read_csv("air_pollution_death_rate_related/Data/Air_Pollution/data_air_raw/daily_aqi_by_county_2019.csv")
     data2019 = helpers.data_cleaning(data2019_raw)
     
     ## initialization 
@@ -53,9 +53,9 @@ def main():
         # model = load_model(model_path)
 
         try:
-            scaler_path = "../../Trained_model/MinMax_scaler_model/" + county + "_scaler.pickle"
+            scaler_path = "air_pollution_death_rate_related/Trained_model/MinMax_scaler_model/" + county + "_scaler.pickle"
 
-            model_path = "../../Trained_model/county_AQI_model/" + county + "_model.h5"
+            model_path = "air_pollution_death_rate_related/Trained_model/county_AQI_model/" + county + "_model.h5"
             
             model = load_model(model_path)
             mm_scaler = pickle.load(open( scaler_path, "rb" ))
@@ -86,7 +86,7 @@ def main():
     f.close()
  
     ## creating dataframe containing county, state, predicted AQI, predicted date for interactive visualization map 
-    county_code = pd.read_csv("../../Data/Air_Pollution/data_misc/county_with_code.csv")
+    county_code = pd.read_csv("air_pollution_death_rate_related/Data/Air_Pollution/data_misc/county_with_code.csv")
     df_prediction = pd.read_csv("temp.csv")
     # df_prediction = pd.DataFrame({"date": pd.to_datetime(predicted_date), 
     #                               "state_county": predicted_county,
