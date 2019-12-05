@@ -284,6 +284,8 @@ APP.layout = html.Div(style={'backgroundColor': COLORS['background']}, children=
 def update_graph(clickData):
     '''
     Update air pollution graph upon clicking on a U.S. county
+    Input: FIP ID
+    Output: Updated county name and air pollution time series
     '''
     # clicked upon fip id
     fip_curr = str(clickData['points'][0]['location'])
@@ -310,6 +312,8 @@ def update_graph(clickData):
 def update_graph(clickData):
     '''
     Update predicted AQI text
+    Input: FIP ID
+    Output: Updated county name and predicted AQI value
     '''
     # clicked upon fip id
     fip_curr = str(clickData['points'][0]['location'])
@@ -346,6 +350,8 @@ def update_graph(clickData):
 def update_graph(clickData):
     '''
     Update time series correlation graph
+    Input: FIP ID
+    Output: Updated county name and correlation
     '''
     # clicked upon fip id
     fip_curr = str(clickData['points'][0]['location'])
@@ -372,6 +378,8 @@ def update_graph(clickData):
 def update_graph(clickData):
     '''
     Update time series of respiratory death rates graph
+    Input: FIP ID
+    Output: Updated county name and percent deaths time series
     '''
     # clicked upon fip id
     fip_curr = str(clickData['points'][0]['location'])
