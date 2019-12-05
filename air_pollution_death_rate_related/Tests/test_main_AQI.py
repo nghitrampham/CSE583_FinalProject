@@ -12,8 +12,8 @@ import pytest
 
 
 from numpy import newaxis
-from ..Scripts.Air_Pollution import helpers
-from ..Scripts.Air_Pollution import main_AQI
+from ..scripts.Air_Pollution import helpers
+from ..scripts.Air_Pollution import main_AQI
 from pandas import read_csv
 from pandas import DataFrame
 from pandas import concat
@@ -21,7 +21,7 @@ from keras.models import load_model
 
 warnings.filterwarnings('ignore')
 
-root = r'air_pollution_death_rate_related/Data/Air_Pollution/county_features_data/county_features_train/florida_bay_feature.csv'
+root = r'air_pollution_death_rate_related/data/Air_Pollution/county_features_data/county_features_train/florida_bay_feature.csv'
 
 def test_load_data():
 

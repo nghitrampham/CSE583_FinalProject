@@ -1,7 +1,7 @@
 '''Tests the functions in healthdata_module.py, which are used to clean the health data'''
 import pandas as pd
-from ..Scripts import healthdata_module
-from ..Scripts import healthdata_cleanup
+from ..scripts import healthdata_module
+from ..scripts import healthdata_cleanup
 
 #Test data
 DF1 = pd.read_csv('air_pollution_death_rate_related/Data/test_data_1.csv')

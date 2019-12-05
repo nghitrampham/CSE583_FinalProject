@@ -12,14 +12,14 @@ import pytest
 
 
 from numpy import newaxis
-from ..Scripts.Air_Pollution import helpers
+from ..scripts.Air_Pollution import helpers
 from pandas import read_csv
 from pandas import DataFrame
 from pandas import concat
 
 warnings.filterwarnings('ignore')
 
-PATH = r'air_pollution_death_rate_related/Data/Air_Pollution/data_air_raw/daily_aqi_by_county_'
+PATH = r'air_pollution_death_rate_related/data/Air_Pollution/data_air_raw/daily_aqi_by_county_'
 list_year = [2018]
 ### use most recent 3 years to train model
 RAW_DATA = helpers.read_raw_data(PATH, [2016, 2017, 2018])

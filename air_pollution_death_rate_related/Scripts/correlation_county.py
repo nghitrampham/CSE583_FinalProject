@@ -9,13 +9,13 @@ pylint score 8.44/10
 import pandas as pd
 import numpy as np
 
-pd_death_rate = pd.read_csv("air_pollution_death_rate_related/Data/deathrate_countydata.csv")
+pd_death_rate = pd.read_csv("air_pollution_death_rate_related/data/deathrate_countydata.csv")
 
 air_dict = dict()
 list_year = pd_death_rate["Year"].unique()#unique get the list of the year
 # get all the data in the dict
 for year_ele in list_year:
-    air_dict[year_ele] = pd.read_csv("air_pollution_death_rate_related/Data/Air_Pollution/data_air_raw/daily_aqi_by_county_"+ str(year_ele)+ ".csv")
+    air_dict[year_ele] = pd.read_csv("air_pollution_death_rate_related/data/Air_Pollution/data_air_raw/daily_aqi_by_county_"+ str(year_ele)+ ".csv")
 
 
 def get_data_from_specifc_state(df, state_code):

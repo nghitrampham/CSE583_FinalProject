@@ -2,23 +2,23 @@
 import os
 import pandas as pd
 import numpy as np
-from ..Scripts import healthdata_cleanup
+from ..scripts import healthdata_cleanup
 
 #Checking the data files
 #Check the individual health data files downloaded from the CDC
 #Check that dataframe has at least one row
 def test_rows():
     '''Testing that each dataframe has at least one row'''
-    for file in os.listdir('air_pollution_death_rate_related/Data/county_data'):
-        new_year = pd.read_csv('air_pollution_death_rate_related/Data/county_data/' + file, sep='\t', na_filter=False)
+    for file in os.listdir('air_pollution_death_rate_related/data/county_data'):
+        new_year = pd.read_csv('air_pollution_death_rate_related/data/county_data/' + file, sep='\t', na_filter=False)
         assert len(new_year.index) >= 1
 
 #Testing that the relevant columns are in the dataframe
 def test_correct_columns():
     '''Testing that the relevant columns are in the dataframe'''
     col_names = ['County', 'County Code', 'Deaths', 'Month', 'Month Code']
-    for file in os.listdir('air_pollution_death_rate_related/Data/county_data'):
-        new_year = pd.read_csv('air_pollution_death_rate_related/Data/county_data/' + file, sep='\t', na_filter=False)
+    for file in os.listdir('air_pollution_death_rate_related/data/county_data'):
+        new_year = pd.read_csv('air_pollution_death_rate_related/data/county_data/' + file, sep='\t', na_filter=False)
         for name in col_names:
             assert name in list(new_year.columns)
 
