@@ -15,7 +15,7 @@ air_dict = dict()
 list_year = pd_death_rate["Year"].unique()#unique get the list of the year
 # get all the data in the dict
 for year_ele in list_year:
-    air_dict[year_ele] = pd.read_csv("air_pollution_death_rate_related/data/Air_Pollution/data_air_raw/daily_aqi_by_county_"+ str(year_ele)+ ".csv")
+    air_dict[year_ele] = pd.read_csv("air_pollution_death_rate_related/data/air_pollution/data_air_raw/daily_aqi_by_county_"+ str(year_ele)+ ".csv")
 
 
 def get_data_from_specifc_state(df, state_code):
