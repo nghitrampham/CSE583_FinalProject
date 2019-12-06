@@ -83,7 +83,7 @@ To install DEATH_and_POLLUTION perform following steps:
 ** Only for users who are intersted in predicting Air Quality Index model:
 * run train AQI model: open another terminal and go to Scripts/Airpollution/ folder
 * run $python main_AQI.py to train model 
-* run $python predict_AQI.py to predict (a server may need to run it)
+* run $python predict_AQI.py to predict (a machine with GPU may need to run it)
 
 
 
