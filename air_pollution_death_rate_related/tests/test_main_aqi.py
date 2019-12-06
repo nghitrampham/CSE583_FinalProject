@@ -1,6 +1,6 @@
 import warnings
 
-from ..Scripts.Air_Pollution import main_aqi
+from ..scripts.air_pollution import main_aqi
 
 warnings.filterwarnings('ignore')
 
