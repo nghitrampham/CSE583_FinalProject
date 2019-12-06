@@ -1,76 +1,51 @@
 '''
 Interactive map of repiratory deaths and air pollution across U.S. counties
+Note: naming conventions confirmed by pylint
 '''
 
 import json
+from urllib.request import urlopen
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
-import numpy as np
 import pandas as pd
-import plotly.graph_objects as go
 from plotly.callbacks import Points, InputDeviceState
-from urllib.request import urlopen
+import plotly.graph_objects as go
+import load_data
 POINTS, STATE = Points(), InputDeviceState()
+
+def county(counties, fip_curr):
+    '''
+    Determine county name
+    Input: county information and fip ID
+    Output: county name
+    '''
+    # find county name associated with fip
+    for name in range(0, len(counties['features'])):
+        if fip_curr == counties['features'][name]['id']:
+            county_name = counties['features'][name]['properties']['NAME']
+        else:
+            pass
+    return county_name
 
 # Load in county geographic data
 with urlopen('https://raw.githubusercontent.com/plotly/datasets/master/geojson-counties-fips.json') as response:
     COUNTIES = json.load(response)
+# load all datasets
+# predicted aqi
+DF_ALL_AQI = load_data.load_predicted_aqi(COUNTIES)
 
-# create pandas dataframe of Predicted AQI data
-DF = pd.read_csv("predicted_AQI2019-03-12.csv", dtype={"fips": str})
+# correlation between respiratory deaths and air pollution
+DF_CORR_CORRECTED = load_data.load_correlation(COUNTIES)
 
-# append a zero infront of dataframe
-STRID = [] # convert county ids to strings and append a zero in front of those that are length four
-AQI = []
-for ID in range(0, len(DF['County Code'])):
-    CURR = str(DF['County Code'][ID])
-    if len(CURR) < 5:
-        APPEND_ID = '0' + CURR
-        STRID.append(APPEND_ID)
-        AQI.append(DF['AQI'][ID])
-    else:
-        STRID.append(str(DF['County Code'][ID]))
-        AQI.append(DF['AQI'][ID])
+# calculate mean correlation
+DF_MEAN_CORR = load_data.calc_mean_corr(COUNTIES, DF_CORR_CORRECTED)
 
-# Sub-dataframe for AQI
-DF_AQI = {'fips':STRID, 'aqi':AQI}
+# respiratory death rate
+DF_DEATH_RATE = load_data.load_deathrate(COUNTIES)
 
-COUNTY_ID = []
-COUNTY_AQI = []
-
-for COUNTY in range(0, len(COUNTIES['features'])):
-    if (COUNTIES['features'][COUNTY]['id'] in DF_AQI['fips']):
-        COUNTY_ID.append(DF_AQI['fips'][DF_AQI['fips'].index(COUNTIES['features'][COUNTY]['id'])])
-        COUNTY_AQI.append(DF_AQI['aqi'][DF_AQI['fips'].index(COUNTIES['features'][COUNTY]['id'])])
-    else:
-        COUNTY_ID.append(COUNTIES['features'][COUNTY]['id'])
-        COUNTY_AQI.append(0)
-
-# create adjusted aqi dataframe
-DF_ALL_AQI = {'fips': COUNTY_ID, 'aqi': COUNTY_AQI}
-
-# read in respiratory death and air pollution correlation data
-DF_CORR = pd.read_csv("export_cor.csv", dtype={"fips": str})
-
-# append a zero infront of dataframe
-C_ID = [] # convert county ids to strings and append a zero in front of those that are length four
-CORR = []
-YEAR_CORR = []
-for ID in range(0, len(DF_CORR['county_code'])):
-    CURR = str(DF_CORR['county_code'][ID])
-    if len(CURR) < 5:
-        APPEND_ID = '0' + CURR
-        C_ID.append(APPEND_ID)
-        CORR.append(DF_CORR['correlation'][ID])
-        YEAR_CORR.append(DF_CORR['year'][ID])
-    else:
-        C_ID.append(str(DF_CORR['county_code'][ID]))
-        CORR.append(DF_CORR['correlation'][ID])
-        YEAR_CORR.append(DF_CORR['year'][ID])
-
-# Sub-dataframe for orrelation results between respiratory death rates and air pollution
-DF_CORR_CORRECTED = pd.DataFrame(data={'fips': C_ID, 'correlation': CORR, 'year': YEAR_CORR})
+# air pollution
+DF_AIR_CORRECTED = load_data.load_air_pollution(COUNTIES)
 
 # choose an initial county
 FIP = '25025'
@@ -78,61 +53,18 @@ FIP = '25025'
 # filter data by that county
 DF_CORR_COUNTY = DF_CORR_CORRECTED[DF_CORR_CORRECTED['fips'] == FIP]
 
+# correlation figure
 FIG_CORR = go.Figure(data=go.Scatter(x=DF_CORR_COUNTY['year'], y=DF_CORR_COUNTY['correlation'], mode='lines+markers', name='lines+markers'))
 
 # find county name associated with fip
-for NAME in range(0, len(COUNTIES['features'])):
-    if FIP == COUNTIES['features'][NAME]['id']:
-        COUNTY_NAME = COUNTIES['features'][NAME]['properties']['NAME']
-    else:
-        pass
+COUNTY_NAME = county(COUNTIES, FIP)
 TITLE_NAME = 'Correlation between respiratory deaths and air pollution, County: ' + COUNTY_NAME
 FIG_CORR.update_layout(title=TITLE_NAME, xaxis_title='Year', yaxis_title='Correlation')
 FIG_CORR.update_yaxes(range=[-1, 1])
 
-# calculate the mean corr for each county
-MEAN_COUNTY_CORR = []
-COUNTY_ID = []
-for COUNTY in range(0, len(COUNTIES['features'])):
-    if (COUNTIES['features'][COUNTY]['id'] in np.array(DF_CORR_CORRECTED['fips'])):
-        COUNTY_ID.append(COUNTIES['features'][COUNTY]['id'])
-        DF_COUNTY_CORR = DF_CORR_CORRECTED[DF_CORR_CORRECTED['fips'] == COUNTIES['features'][COUNTY]['id']]
-        MEAN_COUNTY_CORR.append(np.mean(np.array(DF_COUNTY_CORR['correlation'])))
-    else:
-        COUNTY_ID.append(COUNTIES['features'][COUNTY]['id'])
-        MEAN_COUNTY_CORR.append(np.nan)
-
-DF_MEAN_CORR = pd.DataFrame(data={'fips': COUNTY_ID, 'mean_correlation': MEAN_COUNTY_CORR})
-
-F = go.FigureWidget([go.Choroplethmapbox(geojson=COUNTIES, locations=DF_MEAN_CORR['fips'], z=DF_MEAN_CORR['mean_correlation'], colorscale="Reds", zmin=min(DF_MEAN_CORR['mean_correlation']), zmax=max(DF_MEAN_CORR['mean_correlation']), marker_opacity=0.5, marker_line_width=0, colorbar_title="Mean Correlation")])
-
-# Death Rate dataframe
-DF_DR = pd.read_csv("deathrate_countydata.csv", dtype={"fips": str})
-# append a zero infront of dataframe
-STR_ID = [] # convert county ids to strings and append a zero in front of those that are length four
-DEATH_RATE = []
-YEAR = []
-for ID in range(0, len(DF_DR['County Code'])):
-    CURR = str(DF_DR['County Code'][ID])
-    if len(CURR) < 5:
-        APPEND_ID = '0' + CURR
-        STR_ID.append(APPEND_ID)
-        DEATH_RATE.append(DF_DR['% of Total Deaths'][ID])
-        ADJ_YEAR = round((DF_DR['Year'][ID]) + (DF_DR['Month'][ID] / 13), 2)
-        YEAR.append(ADJ_YEAR)
-    else:
-        STR_ID.append(str(DF_DR['County Code'][ID]))
-        DEATH_RATE.append(DF_DR['% of Total Deaths'][ID])
-        ADJ_YEAR = round((DF_DR['Year'][ID]) + (DF_DR['Month'][ID] / 13), 2)
-        YEAR.append(ADJ_YEAR)
-
-# Sub-dataframe for deathrate
-DF_DEATH_RATE = pd.DataFrame({'fips': STR_ID, 'death rate': DEATH_RATE, 'year': YEAR})
-
-# Use a fip code to filter the data by county
+# respiratory deaths figure
 COUNTY_DEATH_RATE = []
 COUNTY_YEAR = []
-FIP = '25025'
 for ID in range(0, len(DF_DEATH_RATE['fips'])):
     if FIP == DF_DEATH_RATE['fips'][ID]:
         COUNTY_DEATH_RATE.append(DF_DEATH_RATE['death rate'][ID])
@@ -142,60 +74,21 @@ for ID in range(0, len(DF_DEATH_RATE['fips'])):
 
 DF_ADJUSTED_DEATH_RATE = pd.DataFrame({'year': COUNTY_YEAR, 'death rate': COUNTY_DEATH_RATE})
 DF_SORTED_DEATH_RATE = DF_ADJUSTED_DEATH_RATE.sort_values(by=['year'])
-FIG_DEATHRATE = go.Figure(data=go.Scatter(x=DF_SORTED_DEATH_RATE['year'], y=DF_SORTED_DEATH_RATE['death rate'], mode='lines+markers', name='lines+markers'))
-
-# find county name associated with fip
-for NAME in range(0, len(COUNTIES['features'])):
-    if FIP == COUNTIES['features'][NAME]['id']:
-        COUNTY_NAME = COUNTIES['features'][NAME]['properties']['NAME']
-    else:
-        pass
 
 TITLE_NAME = 'Respiratory Deaths, County: ' + COUNTY_NAME
+FIG_DEATHRATE = go.Figure(data=go.Scatter(x=DF_SORTED_DEATH_RATE['year'], y=DF_SORTED_DEATH_RATE['death rate'], mode='lines+markers', name='lines+markers'))
 FIG_DEATHRATE.update_layout(title=TITLE_NAME, xaxis_title='Year', yaxis_title='% of Total Deaths')
 
-# read in air pollution data
-DF_AIR = pd.read_csv("combined_air_data_2000_2019.csv", dtype={"fips": str})
-
-# append a zero infront of dataframe
-STR_ID = [] # convert county ids to strings and append a zero in front of those that are length four
-AQI = []
-YEAR = []
-for ID in range(0, len(DF_AIR['county_code'])):
-    CURR = str(DF_AIR['county_code'][ID])
-    if len(CURR) < 5:
-        APPEND_ID = '0' + CURR
-        STR_ID.append(APPEND_ID)
-        AQI.append(DF_AIR['AQI'][ID])
-        ADJ_YEAR = round((DF_AIR['year'][ID]) + (DF_AIR['month'][ID]/13), 2)
-        YEAR.append(ADJ_YEAR)
-    else:
-        STR_ID.append(str(DF_AIR['county_code'][ID]))
-        AQI.append(DF_AIR['AQI'][ID])
-        ADJ_YEAR = round((DF_AIR['year'][ID]) + (DF_AIR['month'][ID]/13), 2)
-        YEAR.append(ADJ_YEAR)
-
-# Sub-dataframe for air pollution data
-DF_AIR_CORRECTED = pd.DataFrame(data={'fips': STR_ID, 'AQI': AQI, 'year': YEAR})
-
-# Initialize with a particular fip id
-FIP = '25025'
+# air pollution figure
 DF_COUNTY_AIR_POLLUTION = DF_AIR_CORRECTED[DF_AIR_CORRECTED['fips'] == FIP]
 
 # create the air pollution figure
 FIG_AIR_POLLUTION = go.Figure(data=go.Scatter(x=DF_COUNTY_AIR_POLLUTION['year'], y=DF_COUNTY_AIR_POLLUTION['AQI'], mode='lines+markers', name='lines+markers'))
-
-# find county name associated with fip
-for NAME in range(0, len(COUNTIES['features'])):
-    if FIP == COUNTIES['features'][NAME]['id']:
-        COUNTY_NAME = COUNTIES['features'][NAME]['properties']['NAME']
-    else:
-        pass
-
 TITLE_NAME = 'Air Pollution, County: ' + COUNTY_NAME
 FIG_AIR_POLLUTION.update_layout(title=TITLE_NAME, xaxis_title='Year', yaxis_title='Air Quality Index')
 
 # Display mean correlation across U.S. counties
+F = go.FigureWidget([go.Choroplethmapbox(geojson=COUNTIES, locations=DF_MEAN_CORR['fips'], z=DF_MEAN_CORR['mean_correlation'], colorscale="Reds", zmin=min(DF_MEAN_CORR['mean_correlation']), zmax=max(DF_MEAN_CORR['mean_correlation']), marker_opacity=0.5, marker_line_width=0, colorbar_title="Mean Correlation")])
 F.update_layout(mapbox_style="carto-positron", mapbox_zoom=3, mapbox_center={"lat": 37.0902, "lon": -95.7129}, title_text='Correlation Between Air Pollution and Respiratory Deaths', geo_scope='usa')
 
 # Interactive interface global parameters
@@ -207,14 +100,7 @@ APP = dash.Dash(__name__, external_stylesheets=EXTERNAL_STYLESHEETS)
 
 COLORS = {'background': '#111111', 'text': '#ffffff'}
 
-# Base Text for initialized county
-# get the county name
-for NAME in range(0, len(COUNTIES['features'])):
-    if FIP == COUNTIES['features'][NAME]['id']:
-        COUNTY_NAME = COUNTIES['features'][NAME]['properties']['NAME']
-    else:
-        pass
-
+# Base Text for initialized county for predicted aqi
 # Get the AQI for that county
 for ID in range(0, len(DF_ALL_AQI['fips'])):
     if FIP == DF_ALL_AQI['fips'][ID]:
@@ -281,26 +167,19 @@ APP.layout = html.Div(style={'backgroundColor': COLORS['background']}, children=
 # callback for updating air pollution graph
 @APP.callback(dash.dependencies.Output('air_pollution', 'figure'), [dash.dependencies.Input('correlation map', 'clickData')])
 
-def update_graph(clickData):
+def update_air_graph(click_data):
     '''
     Update air pollution graph upon clicking on a U.S. county
     Input: FIP ID
     Output: Updated county name and air pollution time series
     '''
     # clicked upon fip id
-    fip_curr = str(clickData['points'][0]['location'])
+    fip_curr = str(click_data['points'][0]['location'])
     df_air = DF_AIR_CORRECTED[DF_AIR_CORRECTED['fips'] == fip_curr]
 
     # create the air pollution figure
     fig_air = go.Figure(data=go.Scatter(x=df_air['year'], y=df_air['AQI'], mode='lines+markers', name='lines+markers'))
-
-    # find county name associated with fip
-    for name in range(0, len(COUNTIES['features'])):
-        if fip_curr == COUNTIES['features'][name]['id']:
-            county_name = COUNTIES['features'][name]['properties']['NAME']
-        else:
-            pass
-
+    county_name = county(COUNTIES, fip_curr)
     title_name = 'Air Pollution, County: ' + county_name
     fig_air.update_layout(title=title_name, xaxis_title='Year', yaxis_title='Air Quality Index')
 
@@ -309,21 +188,17 @@ def update_graph(clickData):
 # Update the predicted aqi for a county
 @APP.callback(dash.dependencies.Output('predicted_aqi', 'children'), [dash.dependencies.Input('correlation map', 'clickData')])
 
-def update_graph(clickData):
+def update_aqi_graph(click_data):
     '''
     Update predicted AQI text
     Input: FIP ID
     Output: Updated county name and predicted AQI value
     '''
     # clicked upon fip id
-    fip_curr = str(clickData['points'][0]['location'])
+    fip_curr = str(click_data['points'][0]['location'])
 
     # get the county name
-    for name in range(0, len(COUNTIES['features'])):
-        if fip_curr == COUNTIES['features'][name]['id']:
-            county_name = COUNTIES['features'][name]['properties']['NAME']
-        else:
-            pass
+    county_name = county(COUNTIES, fip_curr)
 
     # Get the AQI for that county
     for curr_id in range(0, len(DF_ALL_AQI['fips'])):
@@ -347,26 +222,20 @@ def update_graph(clickData):
 # call back for updating the correlation graph
 @APP.callback(dash.dependencies.Output('correlation', 'figure'), [dash.dependencies.Input('correlation map', 'clickData')])
 
-def update_graph(clickData):
+def update_corr_graph(click_data):
     '''
     Update time series correlation graph
     Input: FIP ID
     Output: Updated county name and correlation
     '''
     # clicked upon fip id
-    fip_curr = str(clickData['points'][0]['location'])
+    fip_curr = str(click_data['points'][0]['location'])
     # filter data by that county
     # filter data by that county
     df_corr = DF_CORR_CORRECTED[DF_CORR_CORRECTED['fips'] == fip_curr]
 
     fig_corr = go.Figure(data=go.Scatter(x=df_corr['year'], y=df_corr['correlation'], mode='lines+markers', name='lines+markers'))
-
-    # find county name associated with fip
-    for name in range(0, len(COUNTIES['features'])):
-        if fip_curr == COUNTIES['features'][name]['id']:
-            county_name = COUNTIES['features'][name]['properties']['NAME']
-        else:
-            pass
+    county_name = county(COUNTIES, fip_curr)
     title_name = 'Correlation between respiratory deaths and air pollution, County: ' + county_name
     fig_corr.update_layout(title=title_name, xaxis_title='Year', yaxis_title='Correlation')
     fig_corr.update_yaxes(range=[-1, 1])
@@ -375,14 +244,14 @@ def update_graph(clickData):
 # call back for updating the death rate graph
 @APP.callback(dash.dependencies.Output('respiratory_death_rate', 'figure'), [dash.dependencies.Input('correlation map', 'clickData')])
 
-def update_graph(clickData):
+def update_death_graph(click_data):
     '''
     Update time series of respiratory death rates graph
     Input: FIP ID
     Output: Updated county name and percent deaths time series
     '''
     # clicked upon fip id
-    fip_curr = str(clickData['points'][0]['location'])
+    fip_curr = str(click_data['points'][0]['location'])
     # Use a fip code to filter the data by county
     death_rate = []
     county_year = []
@@ -396,18 +265,10 @@ def update_graph(clickData):
     adjusted_dr = pd.DataFrame({'year': county_year, 'death rate': death_rate})
     sorted_dr = adjusted_dr.sort_values(by=['year'])
     fig_dr = go.Figure(data=go.Scatter(x=sorted_dr['year'], y=sorted_dr['death rate'], mode='lines+markers', name='lines+markers'))
-
-    # find county name associated with fip
-    for name in range(0, len(COUNTIES['features'])):
-        if fip_curr == COUNTIES['features'][name]['id']:
-            county_name = COUNTIES['features'][name]['properties']['NAME']
-        else:
-            pass
-
+    county_name = county(COUNTIES, fip_curr)
     title_name = 'Respiratory Deaths, County: ' + county_name
     fig_dr.update_layout(title=title_name, xaxis_title='Year', yaxis_title='% of Total Deaths')
     return fig_dr
-
 
 if __name__ == '__main__':
     APP.run_server(debug=False)
