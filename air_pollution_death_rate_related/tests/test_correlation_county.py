@@ -9,7 +9,7 @@ from ..scripts import correlation_county
 
 DF_TEST_DEATH = pd.read_csv("air_pollution_death_rate_related/data/deathrate_countydata.csv")
 DF_TEST_AIR = pd.read_csv("air_pollution_death_rate_related/data/" +
-                          "Air_Pollution/data_air_raw/daily_aqi_by_county_2010.csv")
+                          "air_pollution/data_air_raw/daily_aqi_by_county_2010.csv")
 
 
 def test_get_data_from_specifc_state():
