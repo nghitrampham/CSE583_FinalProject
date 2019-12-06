@@ -214,7 +214,7 @@ def data_feature_engineering_for_test(data2019, county, predicted_date):
     data_feature_temp= (feature_engineering_for_AQI(
                             data_feature, 30, 
                             county, 
-                            "air_pollution_death_rate_related/Data/Air_Pollution/county_features_data/county_features_test/"))
+                            "air_pollution_death_rate_related/data/air_pollution/county_features_data/county_features_test/"))
     return data_feature_temp
 
 
