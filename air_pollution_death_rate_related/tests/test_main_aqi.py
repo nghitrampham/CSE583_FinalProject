@@ -4,8 +4,7 @@ from ..scripts.air_pollution import main_aqi
 
 warnings.filterwarnings('ignore')
 
-ROOT = r"""air_pollution_death_rate_related/data/air_pollution/
-        county_features_data/county_features_train/florida_bay_feature.csv"""
+ROOT = r"""air_pollution_death_rate_related/data/air_pollution/county_features_data/county_features_train/florida_bay_feature.csv"""
 
 def test_load_data():
 
