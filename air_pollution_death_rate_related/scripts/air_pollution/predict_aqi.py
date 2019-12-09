@@ -1,5 +1,5 @@
 """
-This module is used to predict Air Quality Index for all available counties in 2019.
+This module is used to predict the Air Quality Index model for 2019 for all counties.
 """
 import pickle
 import warnings

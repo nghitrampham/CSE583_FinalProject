@@ -1,5 +1,5 @@
 """
-This module is used to perform feature engineering on air pollution data
+This module is mainly used to conduct feature engineering for predicting air quality index model
 """
 import warnings
 import helpers

@@ -1,15 +1,17 @@
+"""
+This module is used to train the Air Quality Index model from 2016-2018 for all counties
+"""
 import time
 import warnings
 import pickle
-
-import pandas as pd
 import numpy as np
+from sklearn.preprocessing import MinMaxScaler
+import pandas as pd
+
 
 from keras.layers.core import Dense, Activation, Dropout
 from keras.layers.recurrent import LSTM
 from keras.models import Sequential
-from sklearn.preprocessing import MinMaxScaler
-
 from . import helpers
 
 warnings.filterwarnings("ignore")
