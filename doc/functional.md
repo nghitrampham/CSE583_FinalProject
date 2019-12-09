@@ -5,7 +5,7 @@ Air pollution is an increasing concern across the globe as it has been linked to
 
 ### User profile
 
-We anticipate that public health officials, medical researchers, and residents who want to know their risk of living certain places will use this system.
+We anticipate that public health officials, medical researchers, and residents who want to know their risk of living certain places will use this system. We think that every person living in the United States is likely interested in the health of the air that they are breathing, but most people don't have an easy way to access that data. Likewise, they would be interested in knowing how the air pollution and air quality index in the place they are living or places they might spend time will change in the future. Further, although most people know that air pollution can have negative effects on people's health, the true harm of air pollution isn't clear to most people - as in, is it actually leading to people's deaths? We will try to answer that question for citizens and researchers in the United States.
 
 No programming knowledge will be necessary to use our system.  We will have an interactive mapping interface that anyone familiar with a smart phone (for example) would be comfortable interacting with.  It will be clickable with a mouse, but otherwise does not expect any prior technological knowledge of the user.
 
