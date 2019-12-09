@@ -5,7 +5,7 @@ Air pollution is an increasing concern across the globe as it has been linked to
 
 ### User profile
 
-We anticipate that public health officials, medical researchers, and  citizens who want to know their risk of living certain places will use this system.
+We anticipate that public health officials, medical researchers, and residents who want to know their risk of living certain places will use this system.
 
 No programming knowledge will be necessary to use our system.  We will have an interactive mapping interface that anyone familiar with a smart phone (for example) would be comfortable interacting with.  It will be clickable with a mouse, but otherwise does not expect any prior technological knowledge of the user.
 
@@ -22,8 +22,8 @@ We will have death rates due to respiratory illness from the CDC from 2000-2017 
   b. The researchers will scan the chloropleth map for areas of interest, and pan and zoom in on counties that are of interest to them. They can click on counties of interest and examine the line plots of historical data in those regions. Then if they go there to test the intervention method and monitor the data during the implementation, once the data is updated, the visualization will show if the method takes effect.
 
 #### __USE CASE 2__
-##### Any public citizen<br />
-  a. The objective is for a user (any public citizen) to choose a geographic county in order to see a representation of the correlation between respiratory death rate and air pollution as well as a predictive measure of respiratory death rate risk given this prior correlation. <br />
+##### Any public resident<br />
+  a. The objective is for a user (any public resident) to choose a geographic county in order to see a representation of the correlation between respiratory death rate and air pollution as well as a predictive measure of respiratory death rate risk given this prior correlation. <br />
   b. The expected interaction between the user (any public citizens) and our system is as follows: <br />1) The user chooses a county by clicking first on the state they are interested in and then on the county within the state on a map programmed by us, <br />2) once a county is chosen, a graph displaying the respiratory death rate, air pollution, and the correlation between the two within that county will appear, <br />3) a risk factor will also appear that corresponds to the prediction of the respiratory death rate for a week given the correlation between air pollution and respiratory death rate, and <br />4) given this risk factor, people can modify their behavior (i.e. wearing an air filter mask) to reduce their risk for respiratory illness.   
 
 
