@@ -19,6 +19,11 @@ DATA = helpers.data_cleaning(RAW_DATA) ### clean data before doing feature engin
 
 
 def test_read_raw_data():
+    """
+    This function tests read_raw_data function to make sure the data we read in 
+    have enough columns and satisfies all requirements, like number of columns, 
+    types of each columns, etc. 
+    """
     data = helpers.read_raw_data(PATH, LIST_YEAR)
     lst_col = ['State Name',
                'county Name',
@@ -49,6 +54,10 @@ def test_read_raw_data():
                 ## for each county for each day
 
 def test_data_cleaning():
+    """
+    This test is used to make sure the data after cleaning satisfies our requirements. 
+    For examples, data after cleanining should have county_code, enough columns, etc.
+    """
     cols = ['State',
             'County',
             'State Code',
@@ -71,6 +80,11 @@ def test_data_cleaning():
     assert list(data.columns) == cols
 
 def test_feature_engineering_for_aqi():
+    """
+    This test is used to make sure our function test_feature_engineering_for_aqi 
+    doing what we expect it to do. We make sure it have all features columns, in total
+    of 39 columns.
+    """
 
     feature_names = ['lag_1', 'lag_2', 'lag_3',
                      'lag_4', 'lag_5', 'lag_6',
@@ -98,6 +112,10 @@ def test_feature_engineering_for_aqi():
     assert features["data"].shape[0] >= 1
 
 def test_concat_name_county():
+    """
+    This test is used to make sure we concat county name using 
+    underscore correctly
+    """
 
     case1 = "louisiana east baton    rouge"
     result1 = "louisiana_east_baton_rouge"

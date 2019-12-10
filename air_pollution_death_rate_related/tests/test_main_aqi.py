@@ -14,10 +14,10 @@ def test_load_data():
 	This function is used to test the load_data function in main_aqi.py
 	We need to make sure it load data and split training and testing set correctly
 	"""
+	[x_train, y_train, x_test, y_test], _ = main_aqi.load_data(ROOT)
+	assert x_train.shape == (821, 1, 38)
+	assert y_train.shape == (821,)
+	assert x_test.shape == (205, 1, 38)
+	assert y_test.shape == (205,)
 
-    [x_train, y_train, x_test, y_test], _ = main_aqi.load_data(ROOT)
 
-    assert x_train.shape == (821, 1, 38)
-    assert y_train.shape == (821,)
-    assert x_test.shape == (205, 1, 38)
-    assert y_test.shape == (205,)
