@@ -1,233 +1,139 @@
-"""
-This module contains all functions that help to clean raw data, genreating feature engineering,
-general helpers functions, plotting functions, etc.
-"""
 import warnings
-import datetime as dt
 
 import pandas as pd
-from pandas import concat
 import numpy as np
-import matplotlib.pyplot as plt
+
+from ..Scripts.Air_Pollution import helpers
 
 warnings.filterwarnings('ignore')
 
-######### DATA CLEANING + FEATURE ENGINEERING ###############
-def read_raw_data(path, list_year):
-    """
-    This function is used to read all *.csv files and concatinate them into one single dataframe
-    @param path: path directory contains raw data
-    @param list_year: list containing all years that we are interested in to build model
-    @return data_raw: a dataframe containing raw data of all years (concatinate all *.csv file)
-    """
-    try:
-        assert path != " "
-        assert list_year != []
-    except AssertionError as exp:
-        exp.args += ('Path and list_year must not be empty', "check read_raw_data function")
-        raise
-    all_files = [path + str(year) + ".csv" for year in list_year]
-    current_dataframe = []
-    for filename in all_files:
-        temp = pd.read_csv(filename, index_col=None, header=0)
-        current_dataframe.append(temp)
-    data_raw = pd.concat(current_dataframe, axis=0, ignore_index=True)
-    return data_raw
-
-def concat_name_county(name):
-    """
-    This function is used to concat a string of words by putting underscore between words
-    example: "new york steuben" --> "new_york_steuben"
-    @param name: string of raw name
-    @return concat_name: concated words of string by underscore
-    """
-    try:
-        assert name != ""
-    except AssertionError as exp:
-        exp.args += ('input must not be a empty string', "check concat_name_county function")
-        raise
-    name_vector = str(name).split(" ")
-    concat_name = ""
-    for i in name_vector:
-        if i in [" ", ""]:
-            continue
-        else:
-            concat_name = concat_name + "_" + str(i)
-    return concat_name[1:].strip()
-
-def compute_lag_time_series_features(df_feature, lag_time=30):
-    """
-    This function is used to compute lag features i.e we look at Air Quality Index in previous days
-    (look back 30 days), and take the historical AQIs as our features to input to model
-    @param df_features: dataframe contains basic features such as date,
-                        AIQ of one day, state, county name, etc.
-    @param lag_time: how many days we want to look back
-    @return lag_features: dataframe contains all lag features, which are historical AQI.
-    """
-    assert df_feature.shape[0] >= 1
-    try:
-        temps = df_feature.sort_values(by=["date"])["AQI"]
-        dataframe = temps
-        col_name = ['AQI']
-        for lag_index in range(1, lag_time):
-            dataframe = concat([temps.shift(lag_index), dataframe], axis=1)
-            col_name.append('lag_' + str(lag_index))
-        dataframe.columns = col_name
-        if dataframe.shape[0] < lag_time:
-            lag_features = dataframe.iloc[-1:, :]
-            lag_features = lag_features.fillna(0)
-        else:
-            lag_features = dataframe.iloc[lag_time-1:, :]
-    except:
-        raise AttributeError("FEATURE DATAFRAME IS EMPTY !!!!!")
-    return lag_features
-
-def data_cleaning(data_raw):
-    """
-    This function is used to take raw air pollution data each year
-    and clean it before feature engineering
-    @param data_raw: raw data read in from .csv file
-    @return data_raw: return cleaned dataframe
-    """
-    try:
-        assert data_raw.shape != (0, 0)
-        assert "State Name" in data_raw.columns
-        assert "county Name" in data_raw.columns
-        assert "Date" in data_raw.columns
-    except AssertionError as exp:
-        exp.args += ('data_raw must not be empty or missing columns',
-                     "check data_cleaning function")
-        raise
-    data_raw["State Name"] = data_raw["State Name"].apply(lambda x: x.lower().strip())
-    data_raw["State Name"] = data_raw["State Name"].apply(concat_name_county)
-    data_raw["county Name"] = data_raw["county Name"].apply(lambda x: x.lower().strip())
-    data_raw["county Name"] = data_raw["county Name"].apply(concat_name_county)
-    data_raw["state_county"] = data_raw["State Name"] + "_" + data_raw["county Name"]
-    data_raw["state_county"] = data_raw["state_county"].apply(lambda x: x.lower())
-    data_raw["date"] = data_raw["Date"].apply(lambda x: dt.datetime.strptime(x, '%Y-%m-%d').date())
-    data_raw = data_raw.rename(columns={"State Name": "State", "county Name": "County"})
-    return data_raw
-
-def feature_engineering_for_aqi(data, lag_time=30, county_name="", save_path=""):
-    """
-    This function is used to generate features for train dataset
-    @param data: raw data from 2016 to 2018
-    @param lag_time: how many days we want to look back to see the AQI pattern in history.
-    @param county_name: the county that is of our interest
-    @param save_path: where to save our features
-    @return dict: contains all info of outputed data such as columns name, save path, etc.
-    """
-    try:
-        df_state = data[data["state_county"] == county_name]
-    except:
-        raise AttributeError("DATAFRAME IS EMPTY !!!!!")
-    try:
-        df_state["date"] = df_state["Date"].apply(pd.to_datetime)
-        df_state["current_date"] = df_state["date"].dt.day
-        df_state["current_month"] = df_state["date"].apply(lambda x: x.month)
-        df_state['day_of_week'] = df_state['date'].dt.weekday_name
-
-        day_df = pd.get_dummies(df_state["day_of_week"], prefix="day")
-        df_temp = pd.concat([df_state, day_df], axis=1)
-
-        df_feature = df_temp[list(day_df.columns) +
-                             ["AQI", "current_date", "current_month", "date"]
-                            ]
-        df_feature = df_feature.sort_values(by=["date"])
-
-        df_lag_features = compute_lag_time_series_features(df_feature)
-        row = np.min([df_feature.shape[0]-1, lag_time-1])
-        df_data = (
-            pd.concat([df_lag_features.drop(["AQI"], axis=1),
-                       df_feature.drop(["date"], axis=1).iloc[row:, :]], axis=1))
-        if save_path:
-            path = save_path + county_name + "_feature.csv"
-            print("---> Saving features to {}".format(path))
-            df_data.to_csv(path, index=False)
-    except:
-        raise AttributeError("DATAFRAME IS EMPTY !!!!!")
-    return {"successive code": 1,
-            "save_path": save_path,
-            "feature_names": df_data.columns,
-            "data": df_data}
+PATH = r'air_pollution_death_rate_related/Data/Air_Pollution/data_air_raw/daily_aqi_by_county_'
+LIST_YEAR = [2018]
+### use most recent 3 years to train model
+RAW_DATA = helpers.read_raw_data(PATH, [2016, 2017, 2018])
+DATA = helpers.data_cleaning(RAW_DATA) ### clean data before doing feature engineering
 
 
-def data_feature_engineering_for_test(data2019, county, predicted_date):
-    """
-    This function is used to generate feature engineering for test data.
-    @param data2019: dataframe loaded from .csv file of 2019,
-    since we use data from 2019 as our test data
-    @param county: the county that we are interested in
-    @param predicted_data: day that we are concerned
-    @return  data_feature_temp: return features that are ready to input to model.
-    """
-    ## prepare data for specific county and specific date
-    try:
-        data_state = data2019[data2019["state_county"] == county]
-    except:
-        raise AttributeError(
-            "DATAFRAME IS EMPTY!!! check data_feature_engineering_for_test function"
-            )
-    data_state["predicted_date"] = pd.to_datetime(predicted_date)
-    data_state["date_diff"] = (data_state
-                               .apply(lambda x:
-                                      (x["predicted_date"] - pd.to_datetime(x["date"])).days,
-                                      axis=1))
-    data_feature = data_state[data_state["date_diff"] > 0]
-    data_feature = data_feature.sort_values(by=["date"]).iloc[:30, :]
-    ## feature engineering
-    data_feature_temp = (feature_engineering_for_aqi(
-        data_feature, 30,
-        county,
-        """air_pollution_death_rate_related/Data/Air_Pollution/
-        county_features_data/county_features_test/"""))
-    return data_feature_temp
+def test_read_raw_data():
+    data = helpers.read_raw_data(PATH, LIST_YEAR)
+    lst_col = ['State Name',
+               'county Name',
+               'State Code',
+               'County Code',
+               'Date',
+               'AQI',
+               'Category',
+               'Defining Parameter',
+               'Defining Site',
+               'Number of Sites Reporting']
 
-######### GENERAL HELPER FUNCTIONS ########################
-def predict_point_by_point(model, data):
-    """
-    This function is used to predict AQI in the next day
-    @param model: trained model
-    @param data: features that model uses to predict AQI next day
-    """
-    print('Predicting Single Point ...')
-    predicted = model.predict(data)
-    predicted = np.reshape(predicted, (predicted.size,))
-    return predicted
+    assert data.shape == (339479, 10)
+    assert list(data.columns) == lst_col
+    assert int(data['county Name'].nunique()) > 100
+    assert int(data.Date.nunique()) > 100
+    data_dub = (data[['State Name', 'county Name']]
+                .drop_duplicates()
+                .reset_index())
+    for state, county in zip(list(data_dub['State Name']),\
+                                list(data_dub['county Name'])):
+        df = data[(data['State Name'] == state) & (data['county Name'] == county)]
+        assert (df.groupby("Date")
+                .count().unstack()
+                .reset_index()
+                .rename(columns={0: "count"})["count"].max() == 1)
+                ## make sure there is only one AQI
+                ## for each county for each day
 
-def plot_results(predicted_data, true_data):
-    """
-    This function is used to plot predicted time series values vs true values to see the trend
-    @param predicted_data: AQI predicted values from model
-    @param true_data: true AQI obtained from raw dataset
-    @return: plot predicted_data vs true_data
-    """
-    fig = plt.figure(facecolor='white')
-    axs = fig.add_subplot(111)
-    axs.plot(true_data, label='True Data')
-    plt.plot(predicted_data, label='Prediction')
-    plt.legend()
-    plt.show()
+def test_data_cleaning():
+    cols = ['State',
+            'County',
+            'State Code',
+            'County Code',
+            'Date',
+            'AQI',
+            'Category',
+            'Defining Parameter',
+            'Defining Site',
+            'Number of Sites Reporting',
+            'state_county',
+            'date']
+    data_raw = helpers.read_raw_data(PATH, LIST_YEAR)
+    data = helpers.data_cleaning(data_raw)
+    assert len(list(data.columns)) == 12
+    assert data.shape[0] > 100
+    assert np.sum([data[x].map(type).nunique() -1 for x in data.columns]) == 0
+    assert np.sum([data[x].isnull().sum() for x in data.columns]) == 0
+    assert int(data.state_county.nunique()) > 100
+    assert list(data.columns) == cols
 
-def load_test_data(dataframe, scaler):
-    """
-    This function is used to scale the features for test data before inputing into deep neural net
-    @oaram dataframe: dataframe contains features of test data for a county
-    @param scaler: sklearn.preprocessing.MinMaxScaler
-    @return [x_test, y_test]: x_test contains all scaled features and y_test contains scaled labels
-    """
-    if dataframe.shape[0] == 1:
-        pass
-    else:
-        raise Exception(
-            "Dataframe should be of size 1xn, i.e it should be one row containing all features"
-            )
-    feature_col = [col for col in dataframe.columns if col != "AQI"]
-    label_col = ["AQI"]
-    data = dataframe[feature_col + label_col]
-    test = scaler.transform(data)
-    test = np.array(test)
-    x_test = test[:, :-1]
-    y_test = test[:, -1]
-    x_test = np.reshape(x_test, (x_test.shape[0], 1, x_test.shape[1]))
-    return [x_test, y_test]
+def test_feature_engineering_for_aqi():
+
+    feature_names = ['lag_1', 'lag_2', 'lag_3',
+                     'lag_4', 'lag_5', 'lag_6',
+                     'lag_7', 'lag_8', 'lag_9',
+                     'lag_10', 'lag_11', 'lag_12',
+                     'lag_13', 'lag_14', 'lag_15',
+                     'lag_16', 'lag_17', 'lag_18',
+                     'lag_19', 'lag_20', 'lag_21',
+                     'lag_22', 'lag_23', 'lag_24',
+                     'lag_25', 'lag_26', 'lag_27',
+                     'lag_28', 'lag_29',
+                     'day_Friday', 'day_Monday',
+                     'day_Saturday', 'day_Sunday',
+                     'day_Thursday', 'day_Tuesday',
+                     'day_Wednesday', 'AQI', 'current_date',
+                     'current_month']
+
+    data_raw = helpers.read_raw_data(PATH, LIST_YEAR)
+    data_cleaned = helpers.data_cleaning(data_raw)
+    features = helpers.feature_engineering_for_aqi(data_cleaned, 30, "alabama_baldwin", "")
+
+    assert len(features) == 4
+    assert len(features['feature_names']) == 39
+    assert list(features["data"].columns) == feature_names
+    assert features["data"].shape[0] >= 1
+
+def test_concat_name_county():
+
+    case1 = "louisiana east baton    rouge"
+    result1 = "louisiana_east_baton_rouge"
+    concated_name1 = helpers.concat_name_county(case1)
+
+    case2 = "alabama baldwin"
+    result2 = "alabama_baldwin"
+    concated_name2 = helpers.concat_name_county(case2)
+
+    assert concated_name1 == result1
+    assert concated_name2 == result2
+
+def test_compute_lag_time_series_features():
+
+    df_state = DATA[DATA["state_county"] == "alabama_baldwin"]
+    df_state["date"] = df_state["Date"].apply(pd.to_datetime)
+    df_state["current_date"] = df_state["date"].dt.day
+    df_state["current_month"] = df_state["date"].apply(lambda x: x.month)
+    df_state['day_of_week'] = df_state['date'].dt.weekday_name
+
+    day_df = pd.get_dummies(df_state["day_of_week"], prefix="day")
+    df_temp = pd.concat([df_state, day_df], axis=1)
+
+    df_feature = df_temp[list(day_df.columns) + ["AQI", "current_date", "current_month", "date"]]
+    df_feature = df_feature.sort_values(by=["date"])
+
+    df_lag_features = helpers.compute_lag_time_series_features(df_feature)
+
+    cols = ['AQI', 'lag_1', 'lag_2', 'lag_3',
+            'lag_4', 'lag_5', 'lag_6', 'lag_7',
+            'lag_8', 'lag_9', 'lag_10', 'lag_11',
+            'lag_12', 'lag_13', 'lag_14',
+            'lag_15', 'lag_16', 'lag_17',
+            'lag_18', 'lag_19', 'lag_20', 'lag_21',
+            'lag_22', 'lag_23', 'lag_24', 'lag_25',
+            'lag_26', 'lag_27', 'lag_28',
+            'lag_29']
+
+    assert list(df_lag_features.columns) == cols
+    assert df_lag_features.shape[0] >= 1
+    assert df_lag_features.isnull().sum().sum() == 0
+    assert df_lag_features.max().max() < 400
+    assert df_lag_features.min().min() > 0
