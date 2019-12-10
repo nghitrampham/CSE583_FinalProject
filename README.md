@@ -1,6 +1,6 @@
 # DEATH and POLLUTION Project
 
-[![Build Status](https://travis-ci.org/nghitrampham/DEATH_and_POLLUTION.svg?branch=master)](https://travis-ci.org/nghitrampham/DEATH_and_POLLUTION)
+[![Build Status](https://travis-ci.org/nghitrampham/DEATH_and_POLLUTION.svg?branch=master)](https://travis-ci.org/nghitrampham/air_pollution_death_rate_related)
 
 ![Alt text](logos/ReadMe.jpg?raw=true "Title")
 ## Air Pollution vs Respiratory Death Rates
