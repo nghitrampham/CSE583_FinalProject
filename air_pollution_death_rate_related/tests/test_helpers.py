@@ -7,11 +7,11 @@ import warnings
 import pandas as pd
 import numpy as np
 
-from ..Scripts.Air_Pollution import helpers
+from ..scripts.air_pollution import helpers
 
 warnings.filterwarnings('ignore')
 
-PATH = r'air_pollution_death_rate_related/Data/Air_Pollution/data_air_raw/daily_aqi_by_county_'
+PATH = r'air_pollution_death_rate_related/data/air_pollution/data_air_raw/daily_aqi_by_county_'
 LIST_YEAR = [2018]
 ### use most recent 3 years to train model
 RAW_DATA = helpers.read_raw_data(PATH, [2016, 2017, 2018])

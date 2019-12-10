@@ -10,6 +10,10 @@ warnings.filterwarnings('ignore')
 ROOT = r"""air_pollution_death_rate_related/data/air_pollution/county_features_data/county_features_train/florida_bay_feature.csv"""
 
 def test_load_data():
+	"""
+	This function is used to test the load_data function in main_aqi.py
+	We need to make sure it load data and split training and testing set correctly
+	"""
 
     [x_train, y_train, x_test, y_test], _ = main_aqi.load_data(ROOT)
 
