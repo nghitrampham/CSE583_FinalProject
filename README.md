@@ -30,8 +30,7 @@ For details on how to use Interative map. See Examples.
 
 The project has the following structure:
 
-```
-DEATH_and_POLLUTION/
+air_pollution_death_rate_related/
   |- README.md
   |- air_pollution_death_rate_related/
      |- Data/
@@ -73,7 +72,7 @@ DEATH_and_POLLUTION/
 
 To install DEATH_and_POLLUTION perform following steps:
 
-* clone the repo: git clone https://github.com/nghitrampham/DEATH_and_POLLUTION
+* clone the repo: git clone https://github.com/nghitrampham/air_pollution_death_rate_related
 * run the setup.py file: python setup.py install
 * run requirements.txt to ensure all dependencies exist : pip install -r requirements.txt
 * run interactive map: see Examples for user guide
