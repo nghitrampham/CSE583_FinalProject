@@ -33,24 +33,23 @@ The project has the following structure:
 ```
 DEATH_and_POLLUTION/
   |- README.md
-  |- Death_Air_Pollution/
+  |- air_pollution_death_rate_related/
      |- Data/
-        |-Respiratory_Death/
+        |-county_data/
         	|- ...
-        |-Air_Pollution/
+        |-air_pollution/
         	|- ...
-     |- Scripts/
-        |- Model_AQI/
+     |- scripts/
+        |-air_pollution/
         	|- ...
-        |- Correlation/
-        	|- ...
-        |- Respiratory_Death/
-        	|- ...
+        |- correlation_county.py
+        |- healthdata_cleanup.py
+        |- healthdata_module.py
      |- Tests/
         |- ...
-     |- Trained_AQI_Model/ 
+     |- trained_model/ 
         |- ...
-     |- Interactive_App/
+     |- interactive_App/
      	|- interactive_map.py
      	|- associated_data/
      		|- ...
