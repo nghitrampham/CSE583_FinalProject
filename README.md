@@ -1,4 +1,4 @@
-# DEATH and POLLUTION Project
+# Air Pollution and Death Project
 
 [![Build Status](https://travis-ci.org/nghitrampham/air_pollution_death_rate_related.svg?branch=master)](https://travis-ci.org/nghitrampham/air_pollution_death_rate_related)
 
