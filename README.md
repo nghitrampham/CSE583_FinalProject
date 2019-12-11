@@ -29,7 +29,7 @@ For details on how to use Interative map. See Examples.
 ### Organization of the project
 
 The project has the following structure:
-
+```
 air_pollution_death_rate_related/
   |- README.md
   |- air_pollution_death_rate_related/
